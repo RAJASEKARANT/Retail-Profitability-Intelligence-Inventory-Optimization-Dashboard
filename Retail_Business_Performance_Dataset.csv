@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Ship_Date,Customer_ID,Customer_Name,Segment,Region,State,City,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Inventory_Days,Unit_Cost,Selling_Price,Stock_Level,Supplier,Season
+ORD00001,2024-10-16,2024-10-17,CUST7912,Customer_17,Consumer,East,MA,Boston,Technology,Laptop,Laptop Model 195,1191,3,0.0,334.47,74,285.51,397,64,Supplier B,Autumn
+ORD00002,2023-08-27,2023-09-01,CUST3615,Customer_217,Corporate,East,NY,New York,Office Supplies,Pen,Pen Model 384,2106,9,0.05,605.88,40,154.98,234,23,Supplier B,Monsoon
+ORD00003,2023-08-09,2023-08-16,CUST9785,Customer_64,Corporate,South,TX,Houston,Technology,Monitor,Monitor Model 180,406,2,0.1,80.82,10,142.29,203,255,Supplier C,Monsoon
+ORD00004,2024-10-05,2024-10-10,CUST2654,Customer_195,Corporate,South,TX,Houston,Office Supplies,Paper,Paper Model 564,358,1,0.05,74.01,15,266.09,358,139,Supplier C,Autumn
+ORD00005,2023-06-16,2023-06-19,CUST8573,Customer_195,Corporate,South,TX,Houston,Office Supplies,Binder,Binder Model 755,662,2,0.05,176.4,36,226.25,331,103,Supplier B,Monsoon
+ORD00006,2024-12-02,2024-12-05,CUST4483,Customer_256,Corporate,East,NY,New York,Technology,Monitor,Monitor Model 758,1099,7,0.0,436.59,77,94.63,157,181,Supplier D,Winter
+ORD00007,2023-05-27,2023-05-30,CUST6930,Customer_113,Consumer,West,CA,Los Angeles,Office Supplies,Pen,Pen Model 621,1386,9,0.2,198.09,79,101.19,154,224,Supplier D,Summer
+ORD00008,2023-04-04,2023-04-11,CUST8668,Customer_271,Corporate,East,NY,New York,Technology,Printer,Printer Model 666,1275,3,0.15,192.39,54,297.12,425,215,Supplier A,Summer
+ORD00009,2024-11-27,2024-12-03,CUST9201,Customer_92,Home Office,East,MA,Boston,Office Supplies,Binder,Binder Model 208,340,2,0.15,88.56,5,100.22,170,154,Supplier C,Autumn
+ORD00010,2024-10-16,2024-10-21,CUST9005,Customer_10,Consumer,West,CA,Los Angeles,Furniture,Chair,Chair Model 471,3762,9,0.2,76.68,81,325.88,418,185,Supplier C,Autumn
+ORD00011,2023-09-03,2023-09-04,CUST3103,Customer_244,Home Office,West,CA,Los Angeles,Technology,Printer,Printer Model 269,3496,8,0.0,718.48,73,347.19,437,84,Supplier C,Autumn
+ORD00012,2024-06-24,2024-07-01,CUST8177,Customer_265,Corporate,Central,IL,Chicago,Office Supplies,Pen,Pen Model 223,1540,4,0.1,385.4,90,250.15,385,211,Supplier B,Monsoon
+ORD00013,2023-08-19,2023-08-20,CUST4750,Customer_35,Consumer,South,TX,Houston,Office Supplies,Pen,Pen Model 980,1284,4,0.05,511.28,85,177.13,321,50,Supplier C,Monsoon
+ORD00014,2023-03-14,2023-03-19,CUST4981,Customer_243,Corporate,West,WA,Seattle,Office Supplies,Binder,Binder Model 294,1184,4,0.05,259.48,78,216.33,296,262,Supplier A,Summer
+ORD00015,2023-04-10,2023-04-16,CUST1993,Customer_207,Home Office,Central,OH,Columbus,Furniture,Table,Table Model 447,3696,8,0.0,1041.04,87,331.87,462,70,Supplier A,Summer
+ORD00016,2023-09-12,2023-09-14,CUST2604,Customer_26,Home Office,West,WA,Seattle,Technology,Monitor,Monitor Model 653,486,3,0.15,115.44,14,99.22,162,246,Supplier A,Autumn
+ORD00017,2023-04-06,2023-04-13,CUST1035,Customer_200,Corporate,West,CA,Los Angeles,Furniture,Table,Table Model 902,1032,8,0.15,76.8,26,100.05,129,214,Supplier D,Summer
+ORD00018,2023-10-20,2023-10-24,CUST1936,Customer_26,Home Office,Central,IL,Chicago,Technology,Monitor,Monitor Model 588,196,4,0.2,12.96,12,35.96,49,180,Supplier B,Autumn
+ORD00019,2023-02-28,2023-03-05,CUST1651,Customer_42,Corporate,East,NY,New York,Technology,Printer,Printer Model 773,730,2,0.05,218.32,77,237.59,365,146,Supplier C,Winter
+ORD00020,2023-09-25,2023-09-27,CUST8508,Customer_289,Consumer,South,TX,Houston,Furniture,Table,Table Model 175,1089,3,0.1,256.68,14,241.14,363,24,Supplier B,Autumn
+ORD00021,2024-06-02,2024-06-05,CUST9666,Customer_5,Home Office,West,WA,Seattle,Technology,Laptop,Laptop Model 936,990,6,0.05,287.52,74,108.83,165,174,Supplier C,Monsoon
+ORD00022,2024-11-10,2024-11-11,CUST4335,Customer_136,Home Office,West,WA,Seattle,Technology,Laptop,Laptop Model 600,891,9,0.1,249.12,31,61.42,99,195,Supplier C,Autumn
+ORD00023,2023-02-22,2023-02-23,CUST8239,Customer_283,Home Office,Central,OH,Columbus,Technology,Laptop,Laptop Model 537,2484,6,0.05,597.96,38,293.64,414,102,Supplier A,Winter
+ORD00024,2023-04-25,2023-04-26,CUST1653,Customer_184,Consumer,West,CA,Los Angeles,Furniture,Bookcase,Bookcase Model 798,855,9,0.15,229.23,44,55.28,95,206,Supplier B,Summer
+ORD00025,2024-11-13,2024-11-14,CUST1406,Customer_92,Home Office,South,FL,Miami,Office Supplies,Pen,Pen Model 440,1479,3,0.05,271.92,27,377.71,493,231,Supplier D,Autumn
+ORD00026,2024-11-16,2024-11-23,CUST8541,Customer_180,Corporate,West,WA,Seattle,Technology,Printer,Printer Model 940,430,2,0.0,101.2,33,164.4,215,122,Supplier B,Autumn
+ORD00027,2023-08-17,2023-08-18,CUST9785,Customer_170,Consumer,West,WA,Seattle,Furniture,Table,Table Model 218,830,2,0.1,217.64,70,264.68,415,224,Supplier C,Monsoon
+ORD00028,2023-07-02,2023-07-07,CUST7311,Customer_296,Consumer,South,TX,Houston,Technology,Printer,Printer Model 360,1372,7,0.1,330.54,70,129.18,196,79,Supplier A,Monsoon
+ORD00029,2024-12-26,2024-12-30,CUST5920,Customer_260,Corporate,East,NY,New York,Furniture,Table,Table Model 782,720,2,0.1,139.84,89,254.08,360,83,Supplier D,Winter
+ORD00030,2023-12-01,2023-12-05,CUST9977,Customer_1,Corporate,South,TX,Houston,Technology,Monitor,Monitor Model 393,2562,7,0.05,630.56,43,257.62,366,227,Supplier B,Winter
+ORD00031,2024-03-16,2024-03-23,CUST5649,Customer_264,Home Office,South,FL,Miami,Furniture,Table,Table Model 748,1124,4,0.15,114.16,26,210.31,281,63,Supplier C,Summer
+ORD00032,2023-04-06,2023-04-13,CUST8461,Customer_213,Home Office,West,WA,Seattle,Technology,Laptop,Laptop Model 689,96,3,0.0,37.32,65,19.56,32,57,Supplier B,Summer
+ORD00033,2024-12-14,2024-12-18,CUST9486,Customer_238,Consumer,Central,OH,Columbus,Technology,Laptop,Laptop Model 670,477,1,0.0,121.82,33,355.18,477,110,Supplier B,Winter
+ORD00034,2023-05-05,2023-05-09,CUST7991,Customer_281,Corporate,West,WA,Seattle,Office Supplies,Pen,Pen Model 262,2916,9,0.1,328.05,61,255.15,324,278,Supplier D,Summer
+ORD00035,2024-04-05,2024-04-08,CUST5451,Customer_172,Corporate,West,WA,Seattle,Office Supplies,Binder,Binder Model 653,640,4,0.15,179.6,41,91.1,160,140,Supplier A,Summer
+ORD00036,2023-05-22,2023-05-24,CUST7812,Customer_32,Consumer,West,WA,Seattle,Office Supplies,Paper,Paper Model 952,208,4,0.15,41.2,74,33.9,52,258,Supplier D,Summer
+ORD00037,2024-02-03,2024-02-10,CUST9947,Customer_113,Corporate,East,MA,Boston,Furniture,Chair,Chair Model 324,1032,6,0.15,89.4,58,131.3,172,295,Supplier C,Winter
+ORD00038,2024-03-22,2024-03-26,CUST1441,Customer_202,Home Office,East,MA,Boston,Furniture,Bookcase,Bookcase Model 677,2730,7,0.05,518.35,21,296.45,390,293,Supplier A,Summer
+ORD00039,2023-03-27,2023-04-02,CUST6529,Customer_195,Corporate,Central,IL,Chicago,Furniture,Chair,Chair Model 870,153,1,0.15,33.38,63,96.67,153,187,Supplier D,Summer
+ORD00040,2023-09-16,2023-09-23,CUST1508,Customer_127,Consumer,East,MA,Boston,Technology,Printer,Printer Model 959,414,9,0.1,121.68,13,27.88,46,40,Supplier A,Autumn
+ORD00041,2024-09-28,2024-09-30,CUST3749,Customer_59,Consumer,West,CA,Los Angeles,Furniture,Bookcase,Bookcase Model 418,616,2,0.05,174.78,37,205.21,308,208,Supplier A,Autumn
+ORD00042,2024-08-15,2024-08-16,CUST2669,Customer_155,Home Office,South,FL,Miami,Furniture,Bookcase,Bookcase Model 714,232,4,0.2,17.96,85,41.91,58,144,Supplier A,Monsoon
+ORD00043,2024-08-02,2024-08-09,CUST9031,Customer_55,Corporate,East,MA,Boston,Office Supplies,Binder,Binder Model 470,330,6,0.2,29.1,6,39.15,55,235,Supplier D,Monsoon
+ORD00044,2024-12-25,2024-12-27,CUST5397,Customer_166,Consumer,Central,IL,Chicago,Office Supplies,Pen,Pen Model 950,1675,5,0.2,94.35,64,249.13,335,243,Supplier A,Winter
+ORD00045,2023-10-13,2023-10-17,CUST8988,Customer_109,Corporate,West,WA,Seattle,Office Supplies,Pen,Pen Model 916,1344,7,0.0,438.69,46,129.33,192,113,Supplier C,Autumn
+ORD00046,2023-12-15,2023-12-18,CUST9041,Customer_230,Consumer,South,TX,Houston,Office Supplies,Paper,Paper Model 195,286,2,0.15,50.86,35,96.12,143,263,Supplier C,Winter
+ORD00047,2023-08-15,2023-08-19,CUST6764,Customer_233,Corporate,West,WA,Seattle,Office Supplies,Pen,Pen Model 413,1572,6,0.2,184.32,59,178.88,262,189,Supplier C,Monsoon
+ORD00048,2023-08-25,2023-08-26,CUST9595,Customer_145,Consumer,West,WA,Seattle,Technology,Printer,Printer Model 952,3690,9,0.05,1299.33,66,245.13,410,161,Supplier B,Monsoon
+ORD00049,2023-10-31,2023-11-02,CUST3068,Customer_252,Consumer,South,TX,Houston,Furniture,Chair,Chair Model 993,756,9,0.1,255.96,11,47.16,84,169,Supplier A,Autumn
+ORD00050,2024-08-10,2024-08-13,CUST2070,Customer_206,Corporate,Central,OH,Columbus,Furniture,Table,Table Model 175,138,3,0.1,15.84,66,36.12,46,78,Supplier A,Monsoon
+ORD00051,2023-06-05,2023-06-07,CUST9561,Customer_195,Corporate,South,TX,Houston,Technology,Laptop,Laptop Model 553,3699,9,0.15,549.0,84,288.35,411,135,Supplier C,Monsoon
+ORD00052,2024-08-25,2024-08-29,CUST3573,Customer_123,Consumer,South,TX,Houston,Office Supplies,Pen,Pen Model 665,820,2,0.05,199.76,38,289.62,410,61,Supplier A,Monsoon
+ORD00053,2023-06-10,2023-06-11,CUST2166,Customer_120,Corporate,Central,OH,Columbus,Office Supplies,Pen,Pen Model 906,1352,8,0.0,530.16,41,102.73,169,252,Supplier B,Monsoon
+ORD00054,2024-03-11,2024-03-12,CUST8195,Customer_64,Corporate,West,CA,Los Angeles,Furniture,Chair,Chair Model 805,100,2,0.05,20.18,81,37.41,50,167,Supplier C,Summer
+ORD00055,2024-12-17,2024-12-21,CUST1423,Customer_47,Consumer,South,FL,Miami,Furniture,Chair,Chair Model 790,400,10,0.15,46.5,82,29.35,40,148,Supplier A,Winter
+ORD00056,2024-11-19,2024-11-26,CUST9056,Customer_47,Corporate,South,TX,Houston,Technology,Monitor,Monitor Model 456,3177,9,0.15,225.54,28,274.99,353,243,Supplier D,Autumn
+ORD00057,2023-12-08,2023-12-11,CUST8451,Customer_46,Corporate,East,NY,New York,Furniture,Table,Table Model 358,1336,8,0.15,129.04,75,125.82,167,38,Supplier C,Winter
+ORD00058,2023-04-29,2023-05-06,CUST8242,Customer_27,Consumer,Central,IL,Chicago,Office Supplies,Pen,Pen Model 373,1848,8,0.0,744.96,51,137.88,231,275,Supplier B,Summer
+ORD00059,2023-10-22,2023-10-26,CUST7684,Customer_48,Consumer,Central,IL,Chicago,Technology,Printer,Printer Model 961,4290,10,0.05,954.8,44,312.07,429,27,Supplier A,Autumn
+ORD00060,2024-04-17,2024-04-18,CUST4993,Customer_234,Home Office,West,WA,Seattle,Office Supplies,Binder,Binder Model 248,3429,9,0.1,843.93,66,249.13,381,261,Supplier D,Summer
+ORD00061,2023-07-15,2023-07-20,CUST5891,Customer_297,Home Office,West,CA,Los Angeles,Furniture,Table,Table Model 601,2988,6,0.2,547.44,5,307.16,498,164,Supplier B,Monsoon
+ORD00062,2024-04-02,2024-04-07,CUST7274,Customer_120,Corporate,Central,OH,Columbus,Furniture,Bookcase,Bookcase Model 144,1917,9,0.15,128.07,29,166.82,213,142,Supplier C,Summer
+ORD00063,2024-04-29,2024-05-05,CUST2644,Customer_226,Consumer,Central,OH,Columbus,Office Supplies,Pen,Pen Model 638,819,3,0.0,342.69,80,158.77,273,189,Supplier D,Summer
+ORD00064,2023-01-16,2023-01-22,CUST6383,Customer_274,Corporate,West,WA,Seattle,Office Supplies,Paper,Paper Model 424,520,2,0.1,137.98,55,165.01,260,61,Supplier D,Winter
+ORD00065,2024-07-08,2024-07-09,CUST8269,Customer_86,Home Office,East,NY,New York,Office Supplies,Pen,Pen Model 406,680,5,0.0,232.2,17,89.56,136,71,Supplier A,Monsoon
+ORD00066,2023-02-17,2023-02-20,CUST3785,Customer_90,Consumer,East,MA,Boston,Furniture,Table,Table Model 724,658,7,0.05,175.84,77,64.18,94,112,Supplier D,Winter
+ORD00067,2024-09-26,2024-10-02,CUST8622,Customer_148,Home Office,West,WA,Seattle,Office Supplies,Paper,Paper Model 659,1024,4,0.1,240.76,90,170.21,256,24,Supplier B,Autumn
+ORD00068,2023-03-17,2023-03-21,CUST2747,Customer_122,Corporate,South,FL,Miami,Office Supplies,Binder,Binder Model 685,1265,5,0.1,379.75,54,151.75,253,267,Supplier C,Summer
+ORD00069,2024-08-11,2024-08-14,CUST5689,Customer_118,Home Office,South,TX,Houston,Office Supplies,Binder,Binder Model 921,120,5,0.2,4.05,11,18.39,24,274,Supplier C,Monsoon
+ORD00070,2023-08-13,2023-08-19,CUST6061,Customer_226,Consumer,West,WA,Seattle,Office Supplies,Pen,Pen Model 693,1023,3,0.0,229.29,87,264.57,341,40,Supplier C,Monsoon
+ORD00071,2023-05-15,2023-05-16,CUST9221,Customer_140,Consumer,South,FL,Miami,Office Supplies,Binder,Binder Model 363,366,3,0.05,74.43,51,91.09,122,291,Supplier D,Summer
+ORD00072,2023-10-30,2023-11-05,CUST2479,Customer_203,Consumer,South,TX,Houston,Furniture,Chair,Chair Model 370,1218,3,0.05,225.3,55,310.6,406,207,Supplier A,Autumn
+ORD00073,2024-04-10,2024-04-13,CUST4626,Customer_33,Home Office,South,FL,Miami,Office Supplies,Binder,Binder Model 943,730,2,0.05,205.96,84,243.77,365,187,Supplier D,Summer
+ORD00074,2024-12-18,2024-12-21,CUST3222,Customer_199,Corporate,Central,IL,Chicago,Technology,Laptop,Laptop Model 479,175,1,0.15,47.42,35,101.33,175,295,Supplier D,Winter
+ORD00075,2024-08-24,2024-08-30,CUST7070,Customer_112,Corporate,West,WA,Seattle,Office Supplies,Paper,Paper Model 555,2680,8,0.15,174.8,40,262.9,335,36,Supplier B,Monsoon
+ORD00076,2024-01-07,2024-01-08,CUST4475,Customer_11,Consumer,South,FL,Miami,Technology,Monitor,Monitor Model 905,585,5,0.0,124.45,63,92.11,117,66,Supplier C,Winter
+ORD00077,2023-09-07,2023-09-09,CUST5542,Customer_75,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 653,1300,10,0.05,413.2,23,82.18,130,21,Supplier C,Autumn
+ORD00078,2023-06-28,2023-06-29,CUST3076,Customer_216,Home Office,East,NY,New York,Technology,Monitor,Monitor Model 216,1284,4,0.1,444.32,38,177.82,321,46,Supplier A,Monsoon
+ORD00079,2024-05-02,2024-05-06,CUST5941,Customer_235,Home Office,South,TX,Houston,Furniture,Bookcase,Bookcase Model 131,1336,4,0.0,358.32,89,244.42,334,286,Supplier A,Summer
+ORD00080,2024-05-05,2024-05-12,CUST3430,Customer_34,Consumer,Central,OH,Columbus,Office Supplies,Paper,Paper Model 381,3072,8,0.15,865.12,15,218.26,384,184,Supplier C,Summer
+ORD00081,2024-01-26,2024-01-31,CUST8046,Customer_232,Consumer,South,FL,Miami,Office Supplies,Pen,Pen Model 523,490,7,0.0,116.06,88,53.42,70,130,Supplier C,Winter
+ORD00082,2024-04-09,2024-04-13,CUST2099,Customer_47,Consumer,Central,IL,Chicago,Furniture,Table,Table Model 195,2160,6,0.1,553.86,24,231.69,360,262,Supplier D,Summer
+ORD00083,2023-04-09,2023-04-15,CUST6793,Customer_217,Home Office,South,TX,Houston,Office Supplies,Paper,Paper Model 152,3070,10,0.2,514.5,20,194.15,307,230,Supplier C,Summer
+ORD00084,2024-09-06,2024-09-09,CUST7022,Customer_59,Corporate,South,TX,Houston,Office Supplies,Pen,Pen Model 687,396,4,0.15,96.6,18,60.0,99,199,Supplier B,Autumn
+ORD00085,2024-03-15,2024-03-22,CUST3972,Customer_74,Home Office,East,MA,Boston,Technology,Laptop,Laptop Model 773,1895,5,0.1,226.65,49,295.77,379,23,Supplier D,Summer
+ORD00086,2023-03-13,2023-03-15,CUST6105,Customer_167,Home Office,East,NY,New York,Office Supplies,Pen,Pen Model 710,848,4,0.15,158.24,25,140.64,212,209,Supplier A,Summer
+ORD00087,2023-02-23,2023-02-25,CUST5475,Customer_111,Home Office,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 216,1230,5,0.15,219.65,61,165.17,246,232,Supplier C,Winter
+ORD00088,2024-03-16,2024-03-17,CUST1125,Customer_105,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 316,215,5,0.05,64.75,81,27.9,43,48,Supplier B,Summer
+ORD00089,2023-09-19,2023-09-22,CUST6802,Customer_37,Corporate,South,TX,Houston,Technology,Monitor,Monitor Model 982,763,7,0.05,232.68,34,70.31,109,276,Supplier A,Autumn
+ORD00090,2024-03-22,2024-03-23,CUST2887,Customer_208,Consumer,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 432,2191,7,0.15,268.66,58,227.67,313,168,Supplier B,Summer
+ORD00091,2024-09-24,2024-09-28,CUST6083,Customer_174,Consumer,South,TX,Houston,Furniture,Chair,Chair Model 441,972,4,0.2,145.68,15,157.98,243,222,Supplier B,Autumn
+ORD00092,2023-03-20,2023-03-25,CUST3504,Customer_39,Consumer,East,NY,New York,Furniture,Table,Table Model 891,420,3,0.0,173.61,30,82.13,140,108,Supplier D,Summer
+ORD00093,2024-04-20,2024-04-27,CUST5500,Customer_29,Corporate,Central,OH,Columbus,Office Supplies,Binder,Binder Model 619,735,3,0.0,244.59,85,163.47,245,175,Supplier A,Summer
+ORD00094,2023-11-14,2023-11-18,CUST8581,Customer_298,Home Office,Central,IL,Chicago,Technology,Monitor,Monitor Model 910,295,5,0.0,87.4,69,41.52,59,216,Supplier A,Autumn
+ORD00095,2024-04-05,2024-04-12,CUST9266,Customer_89,Consumer,West,WA,Seattle,Office Supplies,Binder,Binder Model 353,873,9,0.0,294.48,48,64.28,97,63,Supplier D,Summer
+ORD00096,2024-03-25,2024-03-30,CUST2079,Customer_169,Consumer,West,WA,Seattle,Furniture,Table,Table Model 671,1603,7,0.1,288.96,11,164.82,229,191,Supplier D,Summer
+ORD00097,2023-10-18,2023-10-21,CUST3112,Customer_44,Corporate,West,WA,Seattle,Technology,Printer,Printer Model 672,1467,3,0.1,399.66,88,306.88,489,220,Supplier D,Autumn
+ORD00098,2024-10-20,2024-10-27,CUST6060,Customer_93,Consumer,South,TX,Houston,Office Supplies,Pen,Pen Model 449,603,9,0.15,104.22,7,45.37,67,205,Supplier D,Autumn
+ORD00099,2023-07-16,2023-07-18,CUST6517,Customer_68,Home Office,West,CA,Los Angeles,Technology,Monitor,Monitor Model 485,558,2,0.2,23.0,72,211.7,279,39,Supplier B,Monsoon
+ORD00100,2023-06-16,2023-06-18,CUST8355,Customer_120,Home Office,West,WA,Seattle,Technology,Monitor,Monitor Model 344,2196,6,0.05,346.08,83,290.02,366,165,Supplier C,Monsoon
+ORD00101,2024-04-25,2024-05-02,CUST7859,Customer_83,Consumer,West,WA,Seattle,Office Supplies,Pen,Pen Model 920,2048,8,0.1,318.4,69,190.6,256,290,Supplier B,Summer
+ORD00102,2023-09-14,2023-09-15,CUST8361,Customer_263,Consumer,Central,OH,Columbus,Office Supplies,Paper,Paper Model 950,4095,9,0.0,1550.88,25,282.68,455,159,Supplier D,Autumn
+ORD00103,2023-04-04,2023-04-06,CUST7142,Customer_115,Consumer,Central,OH,Columbus,Technology,Monitor,Monitor Model 426,222,1,0.2,34.75,54,142.85,222,61,Supplier A,Summer
+ORD00104,2024-10-27,2024-10-30,CUST1086,Customer_41,Consumer,West,CA,Los Angeles,Technology,Monitor,Monitor Model 362,3008,8,0.05,632.56,65,278.13,376,249,Supplier B,Autumn
+ORD00105,2023-06-03,2023-06-08,CUST2029,Customer_57,Corporate,Central,IL,Chicago,Furniture,Chair,Chair Model 711,410,5,0.0,160.05,86,49.99,82,254,Supplier A,Monsoon
+ORD00106,2024-10-09,2024-10-14,CUST2402,Customer_269,Corporate,West,CA,Los Angeles,Furniture,Table,Table Model 169,334,1,0.1,96.81,58,203.79,334,115,Supplier A,Autumn
+ORD00107,2024-02-04,2024-02-11,CUST4950,Customer_54,Home Office,Central,IL,Chicago,Office Supplies,Binder,Binder Model 852,894,6,0.0,322.5,13,95.25,149,196,Supplier C,Winter
+ORD00108,2023-05-17,2023-05-18,CUST8498,Customer_19,Corporate,South,FL,Miami,Office Supplies,Paper,Paper Model 306,3008,8,0.15,427.36,22,266.18,376,52,Supplier A,Summer
+ORD00109,2023-07-24,2023-07-25,CUST5687,Customer_183,Consumer,South,FL,Miami,Office Supplies,Binder,Binder Model 986,2358,9,0.1,803.7,87,146.5,262,117,Supplier C,Monsoon
+ORD00110,2023-10-07,2023-10-08,CUST9151,Customer_189,Home Office,South,FL,Miami,Furniture,Bookcase,Bookcase Model 373,3824,8,0.15,823.12,28,303.41,478,274,Supplier A,Autumn
+ORD00111,2024-03-10,2024-03-11,CUST8305,Customer_219,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 806,432,6,0.0,159.0,42,45.5,72,176,Supplier D,Summer
+ORD00112,2023-12-26,2023-12-30,CUST6952,Customer_263,Home Office,East,MA,Boston,Office Supplies,Binder,Binder Model 795,1735,5,0.0,748.2,86,197.36,347,227,Supplier B,Winter
+ORD00113,2023-02-01,2023-02-03,CUST3513,Customer_231,Corporate,Central,IL,Chicago,Technology,Laptop,Laptop Model 480,1672,4,0.1,433.84,77,267.74,418,36,Supplier D,Winter
+ORD00114,2023-03-20,2023-03-25,CUST9482,Customer_199,Home Office,West,WA,Seattle,Furniture,Table,Table Model 220,735,5,0.0,326.0,28,81.8,147,275,Supplier C,Summer
+ORD00115,2023-09-24,2023-09-30,CUST3828,Customer_228,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 929,976,8,0.0,406.08,14,71.24,122,251,Supplier C,Autumn
+ORD00116,2024-11-14,2024-11-17,CUST3275,Customer_122,Corporate,East,MA,Boston,Furniture,Chair,Chair Model 126,1278,3,0.1,284.76,20,288.48,426,122,Supplier C,Autumn
+ORD00117,2024-07-21,2024-07-26,CUST9612,Customer_211,Corporate,South,FL,Miami,Office Supplies,Paper,Paper Model 943,4720,10,0.0,2046.4,55,267.36,472,265,Supplier A,Monsoon
+ORD00118,2023-05-09,2023-05-12,CUST3114,Customer_222,Home Office,East,MA,Boston,Furniture,Bookcase,Bookcase Model 989,1764,9,0.05,318.42,75,150.82,196,113,Supplier A,Summer
+ORD00119,2023-05-08,2023-05-13,CUST2292,Customer_129,Consumer,West,WA,Seattle,Technology,Laptop,Laptop Model 750,2988,6,0.05,936.72,71,316.98,498,165,Supplier C,Summer
+ORD00120,2023-05-09,2023-05-15,CUST1674,Customer_15,Consumer,South,TX,Houston,Office Supplies,Pen,Pen Model 146,969,3,0.2,204.9,89,190.1,323,192,Supplier C,Summer
+ORD00121,2024-10-28,2024-10-30,CUST8430,Customer_38,Home Office,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 161,1512,9,0.1,346.68,56,112.68,168,172,Supplier B,Autumn
+ORD00122,2024-03-26,2024-03-30,CUST7532,Customer_67,Corporate,Central,OH,Columbus,Technology,Monitor,Monitor Model 627,930,10,0.1,125.2,45,71.18,93,196,Supplier A,Summer
+ORD00123,2023-11-23,2023-11-25,CUST5067,Customer_82,Corporate,Central,IL,Chicago,Furniture,Table,Table Model 691,368,4,0.0,160.96,54,51.76,92,234,Supplier C,Autumn
+ORD00124,2023-07-14,2023-07-21,CUST9281,Customer_235,Consumer,West,WA,Seattle,Office Supplies,Binder,Binder Model 320,3760,8,0.1,848.48,16,316.94,470,221,Supplier C,Monsoon
+ORD00125,2023-02-19,2023-02-20,CUST3194,Customer_136,Home Office,South,FL,Miami,Office Supplies,Pen,Pen Model 474,1328,8,0.2,329.28,18,91.64,166,240,Supplier D,Winter
+ORD00126,2024-01-10,2024-01-11,CUST8378,Customer_282,Corporate,Central,IL,Chicago,Office Supplies,Pen,Pen Model 945,820,4,0.2,145.84,54,127.54,205,278,Supplier A,Winter
+ORD00127,2023-05-12,2023-05-13,CUST9193,Customer_21,Consumer,Central,OH,Columbus,Furniture,Bookcase,Bookcase Model 139,2436,6,0.05,853.2,70,243.5,406,225,Supplier B,Summer
+ORD00128,2024-12-31,2025-01-03,CUST7438,Customer_154,Home Office,Central,OH,Columbus,Technology,Printer,Printer Model 444,819,9,0.1,95.94,45,71.24,91,103,Supplier D,Winter
+ORD00129,2024-12-26,2024-12-31,CUST1436,Customer_243,Corporate,South,FL,Miami,Technology,Monitor,Monitor Model 771,2184,6,0.0,447.78,79,289.37,364,177,Supplier B,Winter
+ORD00130,2023-02-22,2023-02-27,CUST2800,Customer_98,Consumer,Central,IL,Chicago,Office Supplies,Pen,Pen Model 551,4160,10,0.15,1094.3,36,244.17,416,36,Supplier C,Winter
+ORD00131,2024-03-04,2024-03-06,CUST9498,Customer_107,Home Office,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 432,4910,10,0.15,401.6,12,377.19,491,90,Supplier D,Summer
+ORD00132,2024-06-22,2024-06-26,CUST8932,Customer_99,Consumer,South,TX,Houston,Furniture,Bookcase,Bookcase Model 385,1794,6,0.1,324.78,87,214.97,299,155,Supplier C,Monsoon
+ORD00133,2023-08-19,2023-08-22,CUST2996,Customer_294,Home Office,South,TX,Houston,Office Supplies,Pen,Pen Model 656,1456,8,0.15,309.84,40,115.97,182,167,Supplier D,Monsoon
+ORD00134,2024-02-09,2024-02-16,CUST8849,Customer_110,Consumer,South,TX,Houston,Furniture,Chair,Chair Model 947,1925,5,0.0,699.55,61,245.09,385,151,Supplier C,Winter
+ORD00135,2024-07-29,2024-08-04,CUST4814,Customer_27,Consumer,South,TX,Houston,Technology,Printer,Printer Model 523,1420,10,0.05,550.0,72,79.9,142,135,Supplier C,Monsoon
+ORD00136,2024-04-28,2024-04-29,CUST6262,Customer_147,Home Office,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 160,2478,7,0.15,447.65,30,236.95,354,167,Supplier A,Summer
+ORD00137,2024-10-29,2024-11-03,CUST4052,Customer_149,Consumer,West,CA,Los Angeles,Technology,Monitor,Monitor Model 109,1494,3,0.0,299.85,55,398.05,498,273,Supplier C,Autumn
+ORD00138,2024-08-04,2024-08-09,CUST8668,Customer_140,Consumer,East,MA,Boston,Furniture,Table,Table Model 928,2592,9,0.15,201.33,22,222.43,288,278,Supplier A,Monsoon
+ORD00139,2023-12-05,2023-12-07,CUST3875,Customer_208,Corporate,Central,OH,Columbus,Office Supplies,Paper,Paper Model 627,397,1,0.1,60.47,77,296.83,397,118,Supplier C,Winter
+ORD00140,2023-03-30,2023-04-03,CUST8319,Customer_137,Corporate,East,NY,New York,Technology,Monitor,Monitor Model 409,2994,6,0.05,1192.5,54,275.3,499,140,Supplier A,Summer
+ORD00141,2023-09-25,2023-10-01,CUST2923,Customer_152,Corporate,South,TX,Houston,Technology,Printer,Printer Model 729,516,2,0.1,160.0,69,152.2,258,179,Supplier B,Autumn
+ORD00142,2023-08-13,2023-08-15,CUST4578,Customer_127,Home Office,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 872,2110,10,0.15,262.7,65,153.08,211,295,Supplier A,Monsoon
+ORD00143,2024-06-22,2024-06-26,CUST3455,Customer_85,Corporate,South,TX,Houston,Office Supplies,Paper,Paper Model 974,444,1,0.2,10.78,30,344.42,444,294,Supplier D,Monsoon
+ORD00144,2023-04-30,2023-05-06,CUST8484,Customer_289,Consumer,West,WA,Seattle,Technology,Printer,Printer Model 672,3472,8,0.0,1168.8,70,287.9,434,232,Supplier D,Summer
+ORD00145,2024-11-19,2024-11-26,CUST6644,Customer_33,Home Office,South,TX,Houston,Furniture,Table,Table Model 161,401,1,0.05,102.42,10,278.53,401,236,Supplier A,Autumn
+ORD00146,2024-04-28,2024-04-29,CUST2314,Customer_277,Consumer,South,FL,Miami,Technology,Laptop,Laptop Model 769,1477,7,0.15,277.48,53,139.71,211,212,Supplier C,Summer
+ORD00147,2023-05-02,2023-05-04,CUST7948,Customer_273,Corporate,Central,IL,Chicago,Office Supplies,Paper,Paper Model 943,407,1,0.0,83.59,64,323.41,407,298,Supplier B,Summer
+ORD00148,2023-09-11,2023-09-15,CUST4376,Customer_35,Consumer,South,TX,Houston,Furniture,Chair,Chair Model 708,72,2,0.15,10.54,7,25.33,36,143,Supplier A,Autumn
+ORD00149,2024-04-02,2024-04-07,CUST9255,Customer_149,Consumer,East,NY,New York,Office Supplies,Paper,Paper Model 935,1708,7,0.05,452.69,12,167.13,244,91,Supplier C,Summer
+ORD00150,2024-08-14,2024-08-19,CUST7999,Customer_285,Corporate,South,TX,Houston,Furniture,Chair,Chair Model 148,1197,9,0.15,269.19,12,83.14,133,109,Supplier C,Monsoon
+ORD00151,2024-10-20,2024-10-26,CUST4948,Customer_116,Corporate,Central,OH,Columbus,Office Supplies,Binder,Binder Model 978,672,7,0.1,171.92,73,61.84,96,262,Supplier B,Autumn
+ORD00152,2024-04-19,2024-04-20,CUST8369,Customer_190,Consumer,Central,OH,Columbus,Office Supplies,Pen,Pen Model 648,654,3,0.05,219.9,47,133.8,218,60,Supplier B,Summer
+ORD00153,2023-02-22,2023-02-25,CUST5967,Customer_8,Consumer,Central,IL,Chicago,Technology,Laptop,Laptop Model 294,3900,10,0.2,763.4,31,235.66,390,190,Supplier A,Winter
+ORD00154,2024-05-05,2024-05-07,CUST6053,Customer_134,Corporate,West,WA,Seattle,Technology,Printer,Printer Model 625,2502,6,0.1,637.62,73,269.03,417,203,Supplier D,Summer
+ORD00155,2024-04-22,2024-04-23,CUST1265,Customer_134,Home Office,Central,OH,Columbus,Technology,Monitor,Monitor Model 698,1386,6,0.0,428.76,33,159.54,231,94,Supplier D,Summer
+ORD00156,2023-10-30,2023-11-01,CUST5216,Customer_251,Home Office,West,WA,Seattle,Technology,Monitor,Monitor Model 757,4460,10,0.05,1227.3,88,300.97,446,192,Supplier D,Autumn
+ORD00157,2024-04-16,2024-04-18,CUST9584,Customer_18,Consumer,South,TX,Houston,Technology,Printer,Printer Model 937,2430,9,0.05,414.99,74,210.39,270,50,Supplier A,Summer
+ORD00158,2023-01-07,2023-01-11,CUST8916,Customer_250,Consumer,West,CA,Los Angeles,Technology,Printer,Printer Model 106,72,3,0.05,19.71,52,16.23,24,50,Supplier D,Winter
+ORD00159,2023-01-13,2023-01-14,CUST3439,Customer_124,Consumer,South,FL,Miami,Technology,Printer,Printer Model 734,3024,7,0.05,1128.68,17,249.16,432,288,Supplier C,Winter
+ORD00160,2023-12-29,2024-01-01,CUST2320,Customer_17,Consumer,Central,IL,Chicago,Furniture,Table,Table Model 515,2472,8,0.05,376.8,33,246.45,309,173,Supplier D,Winter
+ORD00161,2024-01-22,2024-01-27,CUST2562,Customer_271,Consumer,Central,IL,Chicago,Office Supplies,Paper,Paper Model 335,186,3,0.15,16.5,87,47.2,62,189,Supplier B,Winter
+ORD00162,2024-12-09,2024-12-14,CUST6152,Customer_9,Consumer,Central,OH,Columbus,Technology,Laptop,Laptop Model 701,2400,5,0.2,261.9,9,331.62,480,111,Supplier B,Winter
+ORD00163,2024-12-30,2025-01-06,CUST6435,Customer_197,Home Office,Central,IL,Chicago,Furniture,Chair,Chair Model 243,1430,10,0.2,59.1,54,108.49,143,296,Supplier A,Winter
+ORD00164,2024-05-27,2024-06-02,CUST6347,Customer_16,Home Office,South,TX,Houston,Technology,Monitor,Monitor Model 379,1796,4,0.0,655.28,83,285.18,449,223,Supplier D,Summer
+ORD00165,2024-05-17,2024-05-19,CUST5037,Customer_38,Consumer,South,FL,Miami,Furniture,Chair,Chair Model 374,3580,10,0.15,997.3,84,204.57,358,171,Supplier B,Summer
+ORD00166,2024-01-25,2024-01-31,CUST5419,Customer_53,Consumer,West,WA,Seattle,Furniture,Table,Table Model 189,132,2,0.0,28.28,61,51.86,66,204,Supplier B,Winter
+ORD00167,2024-03-17,2024-03-21,CUST1202,Customer_150,Corporate,Central,IL,Chicago,Technology,Laptop,Laptop Model 497,1818,6,0.0,546.78,46,211.87,303,217,Supplier A,Summer
+ORD00168,2024-07-26,2024-07-28,CUST8121,Customer_142,Corporate,West,WA,Seattle,Technology,Laptop,Laptop Model 406,870,5,0.1,197.25,13,117.15,174,105,Supplier D,Monsoon
+ORD00169,2023-03-20,2023-03-23,CUST5991,Customer_4,Corporate,South,TX,Houston,Office Supplies,Pen,Pen Model 440,2592,8,0.2,521.28,18,194.04,324,89,Supplier D,Summer
+ORD00170,2023-12-04,2023-12-08,CUST6147,Customer_91,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 426,519,3,0.1,103.38,30,121.24,173,265,Supplier C,Winter
+ORD00171,2024-12-12,2024-12-18,CUST9939,Customer_93,Home Office,Central,IL,Chicago,Furniture,Table,Table Model 886,2190,5,0.15,457.15,77,280.87,438,122,Supplier A,Winter
+ORD00172,2024-04-17,2024-04-23,CUST4965,Customer_130,Home Office,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 257,878,2,0.15,115.68,22,315.31,439,175,Supplier D,Summer
+ORD00173,2024-01-22,2024-01-23,CUST2392,Customer_56,Consumer,Central,OH,Columbus,Office Supplies,Binder,Binder Model 773,2511,9,0.15,412.02,51,191.37,279,294,Supplier C,Winter
+ORD00174,2023-06-20,2023-06-26,CUST4621,Customer_229,Corporate,East,MA,Boston,Furniture,Table,Table Model 500,50,2,0.0,19.26,70,15.37,25,285,Supplier D,Monsoon
+ORD00175,2024-11-26,2024-12-01,CUST3321,Customer_179,Corporate,West,WA,Seattle,Technology,Monitor,Monitor Model 451,342,2,0.15,23.9,15,133.4,171,79,Supplier D,Autumn
+ORD00176,2023-07-31,2023-08-05,CUST2885,Customer_12,Corporate,Central,OH,Columbus,Furniture,Chair,Chair Model 763,3112,8,0.15,685.52,43,244.96,389,42,Supplier A,Monsoon
+ORD00177,2024-11-24,2024-12-01,CUST7636,Customer_95,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 755,909,9,0.1,190.89,64,69.69,101,138,Supplier D,Autumn
+ORD00178,2024-02-10,2024-02-11,CUST9796,Customer_96,Corporate,West,WA,Seattle,Office Supplies,Binder,Binder Model 433,154,7,0.05,53.69,13,13.23,22,72,Supplier B,Winter
+ORD00179,2024-04-13,2024-04-14,CUST6700,Customer_181,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 732,1950,6,0.15,286.98,80,228.42,325,78,Supplier B,Summer
+ORD00180,2024-11-20,2024-11-26,CUST3316,Customer_262,Corporate,South,TX,Houston,Office Supplies,Paper,Paper Model 528,480,6,0.05,155.34,28,50.11,80,211,Supplier B,Autumn
+ORD00181,2024-08-11,2024-08-15,CUST3298,Customer_96,Corporate,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 962,3375,9,0.05,881.82,67,258.27,375,167,Supplier D,Monsoon
+ORD00182,2024-09-26,2024-09-27,CUST7703,Customer_252,Corporate,South,TX,Houston,Furniture,Chair,Chair Model 827,1748,4,0.15,103.2,69,345.65,437,273,Supplier D,Autumn
+ORD00183,2024-05-15,2024-05-17,CUST9115,Customer_282,Home Office,East,NY,New York,Technology,Monitor,Monitor Model 215,160,1,0.05,42.5,26,109.5,160,254,Supplier A,Summer
+ORD00184,2023-10-02,2023-10-09,CUST5877,Customer_17,Corporate,South,TX,Houston,Office Supplies,Binder,Binder Model 369,1179,9,0.15,323.55,88,75.4,131,146,Supplier C,Autumn
+ORD00185,2023-03-31,2023-04-04,CUST3719,Customer_72,Consumer,East,NY,New York,Technology,Printer,Printer Model 933,3720,10,0.1,501.2,83,284.68,372,239,Supplier B,Summer
+ORD00186,2023-03-02,2023-03-07,CUST2560,Customer_70,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 160,555,3,0.1,154.11,39,115.13,185,283,Supplier C,Summer
+ORD00187,2024-11-02,2024-11-04,CUST3329,Customer_296,Home Office,West,CA,Los Angeles,Technology,Printer,Printer Model 375,2664,6,0.05,558.48,55,328.72,444,270,Supplier D,Autumn
+ORD00188,2024-01-20,2024-01-24,CUST1040,Customer_48,Home Office,East,NY,New York,Furniture,Bookcase,Bookcase Model 569,1875,5,0.1,443.1,67,248.88,375,187,Supplier C,Winter
+ORD00189,2023-03-06,2023-03-13,CUST3139,Customer_290,Corporate,Central,IL,Chicago,Furniture,Chair,Chair Model 907,1256,8,0.1,179.52,48,118.86,157,300,Supplier C,Summer
+ORD00190,2024-11-29,2024-12-06,CUST8479,Customer_1,Corporate,East,NY,New York,Technology,Printer,Printer Model 307,224,8,0.0,48.72,25,21.91,28,245,Supplier B,Autumn
+ORD00191,2024-10-27,2024-10-30,CUST1848,Customer_203,Home Office,West,WA,Seattle,Technology,Printer,Printer Model 412,888,6,0.0,317.04,88,95.16,148,104,Supplier B,Autumn
+ORD00192,2024-03-15,2024-03-21,CUST1152,Customer_5,Home Office,East,NY,New York,Technology,Laptop,Laptop Model 451,472,8,0.05,118.72,71,41.21,59,247,Supplier A,Summer
+ORD00193,2024-03-08,2024-03-14,CUST3246,Customer_196,Consumer,West,WA,Seattle,Technology,Laptop,Laptop Model 756,455,7,0.0,192.99,52,37.43,65,173,Supplier B,Summer
+ORD00194,2023-03-12,2023-03-17,CUST4559,Customer_45,Consumer,East,NY,New York,Furniture,Table,Table Model 243,1364,4,0.05,231.92,83,265.97,341,246,Supplier A,Summer
+ORD00195,2024-08-26,2024-09-01,CUST1439,Customer_155,Consumer,Central,OH,Columbus,Furniture,Table,Table Model 630,438,3,0.1,82.71,36,103.83,146,165,Supplier B,Monsoon
+ORD00196,2024-02-06,2024-02-09,CUST1197,Customer_185,Corporate,East,NY,New York,Furniture,Table,Table Model 235,286,2,0.15,40.18,14,101.46,143,290,Supplier D,Winter
+ORD00197,2024-08-05,2024-08-09,CUST1990,Customer_204,Home Office,South,TX,Houston,Furniture,Chair,Chair Model 393,320,1,0.0,142.9,32,177.1,320,40,Supplier D,Monsoon
+ORD00198,2024-03-09,2024-03-15,CUST9377,Customer_105,Consumer,Central,IL,Chicago,Office Supplies,Pen,Pen Model 649,3015,9,0.05,996.84,44,207.49,335,60,Supplier C,Summer
+ORD00199,2024-02-05,2024-02-10,CUST8428,Customer_29,Corporate,East,MA,Boston,Office Supplies,Binder,Binder Model 782,196,4,0.05,74.16,60,28.01,49,79,Supplier B,Winter
+ORD00200,2023-05-03,2023-05-04,CUST7092,Customer_65,Home Office,West,CA,Los Angeles,Technology,Monitor,Monitor Model 899,1722,6,0.2,93.42,38,214.03,287,105,Supplier C,Summer
+ORD00201,2023-05-01,2023-05-08,CUST9128,Customer_234,Home Office,East,MA,Boston,Furniture,Table,Table Model 468,468,9,0.1,80.46,78,37.86,52,59,Supplier A,Summer
+ORD00202,2024-05-26,2024-06-02,CUST9336,Customer_2,Consumer,West,WA,Seattle,Technology,Monitor,Monitor Model 979,954,2,0.2,77.72,19,342.74,477,136,Supplier A,Summer
+ORD00203,2023-09-08,2023-09-09,CUST4678,Customer_165,Consumer,Central,OH,Columbus,Furniture,Chair,Chair Model 526,1488,3,0.0,463.92,88,341.36,496,234,Supplier C,Autumn
+ORD00204,2023-10-05,2023-10-12,CUST2129,Customer_239,Corporate,East,MA,Boston,Technology,Printer,Printer Model 892,111,1,0.05,22.08,10,83.37,111,225,Supplier C,Autumn
+ORD00205,2023-12-02,2023-12-03,CUST7033,Customer_253,Consumer,Central,IL,Chicago,Furniture,Chair,Chair Model 850,1540,5,0.1,254.25,36,226.35,308,257,Supplier B,Winter
+ORD00206,2023-06-04,2023-06-05,CUST6038,Customer_54,Consumer,Central,IL,Chicago,Technology,Printer,Printer Model 642,2070,6,0.0,439.38,5,271.77,345,212,Supplier B,Monsoon
+ORD00207,2024-03-05,2024-03-09,CUST7102,Customer_235,Home Office,East,NY,New York,Office Supplies,Binder,Binder Model 186,84,2,0.05,14.76,71,32.52,42,231,Supplier A,Summer
+ORD00208,2024-06-01,2024-06-03,CUST7438,Customer_168,Corporate,Central,IL,Chicago,Office Supplies,Pen,Pen Model 563,242,1,0.05,82.48,38,147.42,242,181,Supplier C,Monsoon
+ORD00209,2023-08-28,2023-08-29,CUST2978,Customer_275,Corporate,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 888,222,3,0.05,63.84,45,49.02,74,228,Supplier B,Monsoon
+ORD00210,2024-04-07,2024-04-10,CUST4522,Customer_168,Consumer,Central,OH,Columbus,Technology,Laptop,Laptop Model 193,1299,3,0.1,186.27,82,327.61,433,40,Supplier B,Summer
+ORD00211,2023-12-31,2024-01-04,CUST2551,Customer_237,Consumer,East,MA,Boston,Furniture,Chair,Chair Model 923,227,1,0.15,36.55,75,156.4,227,147,Supplier B,Winter
+ORD00212,2023-05-05,2023-05-06,CUST1357,Customer_34,Consumer,East,NY,New York,Technology,Laptop,Laptop Model 761,1470,7,0.0,447.51,38,146.07,210,58,Supplier D,Summer
+ORD00213,2023-05-12,2023-05-13,CUST1483,Customer_196,Home Office,South,TX,Houston,Technology,Monitor,Monitor Model 536,106,1,0.2,15.02,55,69.78,106,274,Supplier B,Summer
+ORD00214,2023-12-29,2023-12-31,CUST9173,Customer_211,Home Office,West,WA,Seattle,Furniture,Table,Table Model 590,111,3,0.2,10.56,36,26.08,37,171,Supplier A,Winter
+ORD00215,2023-03-31,2023-04-03,CUST8859,Customer_279,Corporate,Central,IL,Chicago,Furniture,Chair,Chair Model 452,1323,9,0.2,67.86,53,110.06,147,203,Supplier C,Summer
+ORD00216,2024-02-02,2024-02-05,CUST6856,Customer_300,Consumer,West,CA,Los Angeles,Furniture,Bookcase,Bookcase Model 263,140,4,0.1,46.96,65,19.76,35,291,Supplier A,Winter
+ORD00217,2023-09-11,2023-09-17,CUST3846,Customer_91,Consumer,West,WA,Seattle,Office Supplies,Pen,Pen Model 706,411,1,0.05,105.25,54,285.2,411,201,Supplier C,Autumn
+ORD00218,2024-12-15,2024-12-18,CUST6063,Customer_90,Corporate,East,MA,Boston,Office Supplies,Pen,Pen Model 138,924,3,0.05,176.31,68,233.83,308,297,Supplier A,Winter
+ORD00219,2023-02-27,2023-03-01,CUST3907,Customer_166,Consumer,West,CA,Los Angeles,Office Supplies,Binder,Binder Model 122,189,1,0.2,37.73,21,113.47,189,194,Supplier B,Winter
+ORD00220,2024-08-23,2024-08-29,CUST6285,Customer_70,Consumer,West,CA,Los Angeles,Office Supplies,Binder,Binder Model 849,422,2,0.15,64.78,48,146.96,211,174,Supplier D,Monsoon
+ORD00221,2024-10-16,2024-10-20,CUST7199,Customer_158,Home Office,South,TX,Houston,Office Supplies,Pen,Pen Model 805,4220,10,0.1,1241.5,80,255.65,422,109,Supplier C,Autumn
+ORD00222,2023-05-11,2023-05-13,CUST2705,Customer_255,Consumer,East,MA,Boston,Office Supplies,Paper,Paper Model 439,984,3,0.1,117.81,83,255.93,328,133,Supplier A,Summer
+ORD00223,2023-09-01,2023-09-04,CUST6742,Customer_132,Consumer,South,TX,Houston,Office Supplies,Paper,Paper Model 837,1488,6,0.0,570.96,36,152.84,248,54,Supplier A,Autumn
+ORD00224,2023-02-19,2023-02-23,CUST8855,Customer_296,Home Office,Central,OH,Columbus,Technology,Monitor,Monitor Model 876,3768,8,0.15,799.52,53,300.41,471,71,Supplier B,Winter
+ORD00225,2023-06-16,2023-06-20,CUST3636,Customer_39,Home Office,East,NY,New York,Furniture,Chair,Chair Model 195,918,6,0.0,396.06,26,86.99,153,212,Supplier C,Monsoon
+ORD00226,2024-08-31,2024-09-05,CUST4367,Customer_98,Corporate,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 813,990,3,0.15,258.12,17,194.46,330,189,Supplier C,Monsoon
+ORD00227,2024-11-07,2024-11-10,CUST6911,Customer_2,Corporate,South,TX,Houston,Technology,Laptop,Laptop Model 189,2184,7,0.2,87.43,24,237.11,312,47,Supplier C,Autumn
+ORD00228,2024-11-08,2024-11-14,CUST6052,Customer_204,Corporate,Central,IL,Chicago,Technology,Laptop,Laptop Model 600,428,4,0.1,45.24,65,84.99,107,79,Supplier C,Autumn
+ORD00229,2023-04-04,2023-04-10,CUST5315,Customer_116,Corporate,Central,IL,Chicago,Furniture,Table,Table Model 677,690,6,0.15,199.32,61,64.53,115,258,Supplier A,Summer
+ORD00230,2023-06-04,2023-06-11,CUST9561,Customer_215,Home Office,East,NY,New York,Office Supplies,Binder,Binder Model 803,2079,9,0.2,401.49,12,140.19,231,218,Supplier D,Monsoon
+ORD00231,2024-08-09,2024-08-11,CUST2970,Customer_230,Consumer,Central,OH,Columbus,Technology,Monitor,Monitor Model 271,277,1,0.2,6.89,78,214.71,277,95,Supplier B,Monsoon
+ORD00232,2023-07-17,2023-07-19,CUST2097,Customer_45,Corporate,East,MA,Boston,Technology,Printer,Printer Model 669,861,7,0.05,164.85,38,93.3,123,183,Supplier D,Monsoon
+ORD00233,2024-07-19,2024-07-22,CUST3451,Customer_76,Home Office,South,FL,Miami,Technology,Printer,Printer Model 702,3200,10,0.2,174.7,19,238.53,320,232,Supplier A,Monsoon
+ORD00234,2023-04-19,2023-04-24,CUST1613,Customer_89,Corporate,East,MA,Boston,Office Supplies,Binder,Binder Model 512,1085,7,0.15,147.91,78,110.62,155,262,Supplier B,Summer
+ORD00235,2024-09-25,2024-09-30,CUST6535,Customer_156,Corporate,Central,IL,Chicago,Furniture,Table,Table Model 387,180,4,0.15,12.56,52,35.11,45,30,Supplier D,Autumn
+ORD00236,2024-12-13,2024-12-19,CUST4079,Customer_227,Consumer,East,NY,New York,Technology,Monitor,Monitor Model 943,3328,8,0.1,940.64,58,256.82,416,65,Supplier D,Winter
+ORD00237,2024-05-11,2024-05-18,CUST3846,Customer_99,Consumer,South,TX,Houston,Office Supplies,Paper,Paper Model 957,358,2,0.2,53.4,72,116.5,179,34,Supplier A,Summer
+ORD00238,2023-09-13,2023-09-14,CUST3029,Customer_16,Consumer,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 481,640,4,0.1,92.24,69,120.94,160,223,Supplier D,Autumn
+ORD00239,2024-08-31,2024-09-04,CUST5670,Customer_15,Corporate,West,WA,Seattle,Office Supplies,Pen,Pen Model 150,1176,6,0.05,224.1,38,148.85,196,66,Supplier B,Monsoon
+ORD00240,2024-08-08,2024-08-15,CUST3167,Customer_89,Home Office,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 920,628,4,0.15,107.8,6,106.5,157,262,Supplier A,Monsoon
+ORD00241,2023-08-18,2023-08-21,CUST7506,Customer_300,Consumer,South,FL,Miami,Furniture,Table,Table Model 107,1530,6,0.1,452.04,43,154.16,255,286,Supplier C,Monsoon
+ORD00242,2024-07-28,2024-08-03,CUST5536,Customer_134,Home Office,South,FL,Miami,Office Supplies,Paper,Paper Model 828,416,8,0.1,42.8,86,41.45,52,186,Supplier C,Monsoon
+ORD00243,2023-07-12,2023-07-14,CUST5843,Customer_133,Corporate,West,CA,Los Angeles,Office Supplies,Binder,Binder Model 514,2208,6,0.05,485.04,88,268.76,368,274,Supplier D,Monsoon
+ORD00244,2023-02-06,2023-02-11,CUST9311,Customer_154,Consumer,West,WA,Seattle,Office Supplies,Pen,Pen Model 960,1484,4,0.2,134.2,65,263.25,371,203,Supplier B,Winter
+ORD00245,2023-10-28,2023-10-29,CUST4641,Customer_182,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 862,3690,9,0.05,602.46,47,322.56,410,65,Supplier C,Autumn
+ORD00246,2024-03-06,2024-03-13,CUST8736,Customer_100,Home Office,South,FL,Miami,Furniture,Bookcase,Bookcase Model 222,1285,5,0.0,427.1,86,171.58,257,56,Supplier D,Summer
+ORD00247,2024-06-26,2024-06-29,CUST6183,Customer_93,Consumer,Central,IL,Chicago,Technology,Laptop,Laptop Model 599,780,4,0.15,41.48,63,155.38,195,93,Supplier C,Monsoon
+ORD00248,2024-10-08,2024-10-10,CUST2442,Customer_67,Home Office,South,TX,Houston,Technology,Monitor,Monitor Model 544,635,5,0.05,162.5,25,88.15,127,270,Supplier D,Autumn
+ORD00249,2024-02-18,2024-02-22,CUST4122,Customer_10,Home Office,Central,OH,Columbus,Technology,Laptop,Laptop Model 104,1098,9,0.1,123.48,46,96.08,122,291,Supplier B,Winter
+ORD00250,2023-08-20,2023-08-26,CUST5885,Customer_149,Corporate,South,FL,Miami,Technology,Laptop,Laptop Model 845,1939,7,0.2,336.35,13,173.55,277,43,Supplier C,Monsoon
+ORD00251,2024-03-20,2024-03-26,CUST4460,Customer_12,Home Office,West,WA,Seattle,Furniture,Table,Table Model 616,416,4,0.15,122.8,33,57.7,104,87,Supplier B,Summer
+ORD00252,2023-05-07,2023-05-10,CUST1323,Customer_25,Home Office,East,MA,Boston,Office Supplies,Binder,Binder Model 218,3051,9,0.0,919.89,11,236.79,339,75,Supplier D,Summer
+ORD00253,2024-03-30,2024-04-03,CUST9524,Customer_139,Home Office,East,MA,Boston,Furniture,Bookcase,Bookcase Model 720,375,3,0.0,140.52,89,78.16,125,71,Supplier B,Summer
+ORD00254,2024-03-04,2024-03-11,CUST4304,Customer_184,Home Office,East,NY,New York,Furniture,Chair,Chair Model 519,548,2,0.05,135.76,38,192.42,274,287,Supplier C,Summer
+ORD00255,2023-06-14,2023-06-15,CUST9095,Customer_77,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 898,840,6,0.0,375.3,16,77.45,140,76,Supplier A,Monsoon
+ORD00256,2023-04-14,2023-04-17,CUST6901,Customer_161,Corporate,West,WA,Seattle,Furniture,Table,Table Model 856,360,8,0.0,88.8,10,33.9,45,168,Supplier A,Summer
+ORD00257,2023-04-08,2023-04-15,CUST2522,Customer_191,Corporate,East,NY,New York,Technology,Printer,Printer Model 287,564,3,0.1,71.28,84,145.44,188,157,Supplier A,Summer
+ORD00258,2024-02-15,2024-02-19,CUST3171,Customer_31,Consumer,Central,OH,Columbus,Furniture,Bookcase,Bookcase Model 206,3432,8,0.15,472.88,26,305.54,429,77,Supplier D,Winter
+ORD00259,2024-08-27,2024-08-31,CUST8997,Customer_58,Corporate,Central,IL,Chicago,Office Supplies,Binder,Binder Model 551,1998,6,0.0,468.24,21,254.96,333,267,Supplier A,Monsoon
+ORD00260,2023-03-06,2023-03-09,CUST9504,Customer_268,Home Office,South,TX,Houston,Office Supplies,Pen,Pen Model 817,3708,9,0.2,256.05,33,301.15,412,193,Supplier A,Summer
+ORD00261,2024-03-19,2024-03-25,CUST1190,Customer_81,Home Office,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 969,672,7,0.2,18.13,83,74.21,96,47,Supplier D,Summer
+ORD00262,2024-05-22,2024-05-29,CUST7607,Customer_121,Consumer,West,CA,Los Angeles,Furniture,Table,Table Model 570,756,4,0.1,255.08,33,106.33,189,213,Supplier D,Summer
+ORD00263,2024-08-09,2024-08-13,CUST9996,Customer_1,Consumer,East,MA,Boston,Furniture,Table,Table Model 910,548,2,0.0,232.54,57,157.73,274,38,Supplier C,Monsoon
+ORD00264,2024-06-04,2024-06-09,CUST6952,Customer_232,Consumer,West,WA,Seattle,Furniture,Table,Table Model 199,438,1,0.05,82.75,47,333.35,438,262,Supplier B,Monsoon
+ORD00265,2023-01-03,2023-01-06,CUST3301,Customer_210,Consumer,South,FL,Miami,Office Supplies,Pen,Pen Model 360,2274,6,0.0,997.26,26,212.79,379,272,Supplier B,Winter
+ORD00266,2023-07-12,2023-07-13,CUST8381,Customer_235,Home Office,Central,IL,Chicago,Furniture,Chair,Chair Model 703,450,6,0.15,129.78,86,42.12,75,83,Supplier B,Monsoon
+ORD00267,2024-05-25,2024-05-26,CUST2696,Customer_199,Home Office,East,MA,Boston,Office Supplies,Binder,Binder Model 714,3771,9,0.05,856.17,27,302.92,419,85,Supplier C,Summer
+ORD00268,2024-05-31,2024-06-04,CUST9393,Customer_154,Home Office,Central,IL,Chicago,Furniture,Table,Table Model 660,1020,6,0.15,100.8,22,127.7,170,231,Supplier C,Summer
+ORD00269,2024-12-29,2025-01-04,CUST9255,Customer_278,Home Office,West,CA,Los Angeles,Technology,Printer,Printer Model 752,1855,5,0.1,222.05,21,289.49,371,111,Supplier C,Winter
+ORD00270,2024-12-28,2024-12-29,CUST9564,Customer_55,Consumer,South,FL,Miami,Office Supplies,Pen,Pen Model 490,2555,7,0.2,456.12,59,226.84,365,26,Supplier B,Winter
+ORD00271,2023-02-24,2023-03-02,CUST4342,Customer_278,Consumer,East,NY,New York,Furniture,Chair,Chair Model 467,1845,5,0.1,578.2,12,216.46,369,171,Supplier D,Winter
+ORD00272,2023-04-15,2023-04-20,CUST6122,Customer_283,Consumer,West,WA,Seattle,Technology,Printer,Printer Model 113,1870,5,0.0,408.35,54,292.33,374,233,Supplier C,Summer
+ORD00273,2023-07-27,2023-08-01,CUST4170,Customer_151,Corporate,Central,IL,Chicago,Office Supplies,Pen,Pen Model 281,2436,6,0.2,276.12,82,278.78,406,120,Supplier A,Monsoon
+ORD00274,2023-07-11,2023-07-13,CUST1092,Customer_170,Corporate,East,MA,Boston,Technology,Monitor,Monitor Model 826,1520,5,0.1,482.55,79,177.09,304,150,Supplier B,Monsoon
+ORD00275,2023-02-10,2023-02-12,CUST9608,Customer_113,Consumer,South,TX,Houston,Office Supplies,Pen,Pen Model 633,1355,5,0.2,152.4,14,186.32,271,182,Supplier A,Winter
+ORD00276,2024-06-01,2024-06-03,CUST5809,Customer_112,Home Office,Central,OH,Columbus,Technology,Monitor,Monitor Model 643,1888,4,0.05,442.12,47,337.87,472,204,Supplier D,Monsoon
+ORD00277,2024-07-28,2024-08-04,CUST6258,Customer_196,Consumer,East,NY,New York,Office Supplies,Binder,Binder Model 495,1144,8,0.2,23.28,36,111.49,143,40,Supplier C,Monsoon
+ORD00278,2024-07-07,2024-07-13,CUST4154,Customer_165,Home Office,South,TX,Houston,Office Supplies,Binder,Binder Model 184,3879,9,0.2,537.66,10,285.06,431,171,Supplier A,Monsoon
+ORD00279,2023-06-21,2023-06-28,CUST8130,Customer_37,Home Office,East,NY,New York,Technology,Printer,Printer Model 802,1848,4,0.15,168.32,31,350.62,462,295,Supplier B,Monsoon
+ORD00280,2023-01-25,2023-01-29,CUST5237,Customer_209,Corporate,South,TX,Houston,Technology,Laptop,Laptop Model 561,111,1,0.1,23.36,78,76.54,111,136,Supplier D,Winter
+ORD00281,2024-03-19,2024-03-22,CUST2189,Customer_184,Home Office,East,MA,Boston,Office Supplies,Paper,Paper Model 208,207,9,0.2,48.51,79,13.01,23,43,Supplier C,Summer
+ORD00282,2024-12-03,2024-12-06,CUST3234,Customer_201,Home Office,East,MA,Boston,Furniture,Table,Table Model 402,3080,7,0.0,1021.02,73,294.14,440,132,Supplier B,Winter
+ORD00283,2023-11-02,2023-11-08,CUST9800,Customer_281,Consumer,South,TX,Houston,Office Supplies,Pen,Pen Model 412,249,3,0.0,111.75,81,45.75,83,221,Supplier B,Autumn
+ORD00284,2023-12-19,2023-12-21,CUST9992,Customer_237,Home Office,Central,IL,Chicago,Technology,Laptop,Laptop Model 662,1340,4,0.1,403.92,28,200.52,335,47,Supplier A,Winter
+ORD00285,2023-10-25,2023-10-31,CUST2639,Customer_146,Home Office,East,MA,Boston,Technology,Laptop,Laptop Model 171,2690,10,0.1,701.3,90,171.97,269,140,Supplier B,Autumn
+ORD00286,2023-11-22,2023-11-26,CUST6182,Customer_220,Consumer,Central,OH,Columbus,Office Supplies,Pen,Pen Model 104,1875,5,0.2,397.3,77,220.54,375,206,Supplier C,Autumn
+ORD00287,2023-09-10,2023-09-17,CUST6877,Customer_157,Corporate,West,WA,Seattle,Furniture,Table,Table Model 664,1101,3,0.1,143.7,64,282.4,367,248,Supplier A,Autumn
+ORD00288,2023-06-29,2023-07-05,CUST1511,Customer_298,Home Office,East,MA,Boston,Technology,Printer,Printer Model 514,616,4,0.0,165.16,7,112.71,154,279,Supplier B,Monsoon
+ORD00289,2023-02-07,2023-02-12,CUST3193,Customer_238,Home Office,South,FL,Miami,Office Supplies,Paper,Paper Model 622,1320,6,0.05,233.82,80,170.03,220,168,Supplier A,Winter
+ORD00290,2024-02-11,2024-02-14,CUST3395,Customer_248,Corporate,East,NY,New York,Office Supplies,Pen,Pen Model 141,1221,3,0.2,262.41,25,238.13,407,111,Supplier B,Winter
+ORD00291,2024-05-14,2024-05-16,CUST8695,Customer_233,Consumer,East,MA,Boston,Furniture,Chair,Chair Model 140,362,1,0.05,97.93,51,245.97,362,218,Supplier C,Summer
+ORD00292,2023-04-16,2023-04-22,CUST9465,Customer_129,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 328,1090,10,0.15,148.9,51,77.76,109,59,Supplier D,Summer
+ORD00293,2023-12-28,2024-01-04,CUST9430,Customer_144,Consumer,South,FL,Miami,Furniture,Bookcase,Bookcase Model 253,276,1,0.05,80.05,34,182.15,276,59,Supplier B,Winter
+ORD00294,2023-06-11,2023-06-14,CUST7732,Customer_12,Consumer,East,NY,New York,Furniture,Table,Table Model 144,532,2,0.15,95.9,80,178.15,266,102,Supplier B,Monsoon
+ORD00295,2024-08-10,2024-08-15,CUST3949,Customer_265,Corporate,West,CA,Los Angeles,Office Supplies,Pen,Pen Model 713,476,1,0.2,101.52,26,279.28,476,152,Supplier A,Monsoon
+ORD00296,2024-11-08,2024-11-15,CUST3979,Customer_262,Corporate,South,TX,Houston,Technology,Monitor,Monitor Model 271,2610,10,0.15,671.7,57,154.68,261,93,Supplier C,Autumn
+ORD00297,2024-04-09,2024-04-14,CUST3450,Customer_50,Consumer,East,NY,New York,Furniture,Table,Table Model 587,225,3,0.0,89.88,69,45.04,75,234,Supplier A,Summer
+ORD00298,2024-06-28,2024-07-03,CUST9553,Customer_216,Corporate,East,NY,New York,Furniture,Bookcase,Bookcase Model 995,1443,3,0.2,166.2,5,329.4,481,240,Supplier A,Monsoon
+ORD00299,2024-12-15,2024-12-20,CUST8817,Customer_120,Consumer,Central,IL,Chicago,Furniture,Table,Table Model 390,1926,6,0.2,434.46,22,184.39,321,150,Supplier D,Winter
+ORD00300,2023-09-21,2023-09-23,CUST7698,Customer_186,Consumer,East,NY,New York,Office Supplies,Pen,Pen Model 258,572,2,0.0,203.78,31,184.11,286,181,Supplier D,Autumn
+ORD00301,2024-10-29,2024-11-03,CUST7770,Customer_283,Home Office,South,FL,Miami,Office Supplies,Binder,Binder Model 594,2070,10,0.2,374.9,55,128.11,207,124,Supplier B,Autumn
+ORD00302,2024-01-15,2024-01-20,CUST4764,Customer_229,Home Office,Central,OH,Columbus,Furniture,Bookcase,Bookcase Model 265,2496,6,0.15,289.68,89,305.32,416,80,Supplier A,Winter
+ORD00303,2023-08-08,2023-08-13,CUST3381,Customer_242,Home Office,Central,OH,Columbus,Office Supplies,Pen,Pen Model 545,102,1,0.15,6.0,5,80.7,102,66,Supplier A,Monsoon
+ORD00304,2023-03-07,2023-03-10,CUST5693,Customer_30,Consumer,West,WA,Seattle,Technology,Printer,Printer Model 755,390,1,0.15,26.26,56,305.24,390,286,Supplier D,Summer
+ORD00305,2024-03-25,2024-03-26,CUST1590,Customer_185,Consumer,West,WA,Seattle,Technology,Laptop,Laptop Model 770,2810,10,0.2,211.8,83,203.62,281,106,Supplier A,Summer
+ORD00306,2023-06-11,2023-06-12,CUST2477,Customer_282,Corporate,South,FL,Miami,Furniture,Bookcase,Bookcase Model 843,1589,7,0.2,317.66,6,136.22,227,55,Supplier C,Monsoon
+ORD00307,2023-12-22,2023-12-29,CUST7670,Customer_260,Consumer,South,TX,Houston,Office Supplies,Paper,Paper Model 672,3968,8,0.15,620.08,38,344.09,496,109,Supplier A,Winter
+ORD00308,2024-05-30,2024-06-02,CUST8923,Customer_125,Corporate,South,TX,Houston,Office Supplies,Binder,Binder Model 894,3924,9,0.2,735.57,61,267.07,436,213,Supplier D,Summer
+ORD00309,2024-11-28,2024-12-02,CUST7757,Customer_181,Home Office,East,MA,Boston,Technology,Monitor,Monitor Model 648,430,2,0.05,99.24,34,154.63,215,181,Supplier A,Autumn
+ORD00310,2024-12-18,2024-12-25,CUST6142,Customer_182,Consumer,South,TX,Houston,Furniture,Chair,Chair Model 687,2548,7,0.1,843.36,27,207.12,364,263,Supplier C,Winter
+ORD00311,2023-07-07,2023-07-13,CUST4322,Customer_128,Home Office,West,WA,Seattle,Office Supplies,Paper,Paper Model 464,1584,4,0.05,288.0,31,304.2,396,137,Supplier B,Monsoon
+ORD00312,2023-04-20,2023-04-21,CUST5501,Customer_252,Consumer,East,MA,Boston,Office Supplies,Paper,Paper Model 882,369,9,0.15,76.5,45,26.35,41,272,Supplier C,Summer
+ORD00313,2024-02-12,2024-02-14,CUST8490,Customer_62,Home Office,West,CA,Los Angeles,Office Supplies,Binder,Binder Model 630,2368,8,0.0,768.16,55,199.98,296,109,Supplier D,Winter
+ORD00314,2023-11-20,2023-11-26,CUST4066,Customer_281,Corporate,East,NY,New York,Office Supplies,Paper,Paper Model 342,2219,7,0.0,818.02,83,200.14,317,152,Supplier C,Autumn
+ORD00315,2024-04-27,2024-05-02,CUST7563,Customer_144,Corporate,South,FL,Miami,Technology,Monitor,Monitor Model 284,889,7,0.15,110.95,52,92.1,127,206,Supplier B,Summer
+ORD00316,2024-08-12,2024-08-18,CUST3450,Customer_243,Consumer,West,CA,Los Angeles,Office Supplies,Binder,Binder Model 280,1216,4,0.15,104.48,30,232.28,304,94,Supplier D,Monsoon
+ORD00317,2024-05-26,2024-05-28,CUST1983,Customer_111,Corporate,South,FL,Miami,Furniture,Table,Table Model 587,4131,9,0.2,983.52,17,257.92,459,103,Supplier A,Summer
+ORD00318,2024-04-05,2024-04-11,CUST6752,Customer_102,Home Office,South,FL,Miami,Furniture,Table,Table Model 689,2745,9,0.1,724.59,57,193.99,305,82,Supplier B,Summer
+ORD00319,2023-10-19,2023-10-22,CUST3745,Customer_173,Corporate,South,FL,Miami,Office Supplies,Binder,Binder Model 746,430,2,0.2,76.7,85,133.65,215,94,Supplier D,Autumn
+ORD00320,2023-03-15,2023-03-16,CUST5444,Customer_228,Corporate,West,WA,Seattle,Technology,Monitor,Monitor Model 865,2124,6,0.1,366.18,82,257.57,354,222,Supplier D,Summer
+ORD00321,2024-02-28,2024-03-01,CUST3734,Customer_204,Consumer,West,CA,Los Angeles,Technology,Printer,Printer Model 197,1432,4,0.1,164.52,15,281.07,358,127,Supplier A,Winter
+ORD00322,2024-04-29,2024-05-04,CUST6068,Customer_118,Consumer,East,NY,New York,Furniture,Bookcase,Bookcase Model 855,146,2,0.1,28.54,15,51.43,73,219,Supplier C,Summer
+ORD00323,2024-03-29,2024-04-04,CUST8654,Customer_277,Corporate,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 661,37,1,0.1,4.99,46,28.31,37,263,Supplier D,Summer
+ORD00324,2023-05-19,2023-05-25,CUST6688,Customer_247,Home Office,West,WA,Seattle,Office Supplies,Pen,Pen Model 332,2420,10,0.2,217.9,73,171.81,242,178,Supplier A,Summer
+ORD00325,2024-03-28,2024-03-31,CUST5698,Customer_241,Home Office,South,FL,Miami,Furniture,Chair,Chair Model 108,125,5,0.0,39.9,22,17.02,25,196,Supplier D,Summer
+ORD00326,2024-05-03,2024-05-06,CUST8161,Customer_203,Consumer,East,MA,Boston,Furniture,Bookcase,Bookcase Model 267,1708,4,0.0,534.52,29,293.37,427,230,Supplier D,Summer
+ORD00327,2024-01-23,2024-01-25,CUST9715,Customer_138,Corporate,South,TX,Houston,Furniture,Bookcase,Bookcase Model 292,1136,4,0.2,54.64,39,213.54,284,165,Supplier A,Winter
+ORD00328,2023-07-06,2023-07-08,CUST6253,Customer_10,Consumer,South,TX,Houston,Office Supplies,Binder,Binder Model 150,2510,10,0.1,439.0,67,182.0,251,116,Supplier A,Monsoon
+ORD00329,2023-07-10,2023-07-11,CUST9086,Customer_112,Corporate,South,FL,Miami,Technology,Printer,Printer Model 530,3136,8,0.0,1228.64,24,238.42,392,27,Supplier C,Monsoon
+ORD00330,2024-05-25,2024-05-28,CUST8702,Customer_93,Consumer,Central,IL,Chicago,Furniture,Chair,Chair Model 961,144,3,0.1,22.47,14,35.71,48,298,Supplier C,Summer
+ORD00331,2024-01-26,2024-02-02,CUST8550,Customer_49,Home Office,East,NY,New York,Office Supplies,Paper,Paper Model 781,2898,7,0.15,690.34,9,253.28,414,121,Supplier B,Winter
+ORD00332,2024-04-29,2024-05-03,CUST5895,Customer_102,Corporate,South,FL,Miami,Technology,Printer,Printer Model 153,401,1,0.2,48.03,37,272.77,401,266,Supplier B,Summer
+ORD00333,2023-04-26,2023-04-28,CUST1688,Customer_298,Home Office,Central,OH,Columbus,Technology,Laptop,Laptop Model 586,1595,5,0.0,559.9,36,207.02,319,24,Supplier B,Summer
+ORD00334,2024-01-16,2024-01-23,CUST1979,Customer_183,Home Office,East,NY,New York,Technology,Monitor,Monitor Model 257,742,2,0.2,122.72,85,235.44,371,50,Supplier A,Winter
+ORD00335,2023-05-09,2023-05-13,CUST6868,Customer_69,Corporate,West,WA,Seattle,Office Supplies,Pen,Pen Model 140,2592,6,0.15,302.52,7,316.78,432,213,Supplier D,Summer
+ORD00336,2024-12-24,2024-12-28,CUST3627,Customer_36,Home Office,South,FL,Miami,Technology,Printer,Printer Model 258,894,3,0.1,240.57,64,188.01,298,160,Supplier D,Winter
+ORD00337,2023-10-30,2023-11-06,CUST4912,Customer_165,Home Office,South,FL,Miami,Furniture,Chair,Chair Model 164,1926,9,0.05,345.24,84,164.94,214,206,Supplier D,Autumn
+ORD00338,2023-07-14,2023-07-19,CUST1717,Customer_67,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 994,1374,6,0.1,442.98,71,132.27,229,54,Supplier A,Monsoon
+ORD00339,2023-07-26,2023-07-27,CUST1804,Customer_188,Consumer,Central,IL,Chicago,Technology,Laptop,Laptop Model 720,3480,10,0.15,471.6,72,248.64,348,151,Supplier A,Monsoon
+ORD00340,2023-01-14,2023-01-16,CUST1955,Customer_137,Home Office,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 141,204,1,0.2,13.08,58,150.12,204,208,Supplier A,Winter
+ORD00341,2023-11-08,2023-11-09,CUST3931,Customer_286,Home Office,West,CA,Los Angeles,Technology,Printer,Printer Model 671,1168,4,0.15,295.08,72,174.43,292,147,Supplier D,Autumn
+ORD00342,2023-04-19,2023-04-26,CUST9268,Customer_173,Home Office,South,FL,Miami,Office Supplies,Pen,Pen Model 261,3304,7,0.0,1349.04,28,279.28,472,225,Supplier D,Summer
+ORD00343,2023-12-27,2023-12-30,CUST4504,Customer_193,Home Office,South,FL,Miami,Furniture,Bookcase,Bookcase Model 862,3094,7,0.1,612.29,77,310.33,442,299,Supplier C,Winter
+ORD00344,2024-01-04,2024-01-08,CUST1107,Customer_154,Consumer,Central,OH,Columbus,Technology,Printer,Printer Model 319,165,1,0.2,40.58,22,91.42,165,174,Supplier C,Winter
+ORD00345,2023-01-23,2023-01-30,CUST4817,Customer_132,Corporate,South,TX,Houston,Technology,Laptop,Laptop Model 194,1616,8,0.05,590.48,51,118.09,202,147,Supplier D,Winter
+ORD00346,2024-08-05,2024-08-07,CUST1612,Customer_296,Corporate,East,MA,Boston,Furniture,Chair,Chair Model 180,3536,8,0.2,159.52,17,333.66,442,173,Supplier A,Monsoon
+ORD00347,2023-12-09,2023-12-12,CUST1886,Customer_157,Home Office,Central,OH,Columbus,Technology,Laptop,Laptop Model 142,4950,10,0.0,1443.1,85,350.69,495,215,Supplier C,Winter
+ORD00348,2024-07-06,2024-07-11,CUST9269,Customer_47,Consumer,West,WA,Seattle,Office Supplies,Pen,Pen Model 542,392,4,0.0,110.4,55,70.4,98,248,Supplier C,Monsoon
+ORD00349,2024-02-08,2024-02-10,CUST7529,Customer_257,Corporate,West,WA,Seattle,Technology,Monitor,Monitor Model 892,4010,10,0.0,1255.0,38,275.5,401,63,Supplier B,Winter
+ORD00350,2023-05-19,2023-05-23,CUST4970,Customer_37,Corporate,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 895,1200,10,0.2,115.2,72,84.48,120,146,Supplier D,Summer
+ORD00351,2023-11-28,2023-12-04,CUST5994,Customer_87,Corporate,East,NY,New York,Office Supplies,Binder,Binder Model 731,1449,7,0.1,438.13,49,123.71,207,32,Supplier D,Autumn
+ORD00352,2024-09-30,2024-10-02,CUST3419,Customer_148,Consumer,Central,IL,Chicago,Technology,Laptop,Laptop Model 451,594,6,0.0,250.62,11,57.23,99,144,Supplier A,Autumn
+ORD00353,2023-11-09,2023-11-13,CUST8913,Customer_73,Home Office,Central,IL,Chicago,Furniture,Chair,Chair Model 815,1152,9,0.05,303.39,38,87.89,128,300,Supplier A,Autumn
+ORD00354,2024-01-21,2024-01-26,CUST2091,Customer_199,Home Office,East,MA,Boston,Technology,Laptop,Laptop Model 377,610,5,0.2,111.15,64,75.37,122,24,Supplier C,Winter
+ORD00355,2023-04-21,2023-04-22,CUST2442,Customer_96,Consumer,South,FL,Miami,Technology,Monitor,Monitor Model 612,3447,9,0.0,772.2,67,297.2,383,292,Supplier D,Summer
+ORD00356,2024-07-28,2024-08-03,CUST6681,Customer_181,Corporate,East,NY,New York,Technology,Printer,Printer Model 740,950,5,0.15,191.55,25,123.19,190,29,Supplier C,Monsoon
+ORD00357,2023-08-30,2023-09-04,CUST3485,Customer_175,Corporate,South,TX,Houston,Office Supplies,Binder,Binder Model 772,3325,7,0.0,711.41,40,373.37,475,135,Supplier B,Monsoon
+ORD00358,2023-03-31,2023-04-06,CUST8359,Customer_278,Consumer,Central,IL,Chicago,Furniture,Chair,Chair Model 311,980,10,0.15,56.2,82,77.68,98,188,Supplier B,Summer
+ORD00359,2024-08-17,2024-08-22,CUST6201,Customer_35,Home Office,West,CA,Los Angeles,Furniture,Bookcase,Bookcase Model 645,4365,9,0.05,1276.65,23,318.9,485,100,Supplier A,Monsoon
+ORD00360,2023-07-08,2023-07-11,CUST3489,Customer_97,Consumer,West,CA,Los Angeles,Furniture,Table,Table Model 234,1225,7,0.15,139.16,86,128.87,175,160,Supplier B,Monsoon
+ORD00361,2023-01-27,2023-02-03,CUST9230,Customer_241,Home Office,South,TX,Houston,Office Supplies,Paper,Paper Model 765,1484,4,0.0,534.52,66,237.37,371,88,Supplier C,Winter
+ORD00362,2023-07-08,2023-07-15,CUST7767,Customer_114,Home Office,Central,OH,Columbus,Furniture,Chair,Chair Model 787,354,3,0.05,138.75,6,65.85,118,158,Supplier B,Monsoon
+ORD00363,2023-07-29,2023-07-30,CUST1685,Customer_195,Home Office,West,WA,Seattle,Office Supplies,Binder,Binder Model 420,2778,6,0.15,216.96,59,357.39,463,227,Supplier D,Monsoon
+ORD00364,2024-09-18,2024-09-24,CUST7347,Customer_265,Home Office,East,NY,New York,Furniture,Table,Table Model 150,469,1,0.05,126.78,55,318.77,469,40,Supplier B,Autumn
+ORD00365,2023-10-26,2023-10-30,CUST3330,Customer_238,Home Office,Central,OH,Columbus,Furniture,Table,Table Model 562,708,3,0.1,139.29,11,165.97,236,284,Supplier A,Autumn
+ORD00366,2024-05-27,2024-05-28,CUST8449,Customer_47,Corporate,West,CA,Los Angeles,Furniture,Table,Table Model 431,1500,6,0.0,607.92,80,148.68,250,123,Supplier B,Summer
+ORD00367,2023-05-07,2023-05-08,CUST7204,Customer_282,Corporate,East,MA,Boston,Office Supplies,Binder,Binder Model 144,576,2,0.15,68.14,70,210.73,288,101,Supplier B,Summer
+ORD00368,2023-12-10,2023-12-15,CUST3960,Customer_61,Consumer,West,CA,Los Angeles,Technology,Laptop,Laptop Model 307,234,1,0.1,63.79,62,146.81,234,167,Supplier A,Winter
+ORD00369,2024-09-29,2024-10-06,CUST4553,Customer_244,Corporate,South,TX,Houston,Furniture,Table,Table Model 519,2384,8,0.0,710.48,68,209.19,298,141,Supplier D,Autumn
+ORD00370,2023-03-23,2023-03-28,CUST4028,Customer_76,Consumer,East,NY,New York,Office Supplies,Binder,Binder Model 768,3410,10,0.2,153.3,31,257.47,341,45,Supplier C,Summer
+ORD00371,2023-02-07,2023-02-09,CUST3906,Customer_234,Home Office,East,MA,Boston,Furniture,Chair,Chair Model 692,75,1,0.15,3.87,25,59.88,75,165,Supplier C,Winter
+ORD00372,2023-02-06,2023-02-07,CUST8713,Customer_69,Consumer,South,FL,Miami,Furniture,Table,Table Model 811,816,2,0.15,72.76,13,310.42,408,169,Supplier C,Winter
+ORD00373,2023-12-04,2023-12-09,CUST2436,Customer_248,Home Office,Central,IL,Chicago,Office Supplies,Paper,Paper Model 805,490,10,0.0,150.5,85,33.95,49,290,Supplier C,Winter
+ORD00374,2024-03-13,2024-03-18,CUST9154,Customer_253,Consumer,South,FL,Miami,Office Supplies,Pen,Pen Model 724,2010,10,0.05,495.3,68,141.42,201,286,Supplier B,Summer
+ORD00375,2024-12-26,2024-12-29,CUST7783,Customer_24,Corporate,West,CA,Los Angeles,Technology,Laptop,Laptop Model 458,2720,8,0.0,722.56,31,249.68,340,232,Supplier B,Winter
+ORD00376,2023-01-12,2023-01-18,CUST6460,Customer_175,Corporate,West,WA,Seattle,Furniture,Chair,Chair Model 841,865,5,0.2,97.3,5,118.94,173,78,Supplier A,Winter
+ORD00377,2023-06-29,2023-07-01,CUST8546,Customer_275,Corporate,South,FL,Miami,Office Supplies,Binder,Binder Model 573,3424,8,0.0,988.16,66,304.48,428,99,Supplier D,Monsoon
+ORD00378,2023-02-27,2023-03-06,CUST3446,Customer_144,Consumer,South,FL,Miami,Office Supplies,Pen,Pen Model 447,126,1,0.2,9.91,50,90.89,126,53,Supplier D,Winter
+ORD00379,2024-10-03,2024-10-08,CUST5448,Customer_212,Consumer,West,WA,Seattle,Technology,Printer,Printer Model 608,924,2,0.1,160.48,45,335.56,462,36,Supplier B,Autumn
+ORD00380,2024-01-16,2024-01-20,CUST8270,Customer_260,Consumer,South,TX,Houston,Office Supplies,Binder,Binder Model 918,231,3,0.1,35.52,30,57.46,77,67,Supplier D,Winter
+ORD00381,2024-05-27,2024-05-29,CUST3174,Customer_106,Home Office,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 137,1602,9,0.1,503.28,17,104.28,178,284,Supplier D,Summer
+ORD00382,2024-02-01,2024-02-07,CUST9529,Customer_160,Consumer,East,NY,New York,Furniture,Chair,Chair Model 691,4660,10,0.0,1708.7,10,295.13,466,72,Supplier C,Winter
+ORD00383,2024-10-16,2024-10-18,CUST5467,Customer_77,Consumer,South,TX,Houston,Technology,Monitor,Monitor Model 380,1460,5,0.1,228.95,90,217.01,292,80,Supplier A,Autumn
+ORD00384,2023-01-16,2023-01-21,CUST3806,Customer_37,Corporate,East,NY,New York,Office Supplies,Binder,Binder Model 727,1647,9,0.1,518.13,41,107.13,183,145,Supplier C,Winter
+ORD00385,2024-07-07,2024-07-11,CUST3932,Customer_229,Home Office,East,NY,New York,Technology,Monitor,Monitor Model 464,74,1,0.15,21.2,59,41.7,74,220,Supplier C,Monsoon
+ORD00386,2023-12-07,2023-12-14,CUST8709,Customer_119,Consumer,West,CA,Los Angeles,Furniture,Bookcase,Bookcase Model 247,201,3,0.15,55.41,44,38.48,67,258,Supplier C,Winter
+ORD00387,2024-01-08,2024-01-12,CUST8556,Customer_88,Corporate,West,WA,Seattle,Furniture,Table,Table Model 886,280,8,0.0,92.72,49,23.41,35,265,Supplier C,Winter
+ORD00388,2024-09-10,2024-09-15,CUST8552,Customer_206,Home Office,West,CA,Los Angeles,Furniture,Bookcase,Bookcase Model 523,372,2,0.2,32.6,43,132.5,186,292,Supplier B,Autumn
+ORD00389,2024-09-27,2024-09-29,CUST9921,Customer_121,Consumer,West,WA,Seattle,Furniture,Chair,Chair Model 778,756,6,0.2,107.52,60,82.88,126,195,Supplier A,Autumn
+ORD00390,2024-12-29,2025-01-03,CUST6046,Customer_208,Consumer,Central,IL,Chicago,Office Supplies,Pen,Pen Model 712,1488,8,0.2,335.68,61,106.84,186,110,Supplier A,Winter
+ORD00391,2024-12-02,2024-12-09,CUST3403,Customer_77,Corporate,Central,OH,Columbus,Furniture,Bookcase,Bookcase Model 644,66,1,0.05,12.92,79,49.78,66,20,Supplier C,Winter
+ORD00392,2024-02-04,2024-02-09,CUST6640,Customer_46,Home Office,Central,IL,Chicago,Technology,Printer,Printer Model 108,1038,6,0.2,53.34,43,129.51,173,242,Supplier D,Winter
+ORD00393,2023-05-11,2023-05-18,CUST5623,Customer_16,Consumer,South,TX,Houston,Furniture,Bookcase,Bookcase Model 542,20,1,0.2,0.9,50,15.1,20,76,Supplier D,Summer
+ORD00394,2024-10-02,2024-10-05,CUST6902,Customer_214,Consumer,Central,OH,Columbus,Furniture,Table,Table Model 395,1152,9,0.05,324.0,29,85.6,128,216,Supplier B,Autumn
+ORD00395,2023-05-18,2023-05-19,CUST3248,Customer_213,Corporate,East,NY,New York,Technology,Printer,Printer Model 907,2848,8,0.15,160.24,22,282.57,356,63,Supplier D,Summer
+ORD00396,2024-09-30,2024-10-02,CUST9161,Customer_122,Home Office,Central,OH,Columbus,Office Supplies,Binder,Binder Model 613,1407,7,0.05,497.42,82,119.89,201,23,Supplier C,Autumn
+ORD00397,2024-02-25,2024-03-01,CUST3327,Customer_270,Corporate,South,TX,Houston,Technology,Printer,Printer Model 576,3040,8,0.1,978.0,66,219.75,380,60,Supplier A,Winter
+ORD00398,2024-06-19,2024-06-24,CUST6628,Customer_274,Consumer,East,NY,New York,Furniture,Bookcase,Bookcase Model 580,740,2,0.2,37.36,44,277.32,370,47,Supplier D,Monsoon
+ORD00399,2024-06-08,2024-06-12,CUST5267,Customer_32,Home Office,South,FL,Miami,Furniture,Table,Table Model 584,525,5,0.0,145.0,81,76.0,105,175,Supplier B,Monsoon
+ORD00400,2024-08-09,2024-08-10,CUST3171,Customer_144,Corporate,South,TX,Houston,Furniture,Table,Table Model 978,168,2,0.2,38.78,40,47.81,84,149,Supplier C,Monsoon
+ORD00401,2023-01-15,2023-01-21,CUST4869,Customer_249,Consumer,East,NY,New York,Office Supplies,Pen,Pen Model 918,1071,3,0.15,222.3,27,229.35,357,153,Supplier A,Winter
+ORD00402,2023-12-18,2023-12-19,CUST6653,Customer_28,Home Office,West,CA,Los Angeles,Furniture,Table,Table Model 370,987,7,0.15,116.97,26,103.14,141,127,Supplier A,Winter
+ORD00403,2023-02-23,2023-02-25,CUST5302,Customer_75,Home Office,Central,OH,Columbus,Furniture,Table,Table Model 991,3216,8,0.2,616.16,54,244.58,402,262,Supplier D,Winter
+ORD00404,2023-01-13,2023-01-16,CUST8074,Customer_140,Corporate,Central,OH,Columbus,Office Supplies,Binder,Binder Model 376,3321,9,0.0,1413.63,73,211.93,369,201,Supplier C,Winter
+ORD00405,2023-04-11,2023-04-14,CUST3947,Customer_161,Home Office,Central,OH,Columbus,Office Supplies,Pen,Pen Model 110,1580,4,0.2,90.64,71,293.34,395,192,Supplier A,Summer
+ORD00406,2023-03-11,2023-03-12,CUST1557,Customer_13,Home Office,Central,IL,Chicago,Office Supplies,Paper,Paper Model 194,1592,8,0.05,348.16,37,145.53,199,118,Supplier A,Summer
+ORD00407,2024-08-31,2024-09-06,CUST2816,Customer_95,Corporate,West,CA,Los Angeles,Office Supplies,Paper,Paper Model 401,916,2,0.2,199.26,89,266.77,458,114,Supplier D,Monsoon
+ORD00408,2024-11-07,2024-11-08,CUST7271,Customer_199,Corporate,Central,OH,Columbus,Furniture,Bookcase,Bookcase Model 161,906,6,0.05,185.58,40,112.52,151,51,Supplier C,Autumn
+ORD00409,2023-09-29,2023-10-01,CUST9857,Customer_221,Consumer,Central,IL,Chicago,Furniture,Chair,Chair Model 728,2210,10,0.05,527.4,18,157.21,221,93,Supplier A,Autumn
+ORD00410,2024-03-28,2024-04-03,CUST3438,Customer_1,Consumer,South,TX,Houston,Technology,Laptop,Laptop Model 780,624,2,0.1,97.16,7,232.22,312,274,Supplier D,Summer
+ORD00411,2023-09-30,2023-10-02,CUST9849,Customer_116,Consumer,South,FL,Miami,Office Supplies,Paper,Paper Model 493,3438,9,0.15,620.46,56,255.76,382,55,Supplier D,Autumn
+ORD00412,2023-05-05,2023-05-10,CUST8530,Customer_149,Home Office,South,FL,Miami,Office Supplies,Binder,Binder Model 307,336,7,0.0,120.54,48,30.78,48,61,Supplier B,Summer
+ORD00413,2024-07-21,2024-07-22,CUST2390,Customer_225,Home Office,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 294,3346,7,0.0,978.18,50,338.26,478,269,Supplier B,Monsoon
+ORD00414,2023-02-06,2023-02-08,CUST8361,Customer_9,Consumer,East,NY,New York,Furniture,Table,Table Model 447,850,2,0.2,75.78,68,302.11,425,293,Supplier A,Winter
+ORD00415,2023-12-12,2023-12-19,CUST2180,Customer_19,Home Office,East,MA,Boston,Technology,Laptop,Laptop Model 244,2286,9,0.2,486.36,79,149.16,254,139,Supplier D,Winter
+ORD00416,2024-10-31,2024-11-01,CUST8474,Customer_88,Home Office,Central,IL,Chicago,Technology,Printer,Printer Model 165,81,3,0.05,19.59,44,19.12,27,69,Supplier A,Autumn
+ORD00417,2023-04-27,2023-05-01,CUST3250,Customer_165,Consumer,West,CA,Los Angeles,Technology,Monitor,Monitor Model 882,2610,6,0.15,571.44,78,274.51,435,299,Supplier A,Summer
+ORD00418,2024-08-30,2024-09-01,CUST8187,Customer_125,Home Office,South,TX,Houston,Technology,Monitor,Monitor Model 141,1221,3,0.15,315.0,52,240.95,407,104,Supplier B,Monsoon
+ORD00419,2023-04-13,2023-04-20,CUST7819,Customer_244,Home Office,Central,IL,Chicago,Technology,Monitor,Monitor Model 229,46,2,0.0,18.64,16,13.68,23,165,Supplier B,Summer
+ORD00420,2023-05-27,2023-06-02,CUST5934,Customer_179,Corporate,South,FL,Miami,Furniture,Chair,Chair Model 104,996,3,0.0,299.73,68,232.09,332,65,Supplier B,Summer
+ORD00421,2023-07-16,2023-07-17,CUST3444,Customer_243,Corporate,East,MA,Boston,Office Supplies,Pen,Pen Model 280,1028,4,0.05,340.16,29,159.11,257,77,Supplier B,Monsoon
+ORD00422,2024-11-17,2024-11-18,CUST2710,Customer_27,Home Office,East,MA,Boston,Furniture,Chair,Chair Model 280,1036,7,0.1,202.86,63,104.22,148,42,Supplier B,Autumn
+ORD00423,2023-01-30,2023-02-03,CUST4769,Customer_57,Corporate,East,NY,New York,Technology,Printer,Printer Model 333,2584,8,0.2,435.44,30,203.97,323,186,Supplier A,Winter
+ORD00424,2023-08-31,2023-09-06,CUST4541,Customer_233,Consumer,Central,IL,Chicago,Furniture,Chair,Chair Model 496,522,2,0.2,67.28,60,175.16,261,94,Supplier C,Monsoon
+ORD00425,2023-05-20,2023-05-24,CUST3236,Customer_57,Corporate,West,WA,Seattle,Furniture,Chair,Chair Model 569,510,6,0.0,141.24,12,61.46,85,163,Supplier D,Summer
+ORD00426,2023-06-25,2023-07-02,CUST2416,Customer_211,Home Office,South,TX,Houston,Furniture,Bookcase,Bookcase Model 600,1272,3,0.2,30.03,78,329.19,424,137,Supplier B,Monsoon
+ORD00427,2024-08-28,2024-09-01,CUST3440,Customer_294,Consumer,Central,OH,Columbus,Technology,Printer,Printer Model 527,2772,7,0.05,937.02,60,242.34,396,133,Supplier A,Monsoon
+ORD00428,2023-02-11,2023-02-15,CUST1203,Customer_209,Consumer,East,MA,Boston,Office Supplies,Binder,Binder Model 235,3472,8,0.0,1169.68,35,287.79,434,62,Supplier C,Winter
+ORD00429,2023-10-30,2023-11-01,CUST8452,Customer_238,Consumer,East,NY,New York,Furniture,Bookcase,Bookcase Model 995,510,5,0.15,43.6,79,77.98,102,32,Supplier D,Autumn
+ORD00430,2023-07-09,2023-07-16,CUST1535,Customer_152,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 870,460,1,0.0,162.74,47,297.26,460,291,Supplier C,Monsoon
+ORD00431,2024-12-15,2024-12-20,CUST6989,Customer_239,Home Office,West,CA,Los Angeles,Office Supplies,Binder,Binder Model 141,283,1,0.1,36.23,19,218.47,283,216,Supplier C,Winter
+ORD00432,2024-01-11,2024-01-13,CUST4693,Customer_165,Corporate,East,NY,New York,Technology,Monitor,Monitor Model 373,1184,4,0.0,340.68,79,210.83,296,127,Supplier D,Winter
+ORD00433,2023-10-11,2023-10-12,CUST9730,Customer_150,Corporate,East,MA,Boston,Furniture,Table,Table Model 735,2208,8,0.2,94.08,65,209.04,276,292,Supplier C,Autumn
+ORD00434,2024-11-20,2024-11-26,CUST3699,Customer_142,Consumer,East,NY,New York,Furniture,Chair,Chair Model 813,440,2,0.05,144.28,14,136.86,220,75,Supplier B,Autumn
+ORD00435,2024-05-23,2024-05-25,CUST1351,Customer_150,Consumer,West,CA,Los Angeles,Furniture,Table,Table Model 164,4473,9,0.05,1259.28,58,332.23,497,247,Supplier A,Summer
+ORD00436,2023-08-26,2023-09-02,CUST8295,Customer_235,Corporate,South,FL,Miami,Office Supplies,Binder,Binder Model 680,1608,6,0.2,134.34,72,192.01,268,300,Supplier B,Monsoon
+ORD00437,2023-11-10,2023-11-12,CUST3725,Customer_83,Home Office,South,TX,Houston,Furniture,Table,Table Model 648,2070,5,0.0,854.75,41,243.05,414,253,Supplier C,Autumn
+ORD00438,2023-07-06,2023-07-08,CUST4022,Customer_106,Home Office,West,CA,Los Angeles,Technology,Laptop,Laptop Model 824,182,1,0.2,39.75,38,105.85,182,209,Supplier A,Monsoon
+ORD00439,2024-11-12,2024-11-15,CUST9182,Customer_75,Corporate,South,TX,Houston,Furniture,Table,Table Model 427,927,9,0.2,161.82,8,64.42,103,227,Supplier B,Autumn
+ORD00440,2023-01-05,2023-01-11,CUST2840,Customer_246,Consumer,South,FL,Miami,Furniture,Table,Table Model 242,3610,10,0.05,722.4,61,270.71,361,193,Supplier A,Winter
+ORD00441,2023-11-12,2023-11-13,CUST4639,Customer_143,Consumer,Central,IL,Chicago,Furniture,Table,Table Model 123,374,2,0.0,111.44,29,131.28,187,289,Supplier A,Autumn
+ORD00442,2024-07-05,2024-07-12,CUST6915,Customer_204,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 833,1084,4,0.1,215.96,70,189.91,271,48,Supplier D,Monsoon
+ORD00443,2024-01-14,2024-01-18,CUST8278,Customer_213,Corporate,South,TX,Houston,Furniture,Table,Table Model 395,1062,6,0.15,86.46,16,136.04,177,130,Supplier B,Winter
+ORD00444,2024-03-10,2024-03-16,CUST2083,Customer_193,Consumer,Central,IL,Chicago,Office Supplies,Pen,Pen Model 106,186,2,0.05,60.3,72,58.2,93,191,Supplier D,Summer
+ORD00445,2024-10-16,2024-10-19,CUST9037,Customer_22,Corporate,Central,IL,Chicago,Office Supplies,Binder,Binder Model 954,4060,10,0.05,1421.8,53,243.52,406,168,Supplier C,Autumn
+ORD00446,2024-05-20,2024-05-25,CUST3034,Customer_148,Corporate,Central,IL,Chicago,Technology,Laptop,Laptop Model 283,462,3,0.1,51.27,86,121.51,154,261,Supplier D,Summer
+ORD00447,2024-12-05,2024-12-11,CUST8144,Customer_133,Home Office,West,CA,Los Angeles,Technology,Monitor,Monitor Model 802,432,8,0.2,27.44,79,39.77,54,266,Supplier D,Winter
+ORD00448,2024-12-11,2024-12-18,CUST6237,Customer_237,Home Office,East,MA,Boston,Office Supplies,Pen,Pen Model 238,280,10,0.1,86.6,12,16.54,28,94,Supplier C,Winter
+ORD00449,2023-06-17,2023-06-18,CUST9419,Customer_100,Home Office,South,FL,Miami,Furniture,Bookcase,Bookcase Model 287,264,6,0.1,73.14,86,27.41,44,59,Supplier A,Monsoon
+ORD00450,2024-09-05,2024-09-12,CUST3354,Customer_7,Consumer,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 630,790,5,0.1,257.55,79,90.69,158,200,Supplier C,Autumn
+ORD00451,2024-01-17,2024-01-24,CUST9717,Customer_283,Home Office,Central,OH,Columbus,Furniture,Chair,Chair Model 874,262,2,0.05,71.82,29,88.54,131,289,Supplier A,Winter
+ORD00452,2024-03-03,2024-03-07,CUST9570,Customer_176,Consumer,East,NY,New York,Technology,Laptop,Laptop Model 826,1584,8,0.1,280.72,22,143.11,198,246,Supplier C,Summer
+ORD00453,2023-01-30,2023-02-05,CUST2287,Customer_218,Home Office,East,NY,New York,Technology,Printer,Printer Model 881,1116,3,0.05,360.63,31,233.19,372,86,Supplier A,Winter
+ORD00454,2023-03-21,2023-03-22,CUST5145,Customer_23,Consumer,Central,OH,Columbus,Technology,Laptop,Laptop Model 408,72,2,0.2,7.32,65,25.14,36,80,Supplier A,Summer
+ORD00455,2023-04-09,2023-04-16,CUST6698,Customer_181,Consumer,East,NY,New York,Office Supplies,Paper,Paper Model 975,1089,3,0.1,373.17,23,202.31,363,162,Supplier B,Summer
+ORD00456,2024-06-01,2024-06-06,CUST1070,Customer_51,Consumer,East,NY,New York,Office Supplies,Paper,Paper Model 616,1179,9,0.05,187.38,26,103.63,131,295,Supplier D,Monsoon
+ORD00457,2024-01-11,2024-01-17,CUST9425,Customer_117,Corporate,West,WA,Seattle,Office Supplies,Paper,Paper Model 215,1341,3,0.1,140.37,59,355.51,447,129,Supplier C,Winter
+ORD00458,2023-05-07,2023-05-11,CUST7304,Customer_146,Corporate,East,NY,New York,Furniture,Table,Table Model 714,1525,5,0.0,654.9,68,174.02,305,79,Supplier C,Summer
+ORD00459,2024-12-04,2024-12-11,CUST7020,Customer_92,Consumer,Central,IL,Chicago,Office Supplies,Binder,Binder Model 790,2285,5,0.15,577.65,13,272.92,457,263,Supplier D,Winter
+ORD00460,2024-11-19,2024-11-20,CUST3764,Customer_34,Corporate,Central,OH,Columbus,Office Supplies,Pen,Pen Model 303,162,2,0.05,48.82,80,52.54,81,72,Supplier C,Autumn
+ORD00461,2023-07-25,2023-07-30,CUST6834,Customer_244,Home Office,Central,IL,Chicago,Technology,Monitor,Monitor Model 717,1296,8,0.2,131.68,87,113.14,162,224,Supplier D,Monsoon
+ORD00462,2024-05-11,2024-05-16,CUST1486,Customer_51,Home Office,South,TX,Houston,Furniture,Chair,Chair Model 154,296,2,0.15,52.0,85,99.8,148,88,Supplier A,Summer
+ORD00463,2024-05-25,2024-05-31,CUST9518,Customer_253,Corporate,East,NY,New York,Furniture,Bookcase,Bookcase Model 306,588,6,0.1,114.36,17,69.14,98,59,Supplier C,Summer
+ORD00464,2024-11-08,2024-11-12,CUST2951,Customer_197,Corporate,Central,OH,Columbus,Office Supplies,Binder,Binder Model 422,2691,9,0.0,570.06,9,235.66,299,240,Supplier D,Autumn
+ORD00465,2024-03-29,2024-04-02,CUST7374,Customer_250,Consumer,East,NY,New York,Technology,Printer,Printer Model 682,2360,5,0.05,654.05,22,317.59,472,179,Supplier D,Summer
+ORD00466,2024-11-06,2024-11-11,CUST6779,Customer_146,Corporate,Central,OH,Columbus,Office Supplies,Paper,Paper Model 162,432,9,0.15,101.16,80,29.56,48,213,Supplier A,Autumn
+ORD00467,2024-08-27,2024-08-28,CUST6855,Customer_211,Corporate,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 157,330,10,0.1,84.1,59,21.29,33,196,Supplier B,Monsoon
+ORD00468,2023-09-11,2023-09-13,CUST1612,Customer_236,Home Office,South,TX,Houston,Office Supplies,Paper,Paper Model 984,390,5,0.1,119.95,73,46.21,78,186,Supplier D,Autumn
+ORD00469,2024-08-04,2024-08-09,CUST6282,Customer_294,Consumer,Central,OH,Columbus,Technology,Printer,Printer Model 927,2568,8,0.0,522.72,53,255.66,321,219,Supplier D,Monsoon
+ORD00470,2023-04-13,2023-04-19,CUST9142,Customer_39,Home Office,West,WA,Seattle,Furniture,Bookcase,Bookcase Model 319,630,6,0.2,110.34,60,65.61,105,123,Supplier C,Summer
+ORD00471,2023-09-29,2023-09-30,CUST2102,Customer_291,Home Office,South,FL,Miami,Technology,Printer,Printer Model 586,774,2,0.2,175.16,48,222.02,387,159,Supplier D,Autumn
+ORD00472,2023-08-03,2023-08-06,CUST5116,Customer_264,Corporate,East,MA,Boston,Office Supplies,Binder,Binder Model 787,2513,7,0.2,431.41,58,225.57,359,225,Supplier B,Monsoon
+ORD00473,2023-01-20,2023-01-26,CUST9556,Customer_103,Corporate,West,WA,Seattle,Technology,Printer,Printer Model 573,1256,8,0.2,60.0,60,118.1,157,50,Supplier B,Winter
+ORD00474,2023-09-04,2023-09-06,CUST3631,Customer_132,Home Office,South,FL,Miami,Furniture,Table,Table Model 715,688,2,0.05,129.7,39,261.95,344,166,Supplier B,Autumn
+ORD00475,2024-02-20,2024-02-22,CUST7914,Customer_19,Consumer,East,NY,New York,Technology,Laptop,Laptop Model 263,1712,4,0.1,400.52,76,285.07,428,243,Supplier C,Winter
+ORD00476,2023-05-20,2023-05-21,CUST1906,Customer_43,Corporate,South,FL,Miami,Office Supplies,Pen,Pen Model 716,1047,3,0.0,218.88,67,276.04,349,30,Supplier C,Summer
+ORD00477,2023-03-07,2023-03-11,CUST9551,Customer_298,Home Office,South,TX,Houston,Furniture,Bookcase,Bookcase Model 357,420,3,0.0,129.06,69,96.98,140,81,Supplier D,Summer
+ORD00478,2023-04-03,2023-04-05,CUST2750,Customer_90,Consumer,East,MA,Boston,Furniture,Bookcase,Bookcase Model 381,3024,7,0.05,502.39,32,338.63,432,93,Supplier D,Summer
+ORD00479,2024-02-23,2024-02-26,CUST3374,Customer_186,Corporate,East,MA,Boston,Office Supplies,Binder,Binder Model 832,364,2,0.2,52.44,36,119.38,182,162,Supplier C,Winter
+ORD00480,2023-11-12,2023-11-13,CUST2999,Customer_274,Consumer,East,NY,New York,Office Supplies,Pen,Pen Model 978,596,4,0.2,91.68,86,96.28,149,205,Supplier D,Autumn
+ORD00481,2024-02-02,2024-02-03,CUST6196,Customer_209,Consumer,Central,OH,Columbus,Furniture,Chair,Chair Model 380,688,4,0.05,127.4,25,131.55,172,244,Supplier A,Winter
+ORD00482,2024-05-18,2024-05-22,CUST6764,Customer_216,Home Office,Central,OH,Columbus,Office Supplies,Binder,Binder Model 846,884,2,0.05,199.24,69,320.28,442,53,Supplier C,Summer
+ORD00483,2024-04-09,2024-04-15,CUST7564,Customer_103,Home Office,East,NY,New York,Office Supplies,Pen,Pen Model 412,1026,3,0.15,104.91,22,255.73,342,21,Supplier C,Summer
+ORD00484,2024-08-12,2024-08-13,CUST8837,Customer_69,Corporate,East,NY,New York,Technology,Printer,Printer Model 277,1359,3,0.2,106.77,45,326.81,453,251,Supplier C,Monsoon
+ORD00485,2023-10-16,2023-10-18,CUST1339,Customer_12,Home Office,East,MA,Boston,Furniture,Chair,Chair Model 762,3276,7,0.15,209.02,78,367.94,468,134,Supplier B,Autumn
+ORD00486,2023-04-02,2023-04-06,CUST2459,Customer_189,Consumer,West,WA,Seattle,Office Supplies,Paper,Paper Model 680,225,1,0.2,32.12,38,147.88,225,96,Supplier A,Summer
+ORD00487,2023-01-15,2023-01-21,CUST9096,Customer_196,Consumer,Central,OH,Columbus,Office Supplies,Binder,Binder Model 541,268,2,0.05,94.44,39,80.08,134,167,Supplier B,Winter
+ORD00488,2024-09-06,2024-09-08,CUST8388,Customer_128,Corporate,South,TX,Houston,Furniture,Chair,Chair Model 696,2975,7,0.05,1168.58,38,236.81,425,140,Supplier D,Autumn
+ORD00489,2023-03-29,2023-03-30,CUST2196,Customer_49,Home Office,Central,IL,Chicago,Furniture,Bookcase,Bookcase Model 160,2597,7,0.05,575.68,59,270.21,371,151,Supplier A,Summer
+ORD00490,2023-12-07,2023-12-09,CUST5956,Customer_203,Home Office,Central,OH,Columbus,Office Supplies,Pen,Pen Model 479,3830,10,0.0,1718.4,69,211.16,383,215,Supplier B,Winter
+ORD00491,2024-07-26,2024-07-27,CUST6198,Customer_272,Corporate,West,WA,Seattle,Technology,Printer,Printer Model 245,3968,8,0.1,517.92,21,381.66,496,65,Supplier C,Monsoon
+ORD00492,2023-04-30,2023-05-03,CUST9470,Customer_161,Corporate,East,NY,New York,Furniture,Table,Table Model 268,2964,6,0.15,679.56,38,306.64,494,155,Supplier C,Summer
+ORD00493,2024-05-18,2024-05-25,CUST3679,Customer_240,Corporate,West,WA,Seattle,Technology,Laptop,Laptop Model 218,141,3,0.05,49.95,65,28.0,47,153,Supplier D,Summer
+ORD00494,2023-02-11,2023-02-15,CUST5654,Customer_93,Consumer,South,FL,Miami,Furniture,Table,Table Model 867,906,2,0.05,334.4,16,263.15,453,124,Supplier C,Winter
+ORD00495,2024-07-30,2024-08-05,CUST6384,Customer_14,Corporate,West,CA,Los Angeles,Office Supplies,Pen,Pen Model 797,699,3,0.0,271.53,68,142.49,233,68,Supplier A,Monsoon
+ORD00496,2024-02-08,2024-02-11,CUST6397,Customer_23,Home Office,East,MA,Boston,Technology,Laptop,Laptop Model 737,510,2,0.15,95.1,39,169.2,255,22,Supplier D,Winter
+ORD00497,2023-11-29,2023-12-05,CUST2516,Customer_205,Corporate,West,CA,Los Angeles,Technology,Printer,Printer Model 282,925,5,0.0,244.25,75,136.15,185,215,Supplier B,Autumn
+ORD00498,2024-02-13,2024-02-14,CUST6080,Customer_68,Corporate,East,NY,New York,Technology,Monitor,Monitor Model 781,1155,7,0.05,427.21,67,95.72,165,241,Supplier A,Winter
+ORD00499,2024-01-12,2024-01-17,CUST7033,Customer_96,Corporate,West,WA,Seattle,Furniture,Table,Table Model 745,1256,8,0.2,125.52,16,109.91,157,236,Supplier D,Winter
+ORD00500,2023-04-06,2023-04-07,CUST2375,Customer_149,Corporate,South,FL,Miami,Office Supplies,Paper,Paper Model 547,1488,3,0.15,250.26,87,338.18,496,288,Supplier A,Summer

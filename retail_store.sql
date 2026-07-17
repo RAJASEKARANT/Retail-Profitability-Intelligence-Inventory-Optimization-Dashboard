@@ -1,0 +1,13 @@
+create database retail_store;
+use retail_store;
+select*from retail_analysis;
+SELECT * FROM retail_analysis WHERE Sales IS NULL;
+SELECT Order_ID,COUNT(*)FROM retail_analysis GROUP BY Order_ID HAVING COUNT(*)>1;
+SELECT SUM(Sales) FROM retail_analysis;
+SELECT SUM(Profit) FROM retail_analysis;
+SELECT Category,SUM(Sales) AS TotalSales FROM retail_analysis GROUP BY Category;
+SELECT Category,SUM(Profit) as Total_profit FROM retail_analysis GROUP BY Category;
+SELECT Category,SUM(Profit)/SUM(Sales)*100 AS ProfitMargin FROM retail_analysis GROUP BY Category;
+SELECT Product_Name,SUM(Profit) as Profit FROM retail_analysis GROUP BY Product_Name ORDER BY Profit DESC LIMIT 10;
+SELECT Region,SUM(Profit) as region_profit FROM retail_analysis GROUP BY Region;
+SELECT MONTH(Order_Date)as Months,SUM(Sales)as Monthly_sales FROM retail_analysis GROUP BY MONTH(Order_Date);

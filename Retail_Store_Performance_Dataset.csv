@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Ship_Date,Year,Customer_ID,Customer_Name,Segment,Region,State,City,Country,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Inventory_Days,Unit_Cost,Selling_Price,Stock_Level,Supplier
+ORD00001,28-11-2023,30-11-2023,2023,CUST1001,Shreya Das,Home Office,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 319,7839,9,0.1,1601.55,9,605.95,871,64,ITC Supply
+ORD00002,04-03-2024,05-03-2024,2024,CUST1002,Harini Balaji,Home Office,North,Delhi,New Delhi,India,Office Supplies,Binder,Binder Model 696,4732,1,0,1008.57,12,3723.43,4732,223,Tata Suppliers
+ORD00003,15-08-2023,16-08-2023,2023,CUST1003,Sanjay Rao,Home Office,North,Punjab,Ludhiana,India,Furniture,Chair,Chair Model 285,9576,9,0.2,1655.46,18,667.26,1064,116,Mahindra Traders
+ORD00004,10-04-2023,15-04-2023,2023,CUST1004,Vignesh Kumar,Home Office,South,Tamil Nadu,Chennai,India,Office Supplies,Paper,Paper Model 564,35640,8,0.15,3766.88,51,3315.89,4455,173,Reliance Distributors
+ORD00005,04-07-2023,10-07-2023,2023,CUST1005,Pooja Singh,Home Office,North,Delhi,New Delhi,India,Office Supplies,Binder,Binder Model 174,37395,9,0.1,6268.86,20,3042.96,4155,282,ITC Supply
+ORD00006,18-06-2023,21-06-2023,2023,CUST1006,Sanjay Rao,Corporate,North,Punjab,Ludhiana,India,Furniture,Chair,Chair Model 448,9342,2,0.2,492.58,49,3490.51,4671,274,Adani Logistics
+ORD00007,12-04-2024,13-04-2024,2024,CUST1007,Nikhil Joshi,Corporate,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 391,1194,2,0.1,224.74,54,424.93,597,197,Tata Suppliers
+ORD00008,17-04-2024,20-04-2024,2024,CUST1008,Ananya Iyer,Corporate,North,Uttar Pradesh,Lucknow,India,Technology,Printer,Printer Model 500,1887,1,0.1,599.43,68,1098.87,1887,61,Reliance Distributors
+ORD00009,04-04-2024,08-04-2024,2024,CUST1009,Karthik Raj,Consumer,West,Maharashtra,Mumbai,India,Furniture,Bookcase,Bookcase Model 254,17510,5,0.1,3139.9,15,2523.82,3502,110,Reliance Distributors
+ORD00010,26-08-2023,01-09-2023,2023,CUST1010,Raja Sekaran,Home Office,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 478,6756,3,0.1,2357.7,83,1240.9,2252,183,Reliance Distributors
+ORD00011,08-12-2024,13-12-2024,2024,CUST1011,Suresh Babu,Home Office,South,Telangana,Hyderabad,India,Office Supplies,Pen,Pen Model 510,23520,7,0.15,4738.58,12,2179.06,3360,117,Tata Suppliers
+ORD00012,02-08-2023,06-08-2023,2023,CUST1012,Neha Agarwal,Consumer,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 472,938,1,0,289.19,83,648.81,938,33,Tata Suppliers
+ORD00013,01-08-2023,06-08-2023,2023,CUST1013,Swathi R,Corporate,East,West Bengal,Kolkata,India,Office Supplies,Binder,Binder Model 577,18498,6,0.15,4981.32,66,1790.33,3083,267,Mahindra Traders
+ORD00014,29-03-2023,31-03-2023,2023,CUST1014,Deepak Gupta,Corporate,South,Kerala,Kochi,India,Office Supplies,Binder,Binder Model 250,11376,8,0.2,2778.32,74,790.31,1422,33,Adani Logistics
+ORD00015,02-11-2023,08-11-2023,2023,CUST1015,Manoj Kumar,Home Office,South,Kerala,Kochi,India,Office Supplies,Binder,Binder Model 437,9039,3,0.05,2412.06,86,2058.33,3013,134,Adani Logistics
+ORD00016,19-07-2023,21-07-2023,2023,CUST1016,Aarav Sharma,Corporate,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 583,37224,9,0.1,6225.66,38,3030.66,4136,119,Adani Logistics
+ORD00017,19-12-2023,23-12-2023,2023,CUST1017,Priya Sharma,Corporate,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 739,3916,2,0.15,982.22,83,1173.19,1958,20,ITC Supply
+ORD00018,30-10-2024,02-11-2024,2024,CUST1018,Harini Balaji,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 188,16064,4,0.05,4682.96,55,2644.46,4016,257,ITC Supply
+ORD00019,28-03-2023,03-04-2023,2023,CUST1019,Sai Kiran,Home Office,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 946,14817,3,0.15,1457.61,81,3712.28,4939,262,Mahindra Traders
+ORD00020,09-06-2023,14-06-2023,2023,CUST1020,Swathi R,Consumer,North,Delhi,New Delhi,India,Technology,Monitor,Monitor Model 945,8826,2,0.05,2573.2,32,2905.75,4413,34,Mahindra Traders
+ORD00021,06-08-2023,09-08-2023,2023,CUST1021,Kavya R,Corporate,North,Uttar Pradesh,Lucknow,India,Furniture,Table,Table Model 569,31788,9,0.05,12231.18,89,1996.38,3532,284,ITC Supply
+ORD00022,28-05-2024,30-05-2024,2024,CUST1022,Keerthana S,Consumer,North,Uttar Pradesh,Lucknow,India,Office Supplies,Paper,Paper Model 276,12800,8,0.2,3187.44,23,881.57,1600,262,Adani Logistics
+ORD00023,04-05-2023,09-05-2023,2023,CUST1023,Arjun Reddy,Home Office,South,Kerala,Kochi,India,Office Supplies,Pen,Pen Model 158,41850,9,0.15,4349.52,36,3469.22,4650,117,Mahindra Traders
+ORD00024,13-02-2023,14-02-2023,2023,CUST1024,Divya Menon,Home Office,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 304,22136,8,0.2,147.44,40,2195.17,2767,251,Adani Logistics
+ORD00025,30-06-2024,04-07-2024,2024,CUST1025,Arjun Reddy,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Binder,Binder Model 552,15831,9,0.15,4206.6,45,1027.75,1759,57,Reliance Distributors
+ORD00026,14-03-2024,15-03-2024,2024,CUST1026,Sai Kiran,Corporate,North,Uttar Pradesh,Lucknow,India,Furniture,Chair,Chair Model 324,9297,3,0.05,3130.5,17,1900.55,3099,223,ITC Supply
+ORD00027,16-06-2023,22-06-2023,2023,CUST1027,Lakshmi Devi,Corporate,North,Delhi,New Delhi,India,Office Supplies,Binder,Binder Model 194,30672,9,0.1,7504.83,51,2233.33,3408,29,Mahindra Traders
+ORD00028,21-07-2024,25-07-2024,2024,CUST1028,Aditya Kumar,Consumer,East,Assam,Guwahati,India,Technology,Printer,Printer Model 907,26028,6,0.2,4584.48,34,2706.32,4338,73,Tata Suppliers
+ORD00029,29-09-2023,02-10-2023,2023,CUST1029,Shreya Das,Home Office,South,Karnataka,Bengaluru,India,Furniture,Chair,Chair Model 684,15526,7,0.15,4078.06,68,1302.72,2218,187,Tata Suppliers
+ORD00030,13-10-2023,14-10-2023,2023,CUST1030,Swathi R,Consumer,North,Punjab,Ludhiana,India,Technology,Printer,Printer Model 168,825,1,0.1,271.48,38,471.02,825,82,ITC Supply
+ORD00031,12-01-2023,15-01-2023,2023,CUST1031,Rahul Verma,Corporate,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 151,4416,1,0.05,730.71,28,3464.49,4416,123,Mahindra Traders
+ORD00032,05-10-2024,08-10-2024,2024,CUST1032,Sneha Nair,Consumer,North,Punjab,Ludhiana,India,Furniture,Bookcase,Bookcase Model 115,6948,3,0.1,1035.81,7,1739.13,2316,278,Adani Logistics
+ORD00033,14-07-2023,19-07-2023,2023,CUST1033,Karthik Raj,Home Office,East,West Bengal,Kolkata,India,Furniture,Chair,Chair Model 415,29085,7,0.2,1202.53,32,3152.21,4155,137,Mahindra Traders
+ORD00034,23-07-2023,29-07-2023,2023,CUST1034,Abhishek Mishra,Corporate,North,Punjab,Ludhiana,India,Furniture,Chair,Chair Model 541,648,3,0,190.29,25,152.57,216,48,Tata Suppliers
+ORD00035,12-11-2024,16-11-2024,2024,CUST1035,Sneha Nair,Corporate,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 103,2350,5,0.15,596.1,38,280.28,470,206,Mahindra Traders
+ORD00036,14-07-2024,17-07-2024,2024,CUST1036,Aditya Kumar,Corporate,North,Delhi,New Delhi,India,Furniture,Chair,Chair Model 385,9588,6,0,3510.78,69,1012.87,1598,122,Reliance Distributors
+ORD00037,31-05-2024,01-06-2024,2024,CUST1037,Pooja Singh,Corporate,South,Kerala,Kochi,India,Technology,Laptop,Laptop Model 744,34349,7,0,12073.88,34,3182.16,4907,63,Adani Logistics
+ORD00038,25-06-2024,27-06-2024,2024,CUST1038,Vivaan Patel,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Binder,Binder Model 625,7281,3,0.2,649.44,85,1725.12,2427,239,Adani Logistics
+ORD00039,23-05-2023,28-05-2023,2023,CUST1039,Karthik Raj,Corporate,South,Karnataka,Bengaluru,India,Technology,Laptop,Laptop Model 671,1190,1,0.1,131.04,11,939.96,1190,29,Adani Logistics
+ORD00040,28-11-2024,30-11-2024,2024,CUST1040,Deepak Gupta,Consumer,East,Odisha,Bhubaneswar,India,Technology,Printer,Printer Model 863,8440,2,0.2,1916,65,2418,4220,149,Tata Suppliers
+ORD00041,29-09-2023,01-10-2023,2023,CUST1041,Shreya Das,Home Office,North,Delhi,New Delhi,India,Office Supplies,Pen,Pen Model 394,33168,8,0.15,9314.08,10,2359.84,4146,121,Tata Suppliers
+ORD00042,06-09-2024,08-09-2024,2024,CUST1042,Vivaan Patel,Corporate,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 375,23755,5,0.05,9427.95,17,2627.86,4751,131,ITC Supply
+ORD00043,25-10-2023,31-10-2023,2023,CUST1043,Aditya Kumar,Corporate,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 117,9196,2,0.05,2961.86,42,2887.17,4598,254,Tata Suppliers
+ORD00044,02-06-2024,06-06-2024,2024,CUST1044,Deepak Gupta,Corporate,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 468,9726,2,0,4032.06,21,2846.97,4863,280,Mahindra Traders
+ORD00045,26-04-2023,02-05-2023,2023,CUST1045,Suresh Babu,Home Office,West,Maharashtra,Mumbai,India,Furniture,Table,Table Model 561,2121,7,0.05,846.51,56,166.92,303,174,Reliance Distributors
+ORD00046,02-03-2024,05-03-2024,2024,CUST1046,Arjun Reddy,Consumer,East,Odisha,Bhubaneswar,India,Technology,Printer,Printer Model 830,2758,1,0.1,386.73,6,2095.47,2758,168,Mahindra Traders
+ORD00047,17-01-2024,18-01-2024,2024,CUST1047,Sneha Nair,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 152,21636,6,0.1,2951.94,89,2753.41,3606,166,Reliance Distributors
+ORD00048,13-09-2023,16-09-2023,2023,CUST1048,Harini Balaji,Corporate,East,Assam,Guwahati,India,Furniture,Chair,Chair Model 996,21624,6,0,5341.32,75,2713.78,3604,124,Tata Suppliers
+ORD00049,20-02-2023,26-02-2023,2023,CUST1049,Neha Agarwal,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 274,20385,5,0,4525.95,65,3171.81,4077,232,Mahindra Traders
+ORD00050,16-10-2023,19-10-2023,2023,CUST1050,Neha Agarwal,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 503,17135,5,0.05,5565.3,20,2142.59,3427,105,Reliance Distributors
+ORD00051,18-03-2023,20-03-2023,2023,CUST1051,Priya Sharma,Consumer,East,Assam,Guwahati,India,Technology,Printer,Printer Model 192,22716,6,0.15,6022.02,27,2214.43,3786,195,Adani Logistics
+ORD00052,04-04-2023,07-04-2023,2023,CUST1052,Kavya R,Home Office,North,Punjab,Ludhiana,India,Furniture,Bookcase,Bookcase Model 315,1056,4,0.15,215.72,53,170.47,264,158,Mahindra Traders
+ORD00053,05-03-2023,09-03-2023,2023,CUST1053,Abhishek Mishra,Consumer,West,Rajasthan,Jaipur,India,Furniture,Chair,Chair Model 493,39915,9,0.05,15041.97,56,2541.92,4435,248,ITC Supply
+ORD00054,16-11-2023,17-11-2023,2023,CUST1054,Karthik Raj,Home Office,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 975,39280,8,0.15,11782.24,64,2700.72,4910,249,Reliance Distributors
+ORD00055,22-04-2023,24-04-2023,2023,CUST1055,Vivaan Patel,Consumer,North,Delhi,New Delhi,India,Office Supplies,Pen,Pen Model 901,7692,2,0,2400.86,21,2645.57,3846,139,Adani Logistics
+ORD00056,08-02-2023,14-02-2023,2023,CUST1056,Pooja Singh,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 696,33147,9,0,14092.11,29,2117.21,3683,218,Mahindra Traders
+ORD00057,17-08-2023,22-08-2023,2023,CUST1057,Abhishek Mishra,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Binder,Binder Model 586,19056,8,0.1,3598.88,72,1693.94,2382,140,Adani Logistics
+ORD00058,10-09-2023,11-09-2023,2023,CUST1058,Nikhil Joshi,Home Office,East,Assam,Guwahati,India,Office Supplies,Binder,Binder Model 530,278,1,0.05,76.57,15,187.53,278,151,Reliance Distributors
+ORD00059,14-11-2024,18-11-2024,2024,CUST1059,Priya Sharma,Consumer,West,Maharashtra,Mumbai,India,Furniture,Chair,Chair Model 916,21270,6,0.1,3814.98,42,2554.67,3545,278,Tata Suppliers
+ORD00060,30-07-2023,03-08-2023,2023,CUST1060,Pooja Singh,Consumer,North,Punjab,Ludhiana,India,Technology,Laptop,Laptop Model 738,15312,8,0.1,2448.08,68,1416.59,1914,115,Reliance Distributors
+ORD00061,11-05-2024,15-05-2024,2024,CUST1061,Vivaan Patel,Home Office,South,Karnataka,Bengaluru,India,Furniture,Chair,Chair Model 161,1172,4,0.2,251.44,28,171.54,293,221,ITC Supply
+ORD00062,30-12-2024,02-01-2025,2024,CUST1062,Vivaan Patel,Corporate,South,Tamil Nadu,Chennai,India,Technology,Printer,Printer Model 780,6476,4,0.2,410.72,53,1192.52,1619,211,Mahindra Traders
+ORD00063,29-03-2024,31-03-2024,2024,CUST1063,Arjun Reddy,Home Office,South,Tamil Nadu,Chennai,India,Technology,Printer,Printer Model 877,5958,2,0.15,364.16,31,2350.07,2979,214,Mahindra Traders
+ORD00064,13-11-2023,17-11-2023,2023,CUST1064,Priya Sharma,Corporate,South,Tamil Nadu,Chennai,India,Office Supplies,Binder,Binder Model 472,12612,4,0.2,253.8,65,2458.95,3153,35,ITC Supply
+ORD00065,11-09-2023,17-09-2023,2023,CUST1065,Kavya R,Consumer,East,West Bengal,Kolkata,India,Furniture,Chair,Chair Model 720,4896,8,0,1888.64,48,375.92,612,205,Mahindra Traders
+ORD00066,10-12-2023,15-12-2023,2023,CUST1066,Manoj Kumar,Home Office,South,Kerala,Kochi,India,Office Supplies,Pen,Pen Model 924,14142,6,0.1,4936.38,86,1298.57,2357,53,Tata Suppliers
+ORD00067,28-08-2023,29-08-2023,2023,CUST1067,Suresh Babu,Consumer,East,Assam,Guwahati,India,Furniture,Table,Table Model 108,18110,5,0.15,4832.15,43,2112.27,3622,97,Adani Logistics
+ORD00068,30-08-2023,02-09-2023,2023,CUST1068,Rahul Verma,Consumer,West,Gujarat,Ahmedabad,India,Furniture,Bookcase,Bookcase Model 517,8586,2,0.05,2593.64,13,2781.53,4293,37,ITC Supply
+ORD00069,19-07-2024,24-07-2024,2024,CUST1069,Arjun Reddy,Corporate,West,Maharashtra,Mumbai,India,Furniture,Chair,Chair Model 610,4538,2,0.2,1039.1,62,1295.65,2269,108,Reliance Distributors
+ORD00070,17-05-2023,21-05-2023,2023,CUST1070,Rohit Jain,Corporate,East,Assam,Guwahati,India,Office Supplies,Paper,Paper Model 481,9828,9,0.1,2718,37,680.8,1092,153,Reliance Distributors
+ORD00071,25-03-2024,27-03-2024,2024,CUST1071,Karthik Raj,Corporate,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 351,24185,5,0.05,7700.9,69,3054.97,4837,289,Reliance Distributors
+ORD00072,27-10-2024,28-10-2024,2024,CUST1072,Vivaan Patel,Corporate,East,West Bengal,Kolkata,India,Technology,Laptop,Laptop Model 338,15944,8,0.15,1138.48,20,1551.74,1993,45,Reliance Distributors
+ORD00073,06-09-2024,11-09-2024,2024,CUST1073,Manoj Kumar,Home Office,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 106,11337,3,0.2,2097.48,18,2324.04,3779,199,Reliance Distributors
+ORD00074,08-02-2023,11-02-2023,2023,CUST1074,Shreya Das,Consumer,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 934,2065,5,0.2,138.25,6,302.75,413,187,ITC Supply
+ORD00075,25-11-2024,28-11-2024,2024,CUST1075,Aditya Kumar,Corporate,North,Uttar Pradesh,Lucknow,India,Furniture,Chair,Chair Model 203,1428,4,0.15,232.76,55,245.26,357,99,Adani Logistics
+ORD00076,04-04-2023,10-04-2023,2023,CUST1076,Vivaan Patel,Corporate,North,Punjab,Ludhiana,India,Office Supplies,Binder,Binder Model 863,16940,7,0.1,4159.4,77,1583.8,2420,202,ITC Supply
+ORD00077,02-03-2024,03-03-2024,2024,CUST1077,Rahul Verma,Corporate,West,Rajasthan,Jaipur,India,Technology,Printer,Printer Model 216,12376,7,0,4225.9,16,1164.3,1768,227,Adani Logistics
+ORD00078,09-01-2024,13-01-2024,2024,CUST1078,Divya Menon,Corporate,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 854,11403,9,0.15,3167.1,69,725.05,1267,107,Reliance Distributors
+ORD00079,23-12-2023,26-12-2023,2023,CUST1079,Keerthana S,Consumer,North,Uttar Pradesh,Lucknow,India,Technology,Laptop,Laptop Model 408,6486,2,0.15,723.9,21,2394.6,3243,42,ITC Supply
+ORD00080,19-11-2023,20-11-2023,2023,CUST1080,Swathi R,Consumer,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 949,5757,3,0.2,857.1,65,1249.5,1919,113,Adani Logistics
+ORD00081,12-08-2023,13-08-2023,2023,CUST1081,Kavya R,Consumer,East,Assam,Guwahati,India,Technology,Printer,Printer Model 142,6648,6,0.05,2248.56,76,677.84,1108,39,Mahindra Traders
+ORD00082,01-05-2023,05-05-2023,2023,CUST1082,Karthik Raj,Home Office,East,Assam,Guwahati,India,Office Supplies,Binder,Binder Model 476,18368,7,0.2,3447.43,62,1606.71,2624,277,ITC Supply
+ORD00083,03-07-2023,04-07-2023,2023,CUST1083,Karthik Raj,Consumer,South,Telangana,Hyderabad,India,Furniture,Chair,Chair Model 168,30832,8,0.05,6085.2,21,2900.65,3854,203,ITC Supply
+ORD00084,10-01-2024,11-01-2024,2024,CUST1084,Kavya R,Corporate,East,Assam,Guwahati,India,Office Supplies,Pen,Pen Model 896,433,1,0.05,164.3,70,247.05,433,60,Tata Suppliers
+ORD00085,31-05-2024,04-06-2024,2024,CUST1085,Suresh Babu,Corporate,North,Delhi,New Delhi,India,Technology,Monitor,Monitor Model 930,3372,2,0.05,521.2,26,1341.1,1686,133,Tata Suppliers
+ORD00086,26-12-2023,31-12-2023,2023,CUST1086,Shreya Das,Corporate,West,Maharashtra,Mumbai,India,Furniture,Bookcase,Bookcase Model 313,19190,5,0.05,6456.65,80,2354.77,3838,154,Adani Logistics
+ORD00087,02-06-2024,04-06-2024,2024,CUST1087,Sneha Nair,Home Office,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 435,10215,3,0.05,2460.36,53,2414.63,3405,106,Mahindra Traders
+ORD00088,28-04-2023,03-05-2023,2023,CUST1088,Neha Agarwal,Home Office,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 977,43659,9,0,16895.7,55,2973.7,4851,210,Mahindra Traders
+ORD00089,20-01-2024,23-01-2024,2024,CUST1089,Vivaan Patel,Corporate,North,Punjab,Ludhiana,India,Furniture,Chair,Chair Model 939,15872,8,0.05,3906.96,71,1396.43,1984,149,Mahindra Traders
+ORD00090,16-10-2024,21-10-2024,2024,CUST1090,Harini Balaji,Corporate,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 527,1915,1,0.05,626.7,70,1192.55,1915,206,Tata Suppliers
+ORD00091,16-05-2023,20-05-2023,2023,CUST1091,Pooja Singh,Consumer,North,Uttar Pradesh,Lucknow,India,Office Supplies,Paper,Paper Model 635,545,1,0,167.98,50,377.02,545,293,Reliance Distributors
+ORD00092,28-02-2024,04-03-2024,2024,CUST1092,Shreya Das,Consumer,West,Rajasthan,Jaipur,India,Technology,Laptop,Laptop Model 824,23940,6,0.05,8769.54,24,2328.91,3990,250,Tata Suppliers
+ORD00093,07-03-2023,13-03-2023,2023,CUST1093,Neha Agarwal,Corporate,North,Uttar Pradesh,Lucknow,India,Furniture,Table,Table Model 708,970,5,0,280.1,87,137.98,194,247,Adani Logistics
+ORD00094,14-06-2024,20-06-2024,2024,CUST1094,Rahul Verma,Consumer,East,West Bengal,Kolkata,India,Technology,Laptop,Laptop Model 263,604,1,0.2,147.19,12,336.01,604,73,Tata Suppliers
+ORD00095,19-09-2024,24-09-2024,2024,CUST1095,Rahul Verma,Home Office,North,Delhi,New Delhi,India,Furniture,Chair,Chair Model 416,38268,9,0.15,3698.82,13,3203.22,4252,173,Tata Suppliers
+ORD00096,04-05-2024,10-05-2024,2024,CUST1096,Arjun Reddy,Corporate,South,Telangana,Hyderabad,India,Furniture,Bookcase,Bookcase Model 337,6072,8,0.15,1555.36,87,450.73,759,39,Tata Suppliers
+ORD00097,10-12-2023,16-12-2023,2023,CUST1097,Pooja Singh,Home Office,West,Rajasthan,Jaipur,India,Technology,Printer,Printer Model 322,33048,9,0.2,232.2,15,2911.8,3672,279,Tata Suppliers
+ORD00098,23-06-2023,26-06-2023,2023,CUST1098,Ananya Iyer,Corporate,North,Uttar Pradesh,Lucknow,India,Technology,Laptop,Laptop Model 972,10032,6,0.15,2185.56,85,1056.94,1672,294,ITC Supply
+ORD00099,28-04-2024,03-05-2024,2024,CUST1099,Karthik Raj,Home Office,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 699,19088,4,0.1,2914.72,14,3566.12,4772,107,Reliance Distributors
+ORD00100,03-02-2023,04-02-2023,2023,CUST1100,Sai Kiran,Home Office,South,Tamil Nadu,Chennai,India,Office Supplies,Paper,Paper Model 758,7566,6,0,3346.32,86,703.28,1261,41,Tata Suppliers
+ORD00101,17-02-2023,18-02-2023,2023,CUST1101,Priya Sharma,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 134,6488,2,0,2519.66,9,1984.17,3244,64,Mahindra Traders
+ORD00102,03-05-2024,04-05-2024,2024,CUST1102,Aarav Sharma,Corporate,North,Delhi,New Delhi,India,Office Supplies,Paper,Paper Model 362,13570,5,0.1,3311.9,41,1780.22,2714,44,Mahindra Traders
+ORD00103,25-11-2023,30-11-2023,2023,CUST1103,Manoj Kumar,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 455,3482,1,0,1186.97,65,2295.03,3482,44,Adani Logistics
+ORD00104,02-08-2024,04-08-2024,2024,CUST1104,Manoj Kumar,Consumer,South,Kerala,Kochi,India,Technology,Printer,Printer Model 104,4388,1,0.05,1438.9,49,2729.7,4388,271,Tata Suppliers
+ORD00105,18-05-2024,24-05-2024,2024,CUST1105,Pooja Singh,Consumer,North,Punjab,Ludhiana,India,Office Supplies,Binder,Binder Model 816,20106,9,0.2,282.15,34,1755.85,2234,275,Reliance Distributors
+ORD00106,23-04-2023,29-04-2023,2023,CUST1106,Shreya Das,Corporate,South,Telangana,Hyderabad,India,Office Supplies,Pen,Pen Model 863,5550,2,0.1,1810.48,16,1592.26,2775,236,Tata Suppliers
+ORD00107,16-01-2024,18-01-2024,2024,CUST1107,Harini Balaji,Consumer,West,Gujarat,Ahmedabad,India,Furniture,Bookcase,Bookcase Model 571,13509,9,0.15,734.85,21,1194.2,1501,292,Adani Logistics
+ORD00108,06-12-2024,11-12-2024,2024,CUST1108,Kavya R,Corporate,South,Kerala,Kochi,India,Office Supplies,Binder,Binder Model 273,12348,9,0.15,1660.5,64,981.7,1372,244,Mahindra Traders
+ORD00109,16-08-2024,18-08-2024,2024,CUST1109,Manoj Kumar,Home Office,North,Punjab,Ludhiana,India,Furniture,Bookcase,Bookcase Model 946,17036,4,0.05,5675.2,84,2627.25,4259,99,Reliance Distributors
+ORD00110,11-09-2023,17-09-2023,2023,CUST1110,Sneha Nair,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 204,6105,3,0.1,677.97,26,1605.51,2035,72,Reliance Distributors
+ORD00111,29-01-2024,31-01-2024,2024,CUST1111,Shreya Das,Consumer,North,Punjab,Ludhiana,India,Office Supplies,Binder,Binder Model 387,16401,7,0.05,6112.33,31,1352.66,2343,218,ITC Supply
+ORD00112,04-02-2023,05-02-2023,2023,CUST1112,Sneha Nair,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 855,22734,9,0.15,6694.47,56,1403.27,2526,22,Reliance Distributors
+ORD00113,16-03-2024,22-03-2024,2024,CUST1113,Vignesh Kumar,Corporate,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 420,19720,10,0.05,4725.2,38,1400.88,1972,70,ITC Supply
+ORD00114,06-09-2023,10-09-2023,2023,CUST1114,Deepak Gupta,Home Office,North,Punjab,Ludhiana,India,Furniture,Table,Table Model 776,2088,8,0.2,73.84,28,199.57,261,187,Tata Suppliers
+ORD00115,03-02-2024,07-02-2024,2024,CUST1115,Arjun Reddy,Home Office,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 567,5668,4,0.05,1531.48,74,963.28,1417,124,ITC Supply
+ORD00116,08-06-2024,09-06-2024,2024,CUST1116,Manoj Kumar,Consumer,West,Rajasthan,Jaipur,India,Furniture,Table,Table Model 846,14568,8,0.05,4397.76,83,1180.23,1821,202,Tata Suppliers
+ORD00117,16-09-2023,19-09-2023,2023,CUST1117,Nikhil Joshi,Corporate,East,Odisha,Bhubaneswar,India,Technology,Laptop,Laptop Model 694,7058,2,0.15,1008.3,38,2495.5,3529,75,Reliance Distributors
+ORD00118,07-11-2023,13-11-2023,2023,CUST1118,Manoj Kumar,Consumer,East,Assam,Guwahati,India,Technology,Printer,Printer Model 929,14688,8,0.05,5400.4,86,1069.15,1836,118,ITC Supply
+ORD00119,19-10-2024,24-10-2024,2024,CUST1119,Harini Balaji,Consumer,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 898,27538,7,0.1,4406.85,65,2911.05,3934,201,Reliance Distributors
+ORD00120,01-10-2023,07-10-2023,2023,CUST1120,Keerthana S,Corporate,East,Assam,Guwahati,India,Furniture,Table,Table Model 466,12135,3,0,3017.25,36,3039.25,4045,174,Mahindra Traders
+ORD00121,06-05-2024,10-05-2024,2024,CUST1121,Vivaan Patel,Consumer,East,Assam,Guwahati,India,Office Supplies,Paper,Paper Model 947,8106,6,0.1,1105.56,77,1031.64,1351,186,Reliance Distributors
+ORD00122,27-06-2024,30-06-2024,2024,CUST1122,Sai Kiran,Consumer,South,Tamil Nadu,Chennai,India,Technology,Laptop,Laptop Model 290,10740,5,0.2,2412.45,62,1235.91,2148,197,Reliance Distributors
+ORD00123,02-08-2023,06-08-2023,2023,CUST1123,Akash Yadav,Consumer,North,Uttar Pradesh,Lucknow,India,Office Supplies,Pen,Pen Model 643,9186,2,0.1,2761.84,15,2752.78,4593,244,Tata Suppliers
+ORD00124,22-07-2024,23-07-2024,2024,CUST1124,Vignesh Kumar,Consumer,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 817,33112,8,0.2,7794.08,67,2336.94,4139,146,ITC Supply
+ORD00125,18-06-2023,23-06-2023,2023,CUST1125,Lakshmi Devi,Corporate,South,Karnataka,Bengaluru,India,Furniture,Table,Table Model 528,41760,10,0.1,5840.5,14,3174.35,4176,112,Mahindra Traders
+ORD00126,13-10-2024,19-10-2024,2024,CUST1126,Manoj Kumar,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Paper,Paper Model 134,5214,6,0.2,672.36,32,583.14,869,232,Reliance Distributors
+ORD00127,13-12-2023,14-12-2023,2023,CUST1127,Raja Sekaran,Corporate,West,Gujarat,Ahmedabad,India,Furniture,Bookcase,Bookcase Model 667,16434,9,0.1,3963.96,11,1202.96,1826,168,Mahindra Traders
+ORD00128,30-12-2023,03-01-2024,2023,CUST1128,Keerthana S,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Binder,Binder Model 438,26316,9,0.05,6220.08,29,2086.68,2924,182,Mahindra Traders
+ORD00129,11-05-2023,16-05-2023,2023,CUST1129,Karthik Raj,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 211,30834,9,0.2,3283.47,5,2375.97,3426,43,Reliance Distributors
+ORD00130,01-05-2024,06-05-2024,2024,CUST1130,Harini Balaji,Corporate,South,Telangana,Hyderabad,India,Office Supplies,Paper,Paper Model 740,7790,10,0.05,3039.1,27,436.14,779,71,Reliance Distributors
+ORD00131,07-02-2023,11-02-2023,2023,CUST1131,Rahul Verma,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Chair,Chair Model 135,23520,5,0.1,3160.8,45,3601.44,4704,30,ITC Supply
+ORD00132,02-08-2024,08-08-2024,2024,CUST1132,Shreya Das,Corporate,South,Telangana,Hyderabad,India,Office Supplies,Pen,Pen Model 557,1073,1,0.15,167.57,13,744.48,1073,27,ITC Supply
+ORD00133,31-08-2024,05-09-2024,2024,CUST1133,Sai Kiran,Home Office,North,Punjab,Ludhiana,India,Furniture,Bookcase,Bookcase Model 115,1558,2,0.15,384.72,59,469.79,779,22,Tata Suppliers
+ORD00134,01-12-2024,07-12-2024,2024,CUST1134,Rohit Jain,Consumer,South,Tamil Nadu,Chennai,India,Technology,Laptop,Laptop Model 561,11907,3,0,4538.22,28,2456.26,3969,45,Mahindra Traders
+ORD00135,31-12-2024,06-01-2025,2024,CUST1135,Abhishek Mishra,Corporate,North,Uttar Pradesh,Lucknow,India,Technology,Printer,Printer Model 153,37620,9,0.15,4988.97,9,2998.67,4180,25,Tata Suppliers
+ORD00136,16-01-2023,22-01-2023,2023,CUST1136,Meera Krishnan,Corporate,South,Telangana,Hyderabad,India,Furniture,Table,Table Model 688,14590,10,0.15,2155.9,61,1024.56,1459,260,Reliance Distributors
+ORD00137,29-05-2023,30-05-2023,2023,CUST1137,Vignesh Kumar,Corporate,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 903,28049,7,0.15,2958.55,77,2983.3,4007,190,Mahindra Traders
+ORD00138,14-10-2023,15-10-2023,2023,CUST1138,Abhishek Mishra,Consumer,West,Rajasthan,Jaipur,India,Office Supplies,Paper,Paper Model 485,7884,3,0.2,1126.29,54,1726.97,2628,212,Adani Logistics
+ORD00139,28-08-2023,01-09-2023,2023,CUST1139,Shreya Das,Consumer,West,Rajasthan,Jaipur,India,Technology,Printer,Printer Model 395,11475,5,0.15,2991.3,23,1352.49,2295,95,Mahindra Traders
+ORD00140,14-07-2024,20-07-2024,2024,CUST1140,Priya Sharma,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 339,41715,9,0.15,4198.77,44,3473.22,4635,49,ITC Supply
+ORD00141,21-04-2024,27-04-2024,2024,CUST1141,Keerthana S,Corporate,North,Punjab,Ludhiana,India,Office Supplies,Paper,Paper Model 890,27062,7,0.2,6172.18,13,2211.06,3866,139,ITC Supply
+ORD00142,16-08-2024,21-08-2024,2024,CUST1142,Priya Sharma,Consumer,West,Rajasthan,Jaipur,India,Furniture,Table,Table Model 285,44343,9,0.05,15640.29,42,2942.84,4927,205,Adani Logistics
+ORD00143,31-07-2024,03-08-2024,2024,CUST1143,Lakshmi Devi,Home Office,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 574,4140,1,0.1,552.31,15,3173.69,4140,99,Mahindra Traders
+ORD00144,03-09-2024,04-09-2024,2024,CUST1144,Swathi R,Home Office,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 597,870,1,0,346.99,80,523.01,870,129,Mahindra Traders
+ORD00145,14-10-2023,18-10-2023,2023,CUST1145,Rahul Verma,Corporate,South,Telangana,Hyderabad,India,Office Supplies,Pen,Pen Model 185,6540,3,0,2388.99,8,1383.67,2180,46,Tata Suppliers
+ORD00146,24-07-2024,27-07-2024,2024,CUST1146,Rohit Jain,Consumer,East,Odisha,Bhubaneswar,India,Technology,Monitor,Monitor Model 756,7574,7,0,2921.31,16,664.67,1082,279,ITC Supply
+ORD00147,07-07-2023,11-07-2023,2023,CUST1147,Lakshmi Devi,Consumer,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 666,6040,4,0,1296,8,1186,1510,44,Mahindra Traders
+ORD00148,09-06-2024,15-06-2024,2024,CUST1148,Pooja Singh,Home Office,East,West Bengal,Kolkata,India,Technology,Laptop,Laptop Model 705,882,6,0.05,203.52,61,105.73,147,73,ITC Supply
+ORD00149,28-11-2023,01-12-2023,2023,CUST1149,Keerthana S,Consumer,West,Gujarat,Ahmedabad,India,Technology,Printer,Printer Model 793,25680,8,0.05,7438.32,6,2119.71,3210,259,Reliance Distributors
+ORD00150,06-02-2023,08-02-2023,2023,CUST1150,Karthik Raj,Consumer,North,Delhi,New Delhi,India,Office Supplies,Binder,Binder Model 743,11289,3,0,2466.81,14,2940.73,3763,251,Mahindra Traders
+ORD00151,27-11-2023,29-11-2023,2023,CUST1151,Rahul Verma,Home Office,East,West Bengal,Kolkata,India,Office Supplies,Binder,Binder Model 562,8457,3,0.05,1826.58,75,2069.19,2819,94,ITC Supply
+ORD00152,02-06-2023,05-06-2023,2023,CUST1152,Meera Krishnan,Consumer,East,Odisha,Bhubaneswar,India,Technology,Laptop,Laptop Model 366,2320,1,0.2,93.05,67,1762.95,2320,75,Mahindra Traders
+ORD00153,12-04-2024,16-04-2024,2024,CUST1153,Arjun Reddy,Corporate,South,Karnataka,Bengaluru,India,Office Supplies,Paper,Paper Model 872,18748,4,0.15,1709.44,30,3556.59,4687,206,ITC Supply
+ORD00154,25-09-2023,27-09-2023,2023,CUST1154,Pooja Singh,Consumer,North,Delhi,New Delhi,India,Furniture,Table,Table Model 755,9996,7,0,2418.22,7,1082.54,1428,246,Adani Logistics
+ORD00155,16-12-2023,21-12-2023,2023,CUST1155,Shreya Das,Corporate,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 323,8110,5,0.1,1956.05,40,1068.59,1622,112,Reliance Distributors
+ORD00156,04-07-2023,09-07-2023,2023,CUST1156,Kavya R,Corporate,North,Uttar Pradesh,Lucknow,India,Technology,Laptop,Laptop Model 879,7490,10,0,1705.2,40,578.48,749,109,Reliance Distributors
+ORD00157,21-05-2023,26-05-2023,2023,CUST1157,Kavya R,Consumer,North,Uttar Pradesh,Lucknow,India,Furniture,Chair,Chair Model 630,638,1,0.2,94.4,49,416,638,191,Mahindra Traders
+ORD00158,16-10-2024,20-10-2024,2024,CUST1158,Sanjay Rao,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Table,Table Model 137,6843,3,0.05,2418.9,25,1360.65,2281,210,Adani Logistics
+ORD00159,01-09-2024,02-09-2024,2024,CUST1159,Sanjay Rao,Corporate,West,Rajasthan,Jaipur,India,Furniture,Bookcase,Bookcase Model 897,2178,2,0.1,373.2,53,793.5,1089,51,Mahindra Traders
+ORD00160,21-04-2023,27-04-2023,2023,CUST1160,Aditya Kumar,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 733,40509,9,0.05,15994.08,28,2498.83,4501,105,Tata Suppliers
+ORD00161,16-11-2023,19-11-2023,2023,CUST1161,Harini Balaji,Home Office,South,Tamil Nadu,Chennai,India,Technology,Monitor,Monitor Model 575,8964,4,0,2157.32,71,1701.67,2241,142,ITC Supply
+ORD00162,16-04-2023,19-04-2023,2023,CUST1162,Manoj Kumar,Corporate,South,Karnataka,Bengaluru,India,Technology,Printer,Printer Model 212,7816,2,0.15,1199.94,20,2721.83,3908,82,ITC Supply
+ORD00163,21-05-2023,26-05-2023,2023,CUST1163,Sanjay Rao,Consumer,North,Delhi,New Delhi,India,Technology,Monitor,Monitor Model 750,38850,10,0.15,10059,54,2296.35,3885,235,Adani Logistics
+ORD00164,09-09-2024,14-09-2024,2024,CUST1164,Akash Yadav,Corporate,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 963,20292,6,0.05,3862.74,77,2569.11,3382,184,ITC Supply
+ORD00165,28-07-2024,29-07-2024,2024,CUST1165,Aarav Sharma,Corporate,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 211,12852,6,0.15,1725,72,1533.2,2142,115,Tata Suppliers
+ORD00166,29-11-2023,03-12-2023,2023,CUST1166,Manoj Kumar,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Paper,Paper Model 748,4968,4,0.15,286.04,10,984.19,1242,40,Tata Suppliers
+ORD00167,18-10-2024,23-10-2024,2024,CUST1167,Arjun Reddy,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 113,3537,9,0.2,795.42,60,226.02,393,141,Tata Suppliers
+ORD00168,22-10-2023,23-10-2023,2023,CUST1168,Shreya Das,Home Office,West,Gujarat,Ahmedabad,India,Office Supplies,Paper,Paper Model 374,1188,2,0.2,12.16,15,469.12,594,258,Adani Logistics
+ORD00169,30-06-2024,02-07-2024,2024,CUST1169,Ananya Iyer,Home Office,East,West Bengal,Kolkata,India,Office Supplies,Paper,Paper Model 189,17150,5,0.2,3051.4,74,2133.72,3430,167,ITC Supply
+ORD00170,16-09-2024,22-09-2024,2024,CUST1170,Pooja Singh,Home Office,North,Uttar Pradesh,Lucknow,India,Furniture,Chair,Chair Model 589,27936,9,0.15,2152.44,65,2399.24,3104,178,Tata Suppliers
+ORD00171,06-09-2023,09-09-2023,2023,CUST1171,Lakshmi Devi,Consumer,North,Delhi,New Delhi,India,Office Supplies,Pen,Pen Model 982,34279,7,0.15,10181.92,35,2707.89,4897,185,Adani Logistics
+ORD00172,30-11-2023,04-12-2023,2023,CUST1172,Divya Menon,Corporate,West,Gujarat,Ahmedabad,India,Technology,Printer,Printer Model 550,278,1,0.05,72.9,89,191.2,278,51,Adani Logistics
+ORD00173,02-02-2024,06-02-2024,2024,CUST1173,Lakshmi Devi,Consumer,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 791,5460,4,0.15,1177.96,30,865.76,1365,161,Adani Logistics
+ORD00174,08-04-2023,14-04-2023,2023,CUST1174,Manoj Kumar,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 699,10449,3,0,4690.77,20,1919.41,3483,274,ITC Supply
+ORD00175,08-08-2024,10-08-2024,2024,CUST1175,Pooja Singh,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 461,6418,2,0.15,814.06,42,2320.62,3209,200,ITC Supply
+ORD00176,22-06-2024,27-06-2024,2024,CUST1176,Neha Agarwal,Corporate,East,Assam,Guwahati,India,Furniture,Chair,Chair Model 922,25744,8,0.15,5792.24,23,2011.27,3218,243,Adani Logistics
+ORD00177,22-01-2024,27-01-2024,2024,CUST1177,Raja Sekaran,Consumer,North,Delhi,New Delhi,India,Furniture,Table,Table Model 126,20870,10,0.1,6238.5,11,1254.45,2087,151,Adani Logistics
+ORD00178,24-05-2024,27-05-2024,2024,CUST1178,Lakshmi Devi,Consumer,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 708,39033,9,0.15,7908.93,49,2807.68,4337,251,Tata Suppliers
+ORD00179,23-11-2024,24-11-2024,2024,CUST1179,Sai Kiran,Consumer,North,Delhi,New Delhi,India,Furniture,Table,Table Model 531,30456,9,0.2,545.04,67,2646.64,3384,225,ITC Supply
+ORD00180,01-10-2024,06-10-2024,2024,CUST1180,Aditya Kumar,Corporate,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 624,2996,2,0.1,810.36,27,943.02,1498,76,Mahindra Traders
+ORD00181,07-12-2024,10-12-2024,2024,CUST1181,Priya Sharma,Corporate,East,Assam,Guwahati,India,Technology,Monitor,Monitor Model 286,21455,5,0.05,5873.9,12,2901.67,4291,74,Mahindra Traders
+ORD00182,06-08-2024,12-08-2024,2024,CUST1182,Karthik Raj,Consumer,South,Telangana,Hyderabad,India,Technology,Laptop,Laptop Model 700,23145,5,0,5109.05,6,3607.19,4629,35,Reliance Distributors
+ORD00183,29-06-2023,03-07-2023,2023,CUST1183,Arjun Reddy,Consumer,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 260,14418,3,0.05,4285.38,71,3137.24,4806,280,Tata Suppliers
+ORD00184,30-01-2023,31-01-2023,2023,CUST1184,Nikhil Joshi,Home Office,South,Karnataka,Bengaluru,India,Office Supplies,Binder,Binder Model 430,29016,8,0,8341.36,23,2584.33,3627,141,Mahindra Traders
+ORD00185,10-10-2023,12-10-2023,2023,CUST1185,Divya Menon,Corporate,South,Kerala,Kochi,India,Office Supplies,Paper,Paper Model 120,6160,10,0.1,1860.9,11,368.31,616,132,ITC Supply
+ORD00186,19-08-2024,20-08-2024,2024,CUST1186,Rohit Jain,Consumer,East,West Bengal,Kolkata,India,Office Supplies,Paper,Paper Model 422,7700,4,0,3158.16,5,1135.46,1925,253,Mahindra Traders
+ORD00187,04-03-2024,09-03-2024,2024,CUST1187,Karthik Raj,Home Office,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 596,34230,7,0.05,10153.5,7,3195,4890,144,Tata Suppliers
+ORD00188,27-06-2023,29-06-2023,2023,CUST1188,Meera Krishnan,Home Office,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 992,16720,5,0.2,2662.95,54,2142.61,3344,191,ITC Supply
+ORD00189,28-10-2024,29-10-2024,2024,CUST1189,Lakshmi Devi,Consumer,South,Telangana,Hyderabad,India,Furniture,Bookcase,Bookcase Model 546,13092,4,0.05,3708.28,9,2182.28,3273,162,Tata Suppliers
+ORD00190,16-12-2023,18-12-2023,2023,CUST1190,Sai Kiran,Home Office,North,Uttar Pradesh,Lucknow,India,Technology,Laptop,Laptop Model 553,9236,4,0.2,380.96,64,1751.96,2309,142,Reliance Distributors
+ORD00191,12-01-2024,15-01-2024,2024,CUST1191,Deepak Gupta,Consumer,North,Uttar Pradesh,Lucknow,India,Furniture,Table,Table Model 332,18040,10,0.1,2025.3,62,1421.07,1804,87,Mahindra Traders
+ORD00192,02-09-2024,06-09-2024,2024,CUST1192,Manoj Kumar,Consumer,West,Rajasthan,Jaipur,India,Technology,Printer,Printer Model 794,42790,10,0.05,15773.3,70,2487.72,4279,66,Adani Logistics
+ORD00193,04-10-2023,10-10-2023,2023,CUST1193,Akash Yadav,Consumer,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 811,12880,10,0.1,4459.7,27,713.23,1288,138,Mahindra Traders
+ORD00194,12-07-2023,18-07-2023,2023,CUST1194,Pooja Singh,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Binder,Binder Model 331,22788,9,0.05,8739.72,41,1434.32,2532,84,ITC Supply
+ORD00195,17-10-2023,20-10-2023,2023,CUST1195,Nikhil Joshi,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 807,7095,3,0.05,2785.53,49,1318.24,2365,231,Tata Suppliers
+ORD00196,05-11-2024,11-11-2024,2024,CUST1196,Shreya Das,Home Office,East,West Bengal,Kolkata,India,Furniture,Table,Table Model 851,3176,2,0.1,1020.1,33,919.15,1588,40,ITC Supply
+ORD00197,10-02-2023,15-02-2023,2023,CUST1197,Harini Balaji,Home Office,North,Punjab,Ludhiana,India,Technology,Printer,Printer Model 283,9657,3,0,3012.15,77,2214.95,3219,136,Adani Logistics
+ORD00198,24-05-2024,30-05-2024,2024,CUST1198,Manoj Kumar,Home Office,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 393,29590,10,0,12487.9,10,1710.21,2959,44,Reliance Distributors
+ORD00199,28-11-2024,29-11-2024,2024,CUST1199,Divya Menon,Consumer,South,Kerala,Kochi,India,Technology,Printer,Printer Model 387,7034,2,0.15,355.02,72,2811.94,3517,66,Mahindra Traders
+ORD00200,10-03-2024,14-03-2024,2024,CUST1200,Priya Sharma,Corporate,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 789,34128,8,0,9584.96,70,3067.88,4266,85,ITC Supply
+ORD00201,13-07-2023,14-07-2023,2023,CUST1201,Vivaan Patel,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Paper,Paper Model 466,18220,4,0.1,5239.68,49,2789.58,4555,230,Tata Suppliers
+ORD00202,26-07-2023,01-08-2023,2023,CUST1202,Aarav Sharma,Home Office,West,Maharashtra,Mumbai,India,Technology,Monitor,Monitor Model 808,32432,8,0.05,7251.6,61,2944.85,4054,88,Mahindra Traders
+ORD00203,15-12-2024,18-12-2024,2024,CUST1203,Arjun Reddy,Home Office,North,Uttar Pradesh,Lucknow,India,Technology,Monitor,Monitor Model 534,20720,10,0.1,3991.7,26,1465.63,2072,99,Adani Logistics
+ORD00204,17-04-2024,21-04-2024,2024,CUST1204,Vivaan Patel,Corporate,North,Delhi,New Delhi,India,Office Supplies,Binder,Binder Model 411,3053,1,0.15,758.34,30,1836.71,3053,76,Mahindra Traders
+ORD00205,03-04-2024,04-04-2024,2024,CUST1205,Aditya Kumar,Consumer,North,Punjab,Ludhiana,India,Furniture,Table,Table Model 111,30730,10,0.1,9464.1,64,1819.29,3073,268,Tata Suppliers
+ORD00206,06-12-2023,12-12-2023,2023,CUST1206,Meera Krishnan,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 467,28700,7,0.05,5855.71,16,3058.47,4100,166,Adani Logistics
+ORD00207,30-10-2024,05-11-2024,2024,CUST1207,Sanjay Rao,Consumer,West,Rajasthan,Jaipur,India,Technology,Laptop,Laptop Model 403,978,3,0,250.74,52,242.42,326,115,Adani Logistics
+ORD00208,29-11-2024,01-12-2024,2024,CUST1208,Lakshmi Devi,Corporate,South,Kerala,Kochi,India,Office Supplies,Pen,Pen Model 335,19242,6,0.05,4582.92,52,2282.83,3207,89,Adani Logistics
+ORD00209,14-01-2024,17-01-2024,2024,CUST1209,Suresh Babu,Corporate,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 611,34030,10,0,7274.5,25,2675.55,3403,173,Adani Logistics
+ORD00210,18-08-2024,24-08-2024,2024,CUST1210,Karthik Raj,Consumer,South,Karnataka,Bengaluru,India,Office Supplies,Paper,Paper Model 140,3696,3,0.15,520.44,61,873.72,1232,265,Reliance Distributors
+ORD00211,12-08-2023,18-08-2023,2023,CUST1211,Nikhil Joshi,Consumer,West,Maharashtra,Mumbai,India,Technology,Monitor,Monitor Model 626,32265,9,0.05,10621.17,58,2225.62,3585,193,Tata Suppliers
+ORD00212,25-03-2024,26-03-2024,2024,CUST1212,Nikhil Joshi,Corporate,North,Uttar Pradesh,Lucknow,India,Technology,Printer,Printer Model 681,670,5,0.15,66.3,30,100.64,134,260,Tata Suppliers
+ORD00213,09-07-2024,12-07-2024,2024,CUST1213,Keerthana S,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 840,10161,3,0.2,965.64,47,2387.72,3387,172,Adani Logistics
+ORD00214,07-08-2024,11-08-2024,2024,CUST1214,Harini Balaji,Consumer,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 968,7653,3,0.1,1663.74,29,1741.32,2551,133,ITC Supply
+ORD00215,08-12-2024,09-12-2024,2024,CUST1215,Ananya Iyer,Home Office,North,Uttar Pradesh,Lucknow,India,Office Supplies,Binder,Binder Model 551,43713,9,0.15,9179.73,55,3108.48,4857,153,Tata Suppliers
+ORD00216,21-08-2023,23-08-2023,2023,CUST1216,Nikhil Joshi,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Paper,Paper Model 826,8704,4,0,3508.72,67,1298.82,2176,136,Adani Logistics
+ORD00217,14-04-2024,16-04-2024,2024,CUST1217,Neha Agarwal,Home Office,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 831,7400,2,0.05,1362.56,19,2833.72,3700,283,Tata Suppliers
+ORD00218,16-04-2024,22-04-2024,2024,CUST1218,Manoj Kumar,Home Office,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 158,39920,10,0,16598.7,56,2332.13,3992,141,Tata Suppliers
+ORD00219,17-01-2024,18-01-2024,2024,CUST1219,Aditya Kumar,Home Office,South,Karnataka,Bengaluru,India,Furniture,Table,Table Model 993,2420,2,0.15,176.34,30,940.33,1210,78,Mahindra Traders
+ORD00220,22-06-2023,25-06-2023,2023,CUST1220,Kavya R,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Paper,Paper Model 465,5525,5,0.05,1694.75,67,710.8,1105,42,Adani Logistics
+ORD00221,28-12-2023,29-12-2023,2023,CUST1221,Priya Sharma,Home Office,West,Rajasthan,Jaipur,India,Furniture,Bookcase,Bookcase Model 557,758,2,0.05,254.96,7,232.57,379,245,Tata Suppliers
+ORD00222,22-01-2023,26-01-2023,2023,CUST1222,Nikhil Joshi,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Chair,Chair Model 956,13920,3,0.1,1831.38,23,3565.54,4640,148,Adani Logistics
+ORD00223,07-12-2024,10-12-2024,2024,CUST1223,Vivaan Patel,Consumer,East,West Bengal,Kolkata,India,Technology,Printer,Printer Model 176,12270,3,0.2,1582.92,28,2744.36,4090,220,ITC Supply
+ORD00224,12-06-2023,18-06-2023,2023,CUST1224,Priya Sharma,Corporate,East,Odisha,Bhubaneswar,India,Technology,Monitor,Monitor Model 234,6489,9,0.1,1737,80,455.9,721,42,Reliance Distributors
+ORD00225,23-06-2023,26-06-2023,2023,CUST1225,Rohit Jain,Corporate,East,Odisha,Bhubaneswar,India,Office Supplies,Binder,Binder Model 441,20979,7,0.1,7311.22,34,1652.84,2997,30,Reliance Distributors
+ORD00226,15-04-2024,20-04-2024,2024,CUST1226,Deepak Gupta,Corporate,South,Karnataka,Bengaluru,India,Office Supplies,Pen,Pen Model 465,6999,3,0.15,1621.44,77,1442.57,2333,290,Adani Logistics
+ORD00227,23-05-2023,29-05-2023,2023,CUST1227,Keerthana S,Consumer,South,Tamil Nadu,Chennai,India,Technology,Printer,Printer Model 993,9100,10,0.1,1383.4,23,680.66,910,56,Mahindra Traders
+ORD00228,16-12-2023,22-12-2023,2023,CUST1228,Akash Yadav,Corporate,West,Rajasthan,Jaipur,India,Office Supplies,Paper,Paper Model 787,27666,6,0.15,5986.74,46,2921.56,4611,266,Adani Logistics
+ORD00229,12-01-2024,14-01-2024,2024,CUST1229,Karthik Raj,Home Office,North,Punjab,Ludhiana,India,Technology,Laptop,Laptop Model 890,636,4,0.15,126.4,43,103.55,159,106,Adani Logistics
+ORD00230,09-03-2023,11-03-2023,2023,CUST1230,Priya Sharma,Home Office,West,Rajasthan,Jaipur,India,Furniture,Table,Table Model 181,46160,10,0.1,15307.8,79,2623.62,4616,111,Mahindra Traders
+ORD00231,17-08-2024,20-08-2024,2024,CUST1231,Sneha Nair,Corporate,East,Odisha,Bhubaneswar,India,Office Supplies,Binder,Binder Model 659,8138,2,0.1,1019.06,7,3152.57,4069,104,Mahindra Traders
+ORD00232,31-08-2023,06-09-2023,2023,CUST1232,Deepak Gupta,Home Office,South,Karnataka,Bengaluru,India,Technology,Printer,Printer Model 201,13928,8,0.2,2497.84,30,1080.57,1741,143,Tata Suppliers
+ORD00233,13-05-2023,18-05-2023,2023,CUST1233,Neha Agarwal,Home Office,South,Tamil Nadu,Chennai,India,Technology,Monitor,Monitor Model 996,7314,6,0,2947.2,6,727.8,1219,185,Tata Suppliers
+ORD00234,06-08-2023,09-08-2023,2023,CUST1234,Meera Krishnan,Consumer,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 158,27360,8,0.2,2195.92,58,2461.51,3420,43,Tata Suppliers
+ORD00235,03-10-2024,08-10-2024,2024,CUST1235,Meera Krishnan,Home Office,West,Gujarat,Ahmedabad,India,Office Supplies,Binder,Binder Model 769,19475,5,0,8638.4,45,2167.32,3895,48,ITC Supply
+ORD00236,20-09-2024,26-09-2024,2024,CUST1236,Sanjay Rao,Consumer,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 466,5472,3,0.05,1464.48,51,1244.64,1824,236,Mahindra Traders
+ORD00237,05-07-2024,11-07-2024,2024,CUST1237,Akash Yadav,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Pen,Pen Model 881,11904,6,0.2,2208.72,9,1219.08,1984,178,Adani Logistics
+ORD00238,24-12-2024,28-12-2024,2024,CUST1238,Suresh Babu,Consumer,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 771,5900,5,0.1,2051.65,51,651.67,1180,97,Reliance Distributors
+ORD00239,15-02-2024,16-02-2024,2024,CUST1239,Rahul Verma,Corporate,South,Karnataka,Bengaluru,India,Technology,Laptop,Laptop Model 720,37899,9,0.05,9898.74,51,2900.59,4211,96,Reliance Distributors
+ORD00240,15-06-2023,20-06-2023,2023,CUST1240,Lakshmi Devi,Corporate,South,Kerala,Kochi,India,Office Supplies,Paper,Paper Model 571,33496,8,0.05,8071.52,32,2968.71,4187,185,Tata Suppliers
+ORD00241,21-04-2023,27-04-2023,2023,CUST1241,Raja Sekaran,Corporate,South,Tamil Nadu,Chennai,India,Office Supplies,Binder,Binder Model 772,3546,6,0.05,918.24,85,408.41,591,134,Tata Suppliers
+ORD00242,15-09-2023,16-09-2023,2023,CUST1242,Raja Sekaran,Home Office,West,Rajasthan,Jaipur,India,Furniture,Chair,Chair Model 385,12008,4,0.05,3824.4,43,1895.8,3002,275,Reliance Distributors
+ORD00243,06-08-2024,08-08-2024,2024,CUST1243,Swathi R,Consumer,East,Odisha,Bhubaneswar,India,Technology,Printer,Printer Model 265,4120,5,0.1,1437.95,45,454.01,824,251,Reliance Distributors
+ORD00244,16-08-2024,17-08-2024,2024,CUST1244,Shreya Das,Corporate,North,Uttar Pradesh,Lucknow,India,Furniture,Chair,Chair Model 801,12744,8,0.15,1070.64,8,1220.22,1593,77,Reliance Distributors
+ORD00245,10-01-2023,12-01-2023,2023,CUST1245,Karthik Raj,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 524,5394,6,0.05,1531.26,48,598.84,899,223,Mahindra Traders
+ORD00246,03-02-2023,08-02-2023,2023,CUST1246,Ananya Iyer,Home Office,North,Delhi,New Delhi,India,Office Supplies,Pen,Pen Model 540,410,1,0.05,112.26,18,277.24,410,30,Tata Suppliers
+ORD00247,21-11-2023,22-11-2023,2023,CUST1247,Nikhil Joshi,Home Office,South,Tamil Nadu,Chennai,India,Furniture,Chair,Chair Model 251,32490,9,0,13166.73,86,2147.03,3610,299,Adani Logistics
+ORD00248,26-04-2023,01-05-2023,2023,CUST1248,Rahul Verma,Consumer,West,Gujarat,Ahmedabad,India,Technology,Printer,Printer Model 370,7736,4,0,2953.28,39,1195.68,1934,55,Tata Suppliers
+ORD00249,21-07-2023,26-07-2023,2023,CUST1249,Harini Balaji,Corporate,South,Telangana,Hyderabad,India,Office Supplies,Binder,Binder Model 657,930,5,0.1,165.5,41,134.3,186,300,Mahindra Traders
+ORD00250,07-12-2024,11-12-2024,2024,CUST1250,Karthik Raj,Corporate,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 519,31797,9,0.15,1804.95,23,2802.5,3533,22,Reliance Distributors
+ORD00251,14-09-2024,19-09-2024,2024,CUST1251,Aditya Kumar,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 902,14504,7,0.05,3395.98,9,1483.26,2072,45,ITC Supply
+ORD00252,11-12-2024,16-12-2024,2024,CUST1252,Aarav Sharma,Corporate,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 864,24165,9,0.15,1379.7,87,2128.95,2685,260,Adani Logistics
+ORD00253,17-12-2023,22-12-2023,2023,CUST1253,Deepak Gupta,Corporate,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 727,21063,7,0,7406.14,89,1950.98,3009,184,Tata Suppliers
+ORD00254,05-10-2024,10-10-2024,2024,CUST1254,Rohit Jain,Consumer,North,Uttar Pradesh,Lucknow,India,Furniture,Table,Table Model 245,23584,8,0.2,2420.4,13,2055.85,2948,290,Mahindra Traders
+ORD00255,20-06-2024,22-06-2024,2024,CUST1255,Sanjay Rao,Home Office,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 988,4044,3,0.15,1033.53,10,801.29,1348,184,ITC Supply
+ORD00256,06-01-2024,10-01-2024,2024,CUST1256,Nikhil Joshi,Home Office,South,Telangana,Hyderabad,India,Technology,Monitor,Monitor Model 633,15865,5,0,5692.45,43,2034.51,3173,251,Tata Suppliers
+ORD00257,09-10-2023,13-10-2023,2023,CUST1257,Sai Kiran,Consumer,West,Gujarat,Ahmedabad,India,Office Supplies,Paper,Paper Model 796,32144,8,0.05,6759.84,21,2972.12,4018,207,ITC Supply
+ORD00258,17-06-2024,23-06-2024,2024,CUST1258,Priya Sharma,Consumer,North,Uttar Pradesh,Lucknow,India,Furniture,Bookcase,Bookcase Model 684,19332,6,0.1,6680.34,38,1786.41,3222,49,Adani Logistics
+ORD00259,02-07-2023,05-07-2023,2023,CUST1259,Suresh Babu,Consumer,West,Gujarat,Ahmedabad,India,Furniture,Chair,Chair Model 306,18440,5,0,5876.95,21,2512.61,3688,236,Mahindra Traders
+ORD00260,24-09-2024,27-09-2024,2024,CUST1260,Divya Menon,Corporate,South,Telangana,Hyderabad,India,Furniture,Table,Table Model 460,2518,1,0.15,484.11,35,1656.19,2518,217,Adani Logistics
+ORD00261,13-05-2023,18-05-2023,2023,CUST1261,Aditya Kumar,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Binder,Binder Model 488,3528,2,0.1,476.12,55,1349.54,1764,289,ITC Supply
+ORD00262,23-05-2024,29-05-2024,2024,CUST1262,Suresh Babu,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Pen,Pen Model 166,31088,8,0.15,6101.84,61,2540.37,3886,223,ITC Supply
+ORD00263,19-05-2023,24-05-2023,2023,CUST1263,Pooja Singh,Home Office,South,Karnataka,Bengaluru,India,Office Supplies,Paper,Paper Model 438,31759,7,0,6941.13,54,3545.41,4537,255,Tata Suppliers
+ORD00264,03-04-2023,05-04-2023,2023,CUST1264,Sanjay Rao,Home Office,South,Tamil Nadu,Chennai,India,Technology,Printer,Printer Model 304,3732,2,0.2,509.16,47,1238.22,1866,267,Tata Suppliers
+ORD00265,17-07-2024,23-07-2024,2024,CUST1265,Deepak Gupta,Consumer,East,Assam,Guwahati,India,Technology,Printer,Printer Model 290,1292,1,0.1,344.21,73,818.59,1292,160,Adani Logistics
+ORD00266,26-09-2023,27-09-2023,2023,CUST1266,Raja Sekaran,Home Office,West,Gujarat,Ahmedabad,India,Furniture,Bookcase,Bookcase Model 152,23260,5,0.15,4006.65,44,3152.87,4652,175,Reliance Distributors
+ORD00267,25-01-2024,29-01-2024,2024,CUST1267,Shreya Das,Corporate,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 772,1799,1,0.2,156.4,67,1282.8,1799,92,Mahindra Traders
+ORD00268,16-12-2023,18-12-2023,2023,CUST1268,Raja Sekaran,Home Office,East,Assam,Guwahati,India,Office Supplies,Pen,Pen Model 943,2674,1,0,846.94,46,1827.06,2674,38,Mahindra Traders
+ORD00269,13-08-2023,17-08-2023,2023,CUST1269,Vignesh Kumar,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Paper,Paper Model 999,38240,10,0.15,2534.7,31,2996.93,3824,49,Reliance Distributors
+ORD00270,20-03-2024,26-03-2024,2024,CUST1270,Kavya R,Home Office,South,Tamil Nadu,Chennai,India,Technology,Laptop,Laptop Model 854,41720,10,0.05,16540,26,2309.4,4172,275,Reliance Distributors
+ORD00271,21-11-2024,27-11-2024,2024,CUST1271,Arjun Reddy,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Paper,Paper Model 903,5382,3,0.2,1209.78,16,1031.94,1794,45,ITC Supply
+ORD00272,18-08-2023,24-08-2023,2023,CUST1272,Sai Kiran,Consumer,West,Rajasthan,Jaipur,India,Furniture,Bookcase,Bookcase Model 263,9576,7,0,2097.48,62,1068.36,1368,170,Reliance Distributors
+ORD00273,19-08-2024,22-08-2024,2024,CUST1273,Nikhil Joshi,Consumer,North,Punjab,Ludhiana,India,Furniture,Table,Table Model 500,16713,9,0.05,2734.47,9,1460.32,1857,187,ITC Supply
+ORD00274,09-06-2023,15-06-2023,2023,CUST1274,Rahul Verma,Corporate,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 441,3446,2,0.15,905.5,56,1011.8,1723,78,Tata Suppliers
+ORD00275,27-12-2023,28-12-2023,2023,CUST1275,Manoj Kumar,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Pen,Pen Model 195,4962,2,0.15,1056.96,30,1580.37,2481,268,Mahindra Traders
+ORD00276,07-11-2023,12-11-2023,2023,CUST1276,Vivaan Patel,Home Office,South,Karnataka,Bengaluru,India,Technology,Printer,Printer Model 713,9805,5,0.2,184.8,17,1531.84,1961,20,Mahindra Traders
+ORD00277,19-07-2023,21-07-2023,2023,CUST1277,Kavya R,Corporate,West,Maharashtra,Mumbai,India,Technology,Printer,Printer Model 283,22698,6,0.15,5405.52,19,2314.63,3783,172,Tata Suppliers
+ORD00278,26-07-2024,30-07-2024,2024,CUST1278,Deepak Gupta,Home Office,South,Tamil Nadu,Chennai,India,Technology,Monitor,Monitor Model 199,27153,7,0,11989.88,57,2166.16,3879,87,ITC Supply
+ORD00279,14-08-2024,17-08-2024,2024,CUST1279,Aditya Kumar,Corporate,South,Kerala,Kochi,India,Office Supplies,Pen,Pen Model 105,9132,3,0.05,2139.75,87,2178.55,3044,265,Mahindra Traders
+ORD00280,02-06-2023,05-06-2023,2023,CUST1280,Arjun Reddy,Corporate,South,Tamil Nadu,Chennai,India,Technology,Laptop,Laptop Model 579,12492,3,0.1,2698.32,36,2848.16,4164,103,Adani Logistics
+ORD00281,02-07-2024,03-07-2024,2024,CUST1281,Shreya Das,Consumer,West,Gujarat,Ahmedabad,India,Technology,Printer,Printer Model 844,32536,7,0.05,4977.7,73,3704.5,4648,276,Reliance Distributors
+ORD00282,08-04-2023,09-04-2023,2023,CUST1282,Rahul Verma,Consumer,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 961,18270,10,0.05,6910.4,38,1044.61,1827,35,ITC Supply
+ORD00283,07-02-2024,12-02-2024,2024,CUST1283,Divya Menon,Home Office,South,Kerala,Kochi,India,Office Supplies,Paper,Paper Model 827,9678,2,0.05,3305.24,12,2944.43,4839,145,Tata Suppliers
+ORD00284,05-09-2024,08-09-2024,2024,CUST1284,Manoj Kumar,Corporate,South,Tamil Nadu,Chennai,India,Technology,Monitor,Monitor Model 706,7761,3,0.1,2553.36,28,1477.18,2587,25,Mahindra Traders
+ORD00285,26-02-2024,01-03-2024,2024,CUST1285,Manoj Kumar,Consumer,South,Tamil Nadu,Chennai,India,Technology,Laptop,Laptop Model 308,13221,9,0.05,2651.94,30,1100.89,1469,132,Mahindra Traders
+ORD00286,26-12-2024,27-12-2024,2024,CUST1286,Harini Balaji,Consumer,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 303,25227,9,0,6612.84,85,2068.24,2803,45,Mahindra Traders
+ORD00287,26-02-2024,27-02-2024,2024,CUST1287,Shreya Das,Corporate,West,Rajasthan,Jaipur,India,Technology,Printer,Printer Model 154,9640,8,0.1,1377.52,64,912.31,1205,104,ITC Supply
+ORD00288,31-01-2024,06-02-2024,2024,CUST1288,Swathi R,Consumer,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 345,1314,2,0.1,213.3,30,484.65,657,254,Adani Logistics
+ORD00289,31-08-2023,04-09-2023,2023,CUST1289,Ananya Iyer,Home Office,South,Telangana,Hyderabad,India,Office Supplies,Binder,Binder Model 788,19224,6,0.15,1210.56,48,2521.64,3204,238,Mahindra Traders
+ORD00290,05-01-2023,08-01-2023,2023,CUST1290,Vignesh Kumar,Consumer,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 443,28232,8,0.15,4201.2,74,2474.5,3529,129,Tata Suppliers
+ORD00291,29-12-2023,02-01-2024,2023,CUST1291,Abhishek Mishra,Corporate,East,Assam,Guwahati,India,Technology,Printer,Printer Model 517,4920,6,0.1,1491.66,89,489.39,820,295,Reliance Distributors
+ORD00292,04-05-2023,06-05-2023,2023,CUST1292,Ananya Iyer,Corporate,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 935,14125,5,0.05,4370.35,83,1809.68,2825,221,Mahindra Traders
+ORD00293,26-05-2024,29-05-2024,2024,CUST1293,Ananya Iyer,Corporate,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 678,102,1,0.05,38.15,89,58.75,102,148,Mahindra Traders
+ORD00294,23-11-2024,24-11-2024,2024,CUST1294,Vignesh Kumar,Corporate,East,West Bengal,Kolkata,India,Furniture,Bookcase,Bookcase Model 402,5047,7,0.2,474.39,51,509.03,721,176,ITC Supply
+ORD00295,18-06-2024,24-06-2024,2024,CUST1295,Vignesh Kumar,Corporate,South,Telangana,Hyderabad,India,Furniture,Table,Table Model 869,566,1,0,175.83,70,390.17,566,97,Adani Logistics
+ORD00296,14-04-2024,15-04-2024,2024,CUST1296,Rohit Jain,Home Office,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 147,6415,5,0.05,1623.7,55,894.11,1283,108,Adani Logistics
+ORD00297,18-10-2024,21-10-2024,2024,CUST1297,Keerthana S,Home Office,North,Punjab,Ludhiana,India,Office Supplies,Paper,Paper Model 754,32130,7,0.15,4427.5,53,3269,4590,272,Mahindra Traders
+ORD00298,08-12-2024,11-12-2024,2024,CUST1298,Priya Sharma,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 926,4461,1,0.1,564.63,12,3450.27,4461,103,Mahindra Traders
+ORD00299,17-06-2024,19-06-2024,2024,CUST1299,Abhishek Mishra,Corporate,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 302,21350,7,0.05,7086.31,84,1885.17,3050,184,ITC Supply
+ORD00300,17-02-2024,18-02-2024,2024,CUST1300,Shreya Das,Home Office,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 561,27797,7,0.1,8947.4,69,2295.7,3971,229,Reliance Distributors
+ORD00301,19-11-2023,20-11-2023,2023,CUST1301,Lakshmi Devi,Home Office,North,Punjab,Ludhiana,India,Office Supplies,Binder,Binder Model 505,31248,9,0,11910.24,72,2148.64,3472,167,Tata Suppliers
+ORD00302,23-09-2023,27-09-2023,2023,CUST1302,Lakshmi Devi,Corporate,South,Tamil Nadu,Chennai,India,Office Supplies,Pen,Pen Model 349,26030,10,0.1,5192,13,1823.5,2603,300,Tata Suppliers
+ORD00303,09-09-2024,15-09-2024,2024,CUST1303,Karthik Raj,Home Office,East,Assam,Guwahati,India,Technology,Printer,Printer Model 959,4635,3,0,1188.18,48,1148.94,1545,224,ITC Supply
+ORD00304,26-05-2024,29-05-2024,2024,CUST1304,Abhishek Mishra,Corporate,West,Maharashtra,Mumbai,India,Office Supplies,Paper,Paper Model 236,39321,9,0.15,5215.86,32,3134.11,4369,193,Tata Suppliers
+ORD00305,28-02-2024,29-02-2024,2024,CUST1305,Keerthana S,Home Office,South,Karnataka,Bengaluru,India,Office Supplies,Binder,Binder Model 907,12964,7,0.2,879.13,21,1356.01,1852,97,Reliance Distributors
+ORD00306,18-11-2024,20-11-2024,2024,CUST1306,Abhishek Mishra,Home Office,South,Kerala,Kochi,India,Technology,Monitor,Monitor Model 493,17185,7,0.05,4092.34,83,1747.63,2455,160,Tata Suppliers
+ORD00307,09-09-2024,14-09-2024,2024,CUST1307,Abhishek Mishra,Consumer,West,Rajasthan,Jaipur,India,Technology,Laptop,Laptop Model 468,4340,5,0.1,785.55,7,624.09,868,284,Tata Suppliers
+ORD00308,05-05-2023,08-05-2023,2023,CUST1308,Vignesh Kumar,Home Office,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 668,11280,3,0.1,2528.49,81,2541.17,3760,36,Tata Suppliers
+ORD00309,04-07-2024,08-07-2024,2024,CUST1309,Priya Sharma,Home Office,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 912,16866,6,0.2,1819.62,31,1945.53,2811,164,Adani Logistics
+ORD00310,03-07-2024,09-07-2024,2024,CUST1310,Harini Balaji,Corporate,South,Karnataka,Bengaluru,India,Technology,Laptop,Laptop Model 841,20655,9,0.15,4263.12,16,1477.07,2295,77,ITC Supply
+ORD00311,04-02-2024,09-02-2024,2024,CUST1311,Sneha Nair,Consumer,East,West Bengal,Kolkata,India,Office Supplies,Paper,Paper Model 757,26724,6,0.1,4958.46,66,3182.19,4454,88,ITC Supply
+ORD00312,09-04-2024,15-04-2024,2024,CUST1312,Manoj Kumar,Consumer,East,West Bengal,Kolkata,India,Furniture,Bookcase,Bookcase Model 178,4064,4,0.15,1051,71,600.85,1016,28,ITC Supply
+ORD00313,22-07-2023,28-07-2023,2023,CUST1313,Aditya Kumar,Corporate,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 310,1435,5,0.2,100.6,58,209.48,287,26,Adani Logistics
+ORD00314,28-09-2023,03-10-2023,2023,CUST1314,Kavya R,Consumer,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 807,18024,6,0.1,5834.1,50,1731.25,3004,235,Tata Suppliers
+ORD00315,31-12-2024,04-01-2025,2024,CUST1315,Shreya Das,Corporate,South,Kerala,Kochi,India,Technology,Laptop,Laptop Model 913,23760,6,0.15,1243.98,45,3158.67,3960,263,Reliance Distributors
+ORD00316,22-04-2023,27-04-2023,2023,CUST1316,Priya Sharma,Home Office,West,Rajasthan,Jaipur,India,Furniture,Chair,Chair Model 384,12978,6,0,2798.34,71,1696.61,2163,243,ITC Supply
+ORD00317,14-06-2023,18-06-2023,2023,CUST1317,Aarav Sharma,Consumer,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 574,19580,4,0.2,3040.24,10,3155.94,4895,124,Adani Logistics
+ORD00318,01-07-2024,02-07-2024,2024,CUST1318,Priya Sharma,Corporate,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 491,32552,8,0.05,12961.12,18,2245.41,4069,70,Adani Logistics
+ORD00319,10-05-2023,12-05-2023,2023,CUST1319,Vivaan Patel,Corporate,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 273,5224,8,0.2,359.84,56,477.42,653,142,ITC Supply
+ORD00320,09-12-2024,13-12-2024,2024,CUST1320,Abhishek Mishra,Consumer,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 105,4291,7,0.05,858.2,55,459.75,613,134,Tata Suppliers
+ORD00321,06-09-2023,07-09-2023,2023,CUST1321,Ananya Iyer,Home Office,North,Delhi,New Delhi,India,Technology,Printer,Printer Model 145,3393,1,0.05,558.85,76,2664.5,3393,231,Mahindra Traders
+ORD00322,12-02-2023,14-02-2023,2023,CUST1322,Rahul Verma,Home Office,East,West Bengal,Kolkata,India,Furniture,Chair,Chair Model 624,3262,2,0.05,646.64,46,1226.13,1631,74,Adani Logistics
+ORD00323,26-01-2024,27-01-2024,2024,CUST1323,Divya Menon,Home Office,South,Tamil Nadu,Chennai,India,Office Supplies,Pen,Pen Model 179,8432,2,0.2,801.36,11,2972.12,4216,299,Adani Logistics
+ORD00324,25-10-2023,29-10-2023,2023,CUST1324,Keerthana S,Corporate,East,Assam,Guwahati,India,Technology,Monitor,Monitor Model 313,1188,4,0.05,228.8,20,224.95,297,126,ITC Supply
+ORD00325,24-04-2023,29-04-2023,2023,CUST1325,Sneha Nair,Corporate,South,Kerala,Kochi,India,Office Supplies,Paper,Paper Model 416,4114,2,0,1758.96,42,1177.52,2057,95,ITC Supply
+ORD00326,12-09-2024,17-09-2024,2024,CUST1326,Manoj Kumar,Home Office,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 319,912,2,0,254.7,71,328.65,456,217,ITC Supply
+ORD00327,22-02-2024,27-02-2024,2024,CUST1327,Raja Sekaran,Consumer,North,Uttar Pradesh,Lucknow,India,Technology,Laptop,Laptop Model 284,350,1,0.05,65.63,84,266.87,350,170,ITC Supply
+ORD00328,19-09-2023,25-09-2023,2023,CUST1328,Vignesh Kumar,Consumer,North,Punjab,Ludhiana,India,Furniture,Table,Table Model 769,2757,1,0.15,761.82,88,1581.63,2757,262,Adani Logistics
+ORD00329,30-11-2023,03-12-2023,2023,CUST1329,Lakshmi Devi,Corporate,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 101,2891,1,0.05,763.24,35,1983.21,2891,195,Tata Suppliers
+ORD00330,28-06-2024,30-06-2024,2024,CUST1330,Vignesh Kumar,Consumer,South,Tamil Nadu,Chennai,India,Furniture,Table,Table Model 316,18642,6,0,5884.92,72,2126.18,3107,47,Adani Logistics
+ORD00331,08-09-2023,12-09-2023,2023,CUST1331,Rahul Verma,Home Office,South,Karnataka,Bengaluru,India,Technology,Printer,Printer Model 548,2231,1,0.15,270.06,83,1626.29,2231,105,Mahindra Traders
+ORD00332,05-02-2024,07-02-2024,2024,CUST1332,Harini Balaji,Home Office,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 705,8900,4,0.2,79.4,23,1760.15,2225,55,Adani Logistics
+ORD00333,11-03-2023,17-03-2023,2023,CUST1333,Aditya Kumar,Consumer,East,Odisha,Bhubaneswar,India,Technology,Laptop,Laptop Model 670,8976,2,0,3874.38,19,2550.81,4488,272,Adani Logistics
+ORD00334,05-12-2024,08-12-2024,2024,CUST1334,Rahul Verma,Corporate,East,West Bengal,Kolkata,India,Technology,Printer,Printer Model 845,16670,5,0.15,2097.2,17,2414.46,3334,255,Mahindra Traders
+ORD00335,27-11-2023,29-11-2023,2023,CUST1335,Aarav Sharma,Consumer,South,Telangana,Hyderabad,India,Technology,Laptop,Laptop Model 174,11892,4,0.1,3336.76,16,1841.51,2973,100,Adani Logistics
+ORD00336,16-11-2023,22-11-2023,2023,CUST1336,Harini Balaji,Consumer,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 683,7160,8,0,2536.4,79,577.95,895,134,Tata Suppliers
+ORD00337,08-03-2023,11-03-2023,2023,CUST1337,Keerthana S,Home Office,South,Kerala,Kochi,India,Technology,Printer,Printer Model 357,27246,6,0.05,9955.98,52,2654.62,4541,207,Reliance Distributors
+ORD00338,19-06-2024,25-06-2024,2024,CUST1338,Abhishek Mishra,Consumer,South,Karnataka,Bengaluru,India,Technology,Printer,Printer Model 880,2422,7,0.05,576.1,54,246.4,346,207,Reliance Distributors
+ORD00339,18-10-2024,22-10-2024,2024,CUST1339,Suresh Babu,Corporate,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 599,21875,7,0.05,7208.67,19,1938.94,3125,76,ITC Supply
+ORD00340,22-07-2024,28-07-2024,2024,CUST1340,Raja Sekaran,Corporate,East,West Bengal,Kolkata,India,Furniture,Chair,Chair Model 162,32224,8,0.05,5559.84,20,3131.62,4028,117,Tata Suppliers
+ORD00341,30-09-2023,03-10-2023,2023,CUST1341,Suresh Babu,Home Office,East,Odisha,Bhubaneswar,India,Technology,Printer,Printer Model 321,5121,9,0,1652.4,77,385.4,569,212,Tata Suppliers
+ORD00342,03-03-2023,07-03-2023,2023,CUST1342,Suresh Babu,Corporate,South,Karnataka,Bengaluru,India,Office Supplies,Paper,Paper Model 579,24210,9,0.05,9069.66,63,1547.76,2690,87,Tata Suppliers
+ORD00343,08-04-2024,14-04-2024,2024,CUST1343,Suresh Babu,Corporate,West,Maharashtra,Mumbai,India,Technology,Printer,Printer Model 363,3948,6,0,1082.28,28,477.62,658,280,Tata Suppliers
+ORD00344,04-10-2024,10-10-2024,2024,CUST1344,Nikhil Joshi,Home Office,South,Telangana,Hyderabad,India,Office Supplies,Pen,Pen Model 242,4500,1,0.05,930.87,88,3344.13,4500,206,Reliance Distributors
+ORD00345,01-02-2024,04-02-2024,2024,CUST1345,Abhishek Mishra,Home Office,South,Kerala,Kochi,India,Office Supplies,Pen,Pen Model 183,5874,3,0,1765.2,62,1369.6,1958,131,Tata Suppliers
+ORD00346,20-10-2023,24-10-2023,2023,CUST1346,Karthik Raj,Consumer,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 795,29268,6,0.05,4833.3,26,3828.55,4878,26,Mahindra Traders
+ORD00347,10-05-2024,12-05-2024,2024,CUST1347,Priya Sharma,Corporate,South,Telangana,Hyderabad,India,Furniture,Bookcase,Bookcase Model 306,14704,8,0.2,345.52,44,1427.21,1838,253,Mahindra Traders
+ORD00348,20-08-2023,23-08-2023,2023,CUST1348,Rahul Verma,Consumer,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 947,2016,7,0.2,315.56,5,185.32,288,99,Adani Logistics
+ORD00349,22-09-2023,27-09-2023,2023,CUST1349,Arjun Reddy,Corporate,East,Odisha,Bhubaneswar,India,Office Supplies,Pen,Pen Model 526,8589,7,0.1,2489.9,24,748.6,1227,90,Adani Logistics
+ORD00350,19-05-2023,24-05-2023,2023,CUST1350,Vignesh Kumar,Corporate,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 359,10304,7,0,3128.3,77,1025.1,1472,134,Reliance Distributors
+ORD00351,03-10-2023,09-10-2023,2023,CUST1351,Manoj Kumar,Consumer,East,West Bengal,Kolkata,India,Technology,Printer,Printer Model 991,486,2,0.1,161.54,22,137.93,243,235,Tata Suppliers
+ORD00352,26-06-2024,30-06-2024,2024,CUST1352,Suresh Babu,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 643,43884,9,0,14851.71,80,3225.81,4876,209,Adani Logistics
+ORD00353,25-07-2024,27-07-2024,2024,CUST1353,Sneha Nair,Home Office,East,West Bengal,Kolkata,India,Office Supplies,Binder,Binder Model 342,32290,10,0.05,5978.1,57,2469.74,3229,207,Adani Logistics
+ORD00354,21-09-2023,27-09-2023,2023,CUST1354,Aarav Sharma,Corporate,South,Tamil Nadu,Chennai,India,Office Supplies,Pen,Pen Model 586,14712,8,0.1,2208.24,48,1379.07,1839,112,ITC Supply
+ORD00355,29-11-2023,01-12-2023,2023,CUST1355,Ananya Iyer,Corporate,East,West Bengal,Kolkata,India,Technology,Monitor,Monitor Model 852,23695,7,0.05,4146.1,51,2623.45,3385,214,ITC Supply
+ORD00356,09-01-2024,11-01-2024,2024,CUST1356,Karthik Raj,Home Office,North,Uttar Pradesh,Lucknow,India,Technology,Printer,Printer Model 530,784,2,0.2,169.34,87,228.93,392,59,ITC Supply
+ORD00357,19-08-2024,23-08-2024,2024,CUST1357,Suresh Babu,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 118,22086,6,0.1,6761.52,25,2185.98,3681,221,Mahindra Traders
+ORD00358,30-04-2023,06-05-2023,2023,CUST1358,Swathi R,Corporate,West,Rajasthan,Jaipur,India,Office Supplies,Paper,Paper Model 764,19804,4,0.05,6093.6,37,3180.05,4951,103,Tata Suppliers
+ORD00359,07-09-2024,11-09-2024,2024,CUST1359,Aditya Kumar,Consumer,South,Karnataka,Bengaluru,India,Technology,Monitor,Monitor Model 957,31293,9,0.2,5691.87,27,2149.17,3477,63,Reliance Distributors
+ORD00360,05-01-2023,07-01-2023,2023,CUST1360,Shreya Das,Consumer,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 303,1032,4,0,434.92,24,149.27,258,260,Mahindra Traders
+ORD00361,17-03-2023,22-03-2023,2023,CUST1361,Aditya Kumar,Corporate,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 266,17736,8,0.1,5963.84,38,1249.82,2217,66,Tata Suppliers
+ORD00362,01-10-2024,02-10-2024,2024,CUST1362,Divya Menon,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 924,25260,6,0.15,6687.18,11,2463.97,4210,98,ITC Supply
+ORD00363,30-01-2024,02-02-2024,2024,CUST1363,Priya Sharma,Home Office,South,Karnataka,Bengaluru,India,Furniture,Chair,Chair Model 563,6968,8,0,2114.4,64,606.7,871,138,Adani Logistics
+ORD00364,06-04-2023,12-04-2023,2023,CUST1364,Sanjay Rao,Home Office,East,Assam,Guwahati,India,Furniture,Chair,Chair Model 568,1678,1,0.2,328.98,35,1013.42,1678,152,Adani Logistics
+ORD00365,09-03-2024,14-03-2024,2024,CUST1365,Priya Sharma,Home Office,West,Rajasthan,Jaipur,India,Technology,Laptop,Laptop Model 835,1168,4,0.05,317.48,63,198.03,292,118,Reliance Distributors
+ORD00366,29-07-2023,01-08-2023,2023,CUST1366,Akash Yadav,Home Office,West,Maharashtra,Mumbai,India,Technology,Laptop,Laptop Model 818,15568,4,0.1,2230.16,44,2945.26,3892,223,Mahindra Traders
+ORD00367,19-06-2024,25-06-2024,2024,CUST1367,Ananya Iyer,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 279,5008,2,0,1846.66,85,1580.67,2504,145,ITC Supply
+ORD00368,31-01-2023,02-02-2023,2023,CUST1368,Manoj Kumar,Consumer,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 208,27648,9,0.15,4636.17,89,2096.07,3072,55,Adani Logistics
+ORD00369,01-02-2024,05-02-2024,2024,CUST1369,Suresh Babu,Home Office,East,West Bengal,Kolkata,India,Furniture,Bookcase,Bookcase Model 528,17253,9,0.15,3803.22,52,1206.87,1917,293,ITC Supply
+ORD00370,19-11-2023,24-11-2023,2023,CUST1370,Shreya Das,Home Office,South,Tamil Nadu,Chennai,India,Furniture,Chair,Chair Model 232,5945,5,0,1399.75,13,909.05,1189,258,Adani Logistics
+ORD00371,05-02-2023,08-02-2023,2023,CUST1371,Akash Yadav,Home Office,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 152,2572,2,0.15,323.14,9,931.53,1286,167,Reliance Distributors
+ORD00372,26-06-2024,27-06-2024,2024,CUST1372,Karthik Raj,Corporate,South,Kerala,Kochi,India,Technology,Monitor,Monitor Model 824,34280,10,0.05,11658.2,48,2090.78,3428,205,Tata Suppliers
+ORD00373,06-09-2023,10-09-2023,2023,CUST1373,Divya Menon,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 876,27804,7,0.05,4473.7,64,3134.3,3972,221,Reliance Distributors
+ORD00374,13-05-2023,19-05-2023,2023,CUST1374,Suresh Babu,Home Office,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 252,12780,6,0,4935.78,83,1307.37,2130,184,Mahindra Traders
+ORD00375,26-06-2023,02-07-2023,2023,CUST1375,Rohit Jain,Corporate,West,Rajasthan,Jaipur,India,Technology,Monitor,Monitor Model 110,3927,7,0,919.87,37,429.59,561,40,Tata Suppliers
+ORD00376,01-12-2023,03-12-2023,2023,CUST1376,Arjun Reddy,Consumer,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 112,17940,6,0.15,3685.56,57,1927.24,2990,145,Tata Suppliers
+ORD00377,25-06-2023,27-06-2023,2023,CUST1377,Sai Kiran,Consumer,West,Gujarat,Ahmedabad,India,Office Supplies,Pen,Pen Model 652,19308,6,0.15,1739.16,48,2445.44,3218,48,Mahindra Traders
+ORD00378,26-06-2023,29-06-2023,2023,CUST1378,Suresh Babu,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Pen,Pen Model 901,4587,1,0.15,291.08,32,3607.87,4587,194,Mahindra Traders
+ORD00379,13-09-2023,14-09-2023,2023,CUST1379,Aditya Kumar,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Chair,Chair Model 858,1960,1,0.1,651.38,11,1112.62,1960,121,ITC Supply
+ORD00380,17-10-2024,21-10-2024,2024,CUST1380,Kavya R,Corporate,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 856,39540,10,0.1,4945.8,50,3064.02,3954,74,Adani Logistics
+ORD00381,24-08-2024,29-08-2024,2024,CUST1381,Neha Agarwal,Corporate,South,Telangana,Hyderabad,India,Furniture,Table,Table Model 774,1960,1,0.05,681.87,20,1180.13,1960,37,ITC Supply
+ORD00382,28-08-2024,02-09-2024,2024,CUST1382,Sanjay Rao,Home Office,East,West Bengal,Kolkata,India,Office Supplies,Paper,Paper Model 907,5992,7,0.05,1612.31,50,582.87,856,71,Reliance Distributors
+ORD00383,10-09-2024,11-09-2024,2024,CUST1383,Priya Sharma,Corporate,North,Punjab,Ludhiana,India,Office Supplies,Binder,Binder Model 409,9651,3,0,2099.64,47,2517.12,3217,283,Reliance Distributors
+ORD00384,18-05-2024,23-05-2024,2024,CUST1384,Harini Balaji,Home Office,South,Karnataka,Bengaluru,India,Office Supplies,Binder,Binder Model 877,12996,9,0.05,5141.43,19,800.53,1444,205,Tata Suppliers
+ORD00385,26-02-2023,28-02-2023,2023,CUST1385,Harini Balaji,Corporate,South,Karnataka,Bengaluru,India,Office Supplies,Binder,Binder Model 922,14061,3,0.05,5119.32,8,2746.21,4687,237,Reliance Distributors
+ORD00386,08-09-2024,14-09-2024,2024,CUST1386,Vivaan Patel,Consumer,West,Rajasthan,Jaipur,India,Furniture,Chair,Chair Model 892,13111,7,0.2,1217.72,5,1324.44,1873,194,Reliance Distributors
+ORD00387,31-08-2023,05-09-2023,2023,CUST1387,Kavya R,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Paper,Paper Model 212,6128,4,0.05,955.92,64,1216.42,1532,130,Mahindra Traders
+ORD00388,10-03-2024,15-03-2024,2024,CUST1388,Sai Kiran,Corporate,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 571,1340,2,0.2,108,26,482,670,130,Adani Logistics
+ORD00389,11-12-2023,15-12-2023,2023,CUST1389,Pooja Singh,Consumer,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 750,21140,7,0.2,2980.81,32,1990.17,3020,248,Tata Suppliers
+ORD00390,26-05-2023,28-05-2023,2023,CUST1390,Manoj Kumar,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Binder,Binder Model 597,10563,3,0.15,950.85,65,2675.9,3521,161,ITC Supply
+ORD00391,14-06-2024,16-06-2024,2024,CUST1391,Akash Yadav,Corporate,East,Assam,Guwahati,India,Office Supplies,Paper,Paper Model 171,13374,9,0.05,5104.53,56,844.53,1486,71,Mahindra Traders
+ORD00392,11-03-2024,14-03-2024,2024,CUST1392,Vivaan Patel,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 588,11733,3,0.2,1326.09,50,2686.77,3911,280,ITC Supply
+ORD00393,18-03-2024,23-03-2024,2024,CUST1393,Karthik Raj,Corporate,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 704,1290,1,0.1,232.89,78,928.11,1290,132,Mahindra Traders
+ORD00394,10-06-2023,15-06-2023,2023,CUST1394,Keerthana S,Corporate,East,Assam,Guwahati,India,Technology,Printer,Printer Model 551,2426,2,0,717.86,68,854.07,1213,160,Mahindra Traders
+ORD00395,17-06-2024,18-06-2024,2024,CUST1395,Divya Menon,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 678,8416,8,0.1,2410,38,645.55,1052,28,Mahindra Traders
+ORD00396,02-02-2024,03-02-2024,2024,CUST1396,Rahul Verma,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Paper,Paper Model 486,14110,5,0.1,2040.85,7,2131.63,2822,58,Reliance Distributors
+ORD00397,03-08-2023,04-08-2023,2023,CUST1397,Kavya R,Home Office,North,Delhi,New Delhi,India,Furniture,Chair,Chair Model 209,2284,4,0.15,534.56,23,351.71,571,65,Reliance Distributors
+ORD00398,20-03-2024,22-03-2024,2024,CUST1398,Pooja Singh,Consumer,South,Telangana,Hyderabad,India,Office Supplies,Binder,Binder Model 186,6041,7,0.05,1514.8,12,603.45,863,102,Tata Suppliers
+ORD00399,09-02-2023,10-02-2023,2023,CUST1399,Rahul Verma,Consumer,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 723,3060,3,0.15,794.04,50,602.32,1020,121,Mahindra Traders
+ORD00400,04-05-2023,08-05-2023,2023,CUST1400,Nikhil Joshi,Home Office,West,Gujarat,Ahmedabad,India,Furniture,Table,Table Model 279,16040,8,0.15,903.84,26,1591.27,2005,112,Reliance Distributors
+ORD00401,26-12-2023,01-01-2024,2023,CUST1401,Rohit Jain,Consumer,South,Telangana,Hyderabad,India,Office Supplies,Pen,Pen Model 562,3701,1,0.2,193.46,61,2767.34,3701,31,Adani Logistics
+ORD00402,10-10-2024,13-10-2024,2024,CUST1402,Akash Yadav,Corporate,East,Assam,Guwahati,India,Technology,Laptop,Laptop Model 260,38979,9,0.05,10750.77,87,2919.92,4331,22,Adani Logistics
+ORD00403,19-12-2024,24-12-2024,2024,CUST1403,Raja Sekaran,Corporate,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 591,19072,4,0.15,2248.68,79,3490.63,4768,102,Mahindra Traders
+ORD00404,21-01-2024,23-01-2024,2024,CUST1404,Manoj Kumar,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 368,4850,1,0.1,1311.59,83,3053.41,4850,192,Reliance Distributors
+ORD00405,10-08-2024,15-08-2024,2024,CUST1405,Rohit Jain,Corporate,East,Odisha,Bhubaneswar,India,Technology,Printer,Printer Model 401,1321,1,0.15,144.96,80,977.89,1321,279,ITC Supply
+ORD00406,22-12-2024,23-12-2024,2024,CUST1406,Vignesh Kumar,Home Office,South,Karnataka,Bengaluru,India,Technology,Printer,Printer Model 928,5155,5,0.2,165.9,37,791.62,1031,61,ITC Supply
+ORD00407,26-10-2024,29-10-2024,2024,CUST1407,Sneha Nair,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Bookcase,Bookcase Model 310,9285,5,0,2659.4,70,1325.12,1857,276,Adani Logistics
+ORD00408,12-03-2024,17-03-2024,2024,CUST1408,Sanjay Rao,Consumer,West,Gujarat,Ahmedabad,India,Office Supplies,Binder,Binder Model 930,27804,7,0,12189.73,42,2230.61,3972,47,Adani Logistics
+ORD00409,07-07-2024,13-07-2024,2024,CUST1409,Suresh Babu,Consumer,North,Punjab,Ludhiana,India,Office Supplies,Binder,Binder Model 188,8908,4,0.2,2152.92,15,1243.37,2227,37,Reliance Distributors
+ORD00410,20-04-2024,25-04-2024,2024,CUST1410,Sai Kiran,Home Office,East,Assam,Guwahati,India,Technology,Monitor,Monitor Model 934,14555,5,0.2,2964.5,20,1735.9,2911,115,Adani Logistics
+ORD00411,24-09-2023,27-09-2023,2023,CUST1411,Ananya Iyer,Consumer,North,Delhi,New Delhi,India,Technology,Printer,Printer Model 727,8596,4,0.1,1047.4,43,1672.25,2149,52,ITC Supply
+ORD00412,29-06-2024,04-07-2024,2024,CUST1412,Ananya Iyer,Home Office,East,West Bengal,Kolkata,India,Technology,Printer,Printer Model 574,21296,8,0,5618.24,66,1959.72,2662,291,Reliance Distributors
+ORD00413,23-09-2023,25-09-2023,2023,CUST1413,Sneha Nair,Home Office,South,Kerala,Kochi,India,Furniture,Chair,Chair Model 476,11856,3,0.15,2095.08,17,2660.84,3952,274,Adani Logistics
+ORD00414,03-12-2023,05-12-2023,2023,CUST1414,Meera Krishnan,Corporate,West,Maharashtra,Mumbai,India,Furniture,Table,Table Model 691,2498,2,0.15,385.76,75,868.77,1249,111,Mahindra Traders
+ORD00415,30-01-2023,02-02-2023,2023,CUST1415,Nikhil Joshi,Home Office,North,Punjab,Ludhiana,India,Technology,Printer,Printer Model 471,25008,8,0.2,1388.08,66,2327.29,3126,121,Adani Logistics
+ORD00416,11-11-2024,17-11-2024,2024,CUST1416,Ananya Iyer,Home Office,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 700,10236,4,0.1,1102.32,13,2027.52,2559,235,Tata Suppliers
+ORD00417,03-08-2023,08-08-2023,2023,CUST1417,Shreya Das,Consumer,South,Karnataka,Bengaluru,India,Office Supplies,Pen,Pen Model 297,4086,2,0,1139.76,79,1473.12,2043,20,Mahindra Traders
+ORD00418,20-02-2023,24-02-2023,2023,CUST1418,Akash Yadav,Home Office,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 645,4320,1,0.15,917.97,28,2754.03,4320,26,Adani Logistics
+ORD00419,27-07-2023,29-07-2023,2023,CUST1419,Nikhil Joshi,Corporate,North,Delhi,New Delhi,India,Technology,Laptop,Laptop Model 514,24480,5,0.2,266.85,8,3863.43,4896,54,Adani Logistics
+ORD00420,15-12-2024,19-12-2024,2024,CUST1420,Vivaan Patel,Corporate,South,Kerala,Kochi,India,Office Supplies,Paper,Paper Model 738,21581,7,0,4566.8,73,2430.6,3083,217,Reliance Distributors
+ORD00421,16-01-2024,22-01-2024,2024,CUST1421,Rahul Verma,Consumer,West,Rajasthan,Jaipur,India,Technology,Printer,Printer Model 252,13134,6,0.2,2818.32,19,1281.48,2189,83,Reliance Distributors
+ORD00422,13-11-2023,18-11-2023,2023,CUST1422,Sai Kiran,Consumer,South,Telangana,Hyderabad,India,Furniture,Table,Table Model 874,2007,9,0,784.62,5,135.82,223,143,Mahindra Traders
+ORD00423,05-09-2023,06-09-2023,2023,CUST1423,Nikhil Joshi,Consumer,East,Assam,Guwahati,India,Furniture,Table,Table Model 563,24012,6,0,9470.82,69,2423.53,4002,142,Tata Suppliers
+ORD00424,10-09-2024,12-09-2024,2024,CUST1424,Raja Sekaran,Corporate,North,Delhi,New Delhi,India,Furniture,Chair,Chair Model 175,4962,6,0.1,931.8,70,589,827,248,Reliance Distributors
+ORD00425,03-12-2024,05-12-2024,2024,CUST1425,Rohit Jain,Consumer,North,Punjab,Ludhiana,India,Furniture,Table,Table Model 609,8612,2,0.15,584.82,20,3367.69,4306,100,Tata Suppliers
+ORD00426,19-10-2023,24-10-2023,2023,CUST1426,Ananya Iyer,Home Office,South,Kerala,Kochi,India,Technology,Laptop,Laptop Model 314,14994,9,0.2,2232.54,60,1084.74,1666,152,ITC Supply
+ORD00427,04-04-2023,06-04-2023,2023,CUST1427,Neha Agarwal,Home Office,East,West Bengal,Kolkata,India,Office Supplies,Paper,Paper Model 394,6489,7,0.05,1933.82,51,604.39,927,191,Reliance Distributors
+ORD00428,30-09-2023,06-10-2023,2023,CUST1428,Aditya Kumar,Consumer,West,Maharashtra,Mumbai,India,Technology,Printer,Printer Model 656,25396,7,0,10439.45,29,2136.65,3628,154,Tata Suppliers
+ORD00429,27-01-2024,01-02-2024,2024,CUST1429,Shreya Das,Home Office,East,Odisha,Bhubaneswar,India,Technology,Laptop,Laptop Model 934,37672,8,0.15,8552.08,65,2933.64,4709,84,Reliance Distributors
+ORD00430,10-03-2023,14-03-2023,2023,CUST1430,Kavya R,Consumer,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 908,1614,1,0.2,6.05,14,1285.15,1614,77,Mahindra Traders
+ORD00431,03-09-2023,04-09-2023,2023,CUST1431,Sanjay Rao,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Binder,Binder Model 265,8982,6,0.1,2230.56,61,975.54,1497,244,Reliance Distributors
+ORD00432,04-01-2023,06-01-2023,2023,CUST1432,Karthik Raj,Consumer,South,Telangana,Hyderabad,India,Technology,Monitor,Monitor Model 787,6705,3,0,2824.14,33,1293.62,2235,21,Reliance Distributors
+ORD00433,13-02-2023,16-02-2023,2023,CUST1433,Harini Balaji,Home Office,South,Kerala,Kochi,India,Office Supplies,Binder,Binder Model 645,44262,9,0.15,2552.22,30,3896.72,4918,179,Adani Logistics
+ORD00434,29-07-2023,02-08-2023,2023,CUST1434,Divya Menon,Corporate,West,Maharashtra,Mumbai,India,Furniture,Table,Table Model 775,42120,9,0.2,107.46,69,3732.06,4680,85,Adani Logistics
+ORD00435,23-01-2023,27-01-2023,2023,CUST1435,Manoj Kumar,Home Office,East,Assam,Guwahati,India,Office Supplies,Paper,Paper Model 820,4456,1,0.1,1252.37,62,2758.03,4456,211,Adani Logistics
+ORD00436,02-05-2024,04-05-2024,2024,CUST1436,Kavya R,Home Office,East,Assam,Guwahati,India,Furniture,Table,Table Model 318,2520,7,0.1,577.99,62,241.43,360,203,Mahindra Traders
+ORD00437,10-04-2024,13-04-2024,2024,CUST1437,Nikhil Joshi,Corporate,South,Kerala,Kochi,India,Office Supplies,Pen,Pen Model 750,8060,4,0.15,1099,51,1438,2015,28,Mahindra Traders
+ORD00438,15-07-2024,16-07-2024,2024,CUST1438,Ananya Iyer,Corporate,West,Gujarat,Ahmedabad,India,Furniture,Chair,Chair Model 445,30786,7,0.1,4583.95,65,3303.35,4398,75,Reliance Distributors
+ORD00439,14-05-2024,15-05-2024,2024,CUST1439,Swathi R,Corporate,West,Maharashtra,Mumbai,India,Furniture,Table,Table Model 395,1174,1,0.1,161.77,58,894.83,1174,99,Mahindra Traders
+ORD00440,07-06-2023,13-06-2023,2023,CUST1440,Swathi R,Consumer,North,Uttar Pradesh,Lucknow,India,Technology,Printer,Printer Model 155,2980,5,0.05,945.05,59,377.19,596,237,Reliance Distributors
+ORD00441,05-06-2023,08-06-2023,2023,CUST1441,Aarav Sharma,Corporate,South,Tamil Nadu,Chennai,India,Furniture,Table,Table Model 499,30204,9,0.2,87.75,28,2675.05,3356,214,Tata Suppliers
+ORD00442,16-01-2024,17-01-2024,2024,CUST1442,Nikhil Joshi,Home Office,West,Gujarat,Ahmedabad,India,Technology,Monitor,Monitor Model 725,1643,1,0.05,648.83,34,912.02,1643,170,Tata Suppliers
+ORD00443,24-07-2023,30-07-2023,2023,CUST1443,Meera Krishnan,Home Office,North,Delhi,New Delhi,India,Furniture,Bookcase,Bookcase Model 759,27370,10,0,12067.5,82,1530.25,2737,66,Adani Logistics
+ORD00444,16-04-2024,17-04-2024,2024,CUST1444,Arjun Reddy,Corporate,North,Delhi,New Delhi,India,Furniture,Table,Table Model 509,21525,7,0,4830.7,35,2384.9,3075,236,Reliance Distributors
+ORD00445,08-12-2023,13-12-2023,2023,CUST1445,Manoj Kumar,Home Office,North,Punjab,Ludhiana,India,Office Supplies,Paper,Paper Model 590,41454,9,0.1,11719.26,64,2843.26,4606,26,Tata Suppliers
+ORD00446,10-11-2024,14-11-2024,2024,CUST1446,Rahul Verma,Consumer,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 366,11838,3,0.2,129.48,61,3113.64,3946,66,Mahindra Traders
+ORD00447,17-04-2024,19-04-2024,2024,CUST1447,Deepak Gupta,Corporate,South,Tamil Nadu,Chennai,India,Technology,Laptop,Laptop Model 396,9366,3,0,3201.78,49,2054.74,3122,284,Mahindra Traders
+ORD00448,31-12-2024,02-01-2025,2024,CUST1448,Karthik Raj,Corporate,South,Telangana,Hyderabad,India,Technology,Printer,Printer Model 968,22660,5,0.05,7815,47,2742.4,4532,160,Mahindra Traders
+ORD00449,28-03-2023,02-04-2023,2023,CUST1449,Swathi R,Consumer,West,Maharashtra,Mumbai,India,Furniture,Bookcase,Bookcase Model 446,25047,9,0.05,7962.21,25,1759.16,2783,233,Tata Suppliers
+ORD00450,05-01-2024,07-01-2024,2024,CUST1450,Sneha Nair,Consumer,East,West Bengal,Kolkata,India,Technology,Monitor,Monitor Model 276,17816,4,0.15,3738.2,63,2851.35,4454,104,Mahindra Traders
+ORD00451,01-03-2023,02-03-2023,2023,CUST1451,Keerthana S,Consumer,East,West Bengal,Kolkata,India,Furniture,Bookcase,Bookcase Model 654,3115,7,0.15,509.46,27,305.47,445,54,Reliance Distributors
+ORD00452,11-12-2024,13-12-2024,2024,CUST1452,Pooja Singh,Home Office,West,Rajasthan,Jaipur,India,Office Supplies,Paper,Paper Model 647,15060,10,0.2,490.7,22,1155.73,1506,267,Adani Logistics
+ORD00453,24-04-2023,26-04-2023,2023,CUST1453,Rohit Jain,Consumer,West,Gujarat,Ahmedabad,India,Furniture,Bookcase,Bookcase Model 787,18296,4,0.2,971.96,61,3416.21,4574,183,Adani Logistics
+ORD00454,10-05-2023,13-05-2023,2023,CUST1454,Vivaan Patel,Home Office,East,Odisha,Bhubaneswar,India,Office Supplies,Paper,Paper Model 805,972,1,0,288.72,70,683.28,972,95,Mahindra Traders
+ORD00455,13-03-2023,15-03-2023,2023,CUST1455,Swathi R,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Paper,Paper Model 307,6496,8,0.15,1083.6,45,554.75,812,193,Adani Logistics
+ORD00456,27-01-2023,29-01-2023,2023,CUST1456,Pooja Singh,Home Office,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 385,1089,1,0,446.58,43,642.42,1089,64,Reliance Distributors
+ORD00457,26-03-2024,31-03-2024,2024,CUST1457,Shreya Das,Home Office,West,Rajasthan,Jaipur,India,Technology,Laptop,Laptop Model 665,9820,5,0.1,3212.4,66,1125.12,1964,93,ITC Supply
+ORD00458,17-12-2024,22-12-2024,2024,CUST1458,Sanjay Rao,Home Office,East,Odisha,Bhubaneswar,India,Furniture,Chair,Chair Model 353,9612,4,0.1,1574.32,22,1769.12,2403,176,ITC Supply
+ORD00459,16-02-2023,18-02-2023,2023,CUST1459,Aarav Sharma,Home Office,South,Karnataka,Bengaluru,India,Furniture,Table,Table Model 871,34208,8,0.1,7685.92,50,2887.66,4276,225,Reliance Distributors
+ORD00460,13-06-2023,16-06-2023,2023,CUST1460,Rahul Verma,Corporate,East,Assam,Guwahati,India,Office Supplies,Binder,Binder Model 618,13191,3,0.05,3874.65,31,2885.6,4397,121,Reliance Distributors
+ORD00461,28-12-2023,02-01-2024,2023,CUST1461,Rohit Jain,Consumer,South,Kerala,Kochi,India,Furniture,Table,Table Model 423,8102,2,0.1,2072.32,60,2609.74,4051,20,Mahindra Traders
+ORD00462,18-09-2023,20-09-2023,2023,CUST1462,Nikhil Joshi,Home Office,North,Uttar Pradesh,Lucknow,India,Technology,Printer,Printer Model 547,7332,2,0.15,1399.16,29,2416.52,3666,71,Reliance Distributors
+ORD00463,26-02-2024,28-02-2024,2024,CUST1463,Rahul Verma,Home Office,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 691,22946,7,0.1,7176.89,29,1924.93,3278,102,ITC Supply
+ORD00464,23-08-2024,28-08-2024,2024,CUST1464,Swathi R,Consumer,North,Punjab,Ludhiana,India,Office Supplies,Pen,Pen Model 554,7296,8,0,1495.12,9,725.11,912,72,Adani Logistics
+ORD00465,21-03-2024,23-03-2024,2024,CUST1465,Lakshmi Devi,Consumer,West,Rajasthan,Jaipur,India,Office Supplies,Pen,Pen Model 591,19168,4,0.05,4560.92,13,3412.17,4792,100,Mahindra Traders
+ORD00466,07-06-2023,10-06-2023,2023,CUST1466,Sneha Nair,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Paper,Paper Model 369,8536,4,0.05,3235,67,1218.55,2134,113,Mahindra Traders
+ORD00467,01-01-2023,04-01-2023,2023,CUST1467,Arjun Reddy,Corporate,East,West Bengal,Kolkata,India,Furniture,Chair,Chair Model 867,7238,7,0.05,1332.94,18,791.88,1034,251,ITC Supply
+ORD00468,24-01-2023,26-01-2023,2023,CUST1468,Pooja Singh,Corporate,North,Punjab,Ludhiana,India,Technology,Printer,Printer Model 174,24311,7,0.2,3692.5,84,2250.9,3473,282,ITC Supply
+ORD00469,24-11-2024,28-11-2024,2024,CUST1469,Vignesh Kumar,Home Office,East,Odisha,Bhubaneswar,India,Technology,Printer,Printer Model 350,12803,7,0,3969.84,76,1261.88,1829,280,Tata Suppliers
+ORD00470,23-03-2023,29-03-2023,2023,CUST1470,Suresh Babu,Consumer,West,Gujarat,Ahmedabad,India,Technology,Laptop,Laptop Model 995,20495,5,0.05,3878.25,43,3118.4,4099,242,Reliance Distributors
+ORD00471,27-05-2023,02-06-2023,2023,CUST1471,Meera Krishnan,Home Office,East,Assam,Guwahati,India,Technology,Monitor,Monitor Model 711,1395,5,0.15,264.5,34,184.25,279,192,Tata Suppliers
+ORD00472,12-05-2023,13-05-2023,2023,CUST1472,Kavya R,Home Office,South,Kerala,Kochi,India,Technology,Printer,Printer Model 169,22855,5,0.05,8481.65,43,2646.12,4571,32,Mahindra Traders
+ORD00473,22-12-2024,24-12-2024,2024,CUST1473,Pooja Singh,Corporate,East,Assam,Guwahati,India,Office Supplies,Pen,Pen Model 554,7714,7,0,2463.16,54,750.12,1102,74,ITC Supply
+ORD00474,22-08-2023,26-08-2023,2023,CUST1474,Sneha Nair,Consumer,North,Punjab,Ludhiana,India,Furniture,Bookcase,Bookcase Model 700,23240,7,0.2,1421.63,10,2452.91,3320,249,Mahindra Traders
+ORD00475,27-07-2023,29-07-2023,2023,CUST1475,Raja Sekaran,Consumer,East,Odisha,Bhubaneswar,India,Office Supplies,Binder,Binder Model 379,8100,6,0.2,973.5,35,917.75,1350,82,Adani Logistics
+ORD00476,18-01-2023,22-01-2023,2023,CUST1476,Aditya Kumar,Consumer,South,Tamil Nadu,Chennai,India,Office Supplies,Binder,Binder Model 919,24505,5,0.15,2999.75,18,3565.9,4901,227,Mahindra Traders
+ORD00477,02-06-2024,08-06-2024,2024,CUST1477,Deepak Gupta,Consumer,South,Telangana,Hyderabad,India,Furniture,Chair,Chair Model 753,6608,8,0,2928.8,15,459.9,826,66,Adani Logistics
+ORD00478,19-07-2023,24-07-2023,2023,CUST1478,Sanjay Rao,Consumer,South,Karnataka,Bengaluru,India,Furniture,Table,Table Model 676,17304,8,0.2,3283.52,17,1319.96,2163,298,ITC Supply
+ORD00479,09-11-2023,14-11-2023,2023,CUST1479,Kavya R,Corporate,South,Tamil Nadu,Chennai,India,Technology,Printer,Printer Model 793,9572,2,0.05,2422.66,68,3335.37,4786,168,Reliance Distributors
+ORD00480,11-08-2024,15-08-2024,2024,CUST1480,Harini Balaji,Home Office,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 187,15300,6,0.2,2773.86,17,1577.69,2550,284,ITC Supply
+ORD00481,15-12-2023,17-12-2023,2023,CUST1481,Raja Sekaran,Home Office,West,Maharashtra,Mumbai,India,Furniture,Bookcase,Bookcase Model 380,22374,9,0.1,5739.66,81,1599.66,2486,143,ITC Supply
+ORD00482,21-04-2024,24-04-2024,2024,CUST1482,Swathi R,Home Office,North,Delhi,New Delhi,India,Office Supplies,Pen,Pen Model 279,14013,3,0,6027.24,51,2661.92,4671,152,Adani Logistics
+ORD00483,18-07-2023,22-07-2023,2023,CUST1483,Harini Balaji,Home Office,East,West Bengal,Kolkata,India,Office Supplies,Pen,Pen Model 641,5120,2,0,2067.92,58,1526.04,2560,42,Reliance Distributors
+ORD00484,06-02-2024,10-02-2024,2024,CUST1484,Karthik Raj,Home Office,East,West Bengal,Kolkata,India,Furniture,Bookcase,Bookcase Model 505,21969,9,0.15,2974.59,29,1744.34,2441,219,Reliance Distributors
+ORD00485,08-06-2024,11-06-2024,2024,CUST1485,Abhishek Mishra,Corporate,East,West Bengal,Kolkata,India,Technology,Laptop,Laptop Model 906,9348,2,0.05,1791.58,63,3544.51,4674,263,Mahindra Traders
+ORD00486,16-11-2023,21-11-2023,2023,CUST1486,Rohit Jain,Home Office,West,Maharashtra,Mumbai,India,Office Supplies,Pen,Pen Model 317,4485,3,0,1843.71,66,880.43,1495,192,Tata Suppliers
+ORD00487,21-06-2024,23-06-2024,2024,CUST1487,Priya Sharma,Corporate,North,Uttar Pradesh,Lucknow,India,Office Supplies,Paper,Paper Model 112,14784,6,0.1,4870.8,60,1405.8,2464,132,ITC Supply
+ORD00488,22-04-2024,23-04-2024,2024,CUST1488,Aarav Sharma,Home Office,East,Assam,Guwahati,India,Furniture,Chair,Chair Model 201,3942,2,0.15,933.28,64,1208.71,1971,234,Adani Logistics
+ORD00489,13-11-2024,18-11-2024,2024,CUST1489,Vivaan Patel,Consumer,South,Karnataka,Bengaluru,India,Furniture,Table,Table Model 882,2316,4,0.1,478.32,80,401.52,579,30,Adani Logistics
+ORD00490,13-12-2024,17-12-2024,2024,CUST1490,Priya Sharma,Consumer,North,Punjab,Ludhiana,India,Technology,Monitor,Monitor Model 825,18216,8,0.1,4557.76,78,1479.58,2277,191,Adani Logistics
+ORD00491,20-03-2024,22-03-2024,2024,CUST1491,Vivaan Patel,Corporate,West,Rajasthan,Jaipur,India,Office Supplies,Binder,Binder Model 360,4203,1,0.1,938.49,87,2844.21,4203,153,Mahindra Traders
+ORD00492,16-03-2024,21-03-2024,2024,CUST1492,Rahul Verma,Consumer,East,Odisha,Bhubaneswar,India,Furniture,Table,Table Model 354,27020,10,0,7507,21,1951.3,2702,127,Reliance Distributors
+ORD00493,03-08-2023,07-08-2023,2023,CUST1493,Rahul Verma,Consumer,West,Maharashtra,Mumbai,India,Furniture,Bookcase,Bookcase Model 278,32384,8,0,9458.4,62,2865.7,4048,58,Tata Suppliers
+ORD00494,08-04-2024,09-04-2024,2024,CUST1494,Sai Kiran,Consumer,South,Telangana,Hyderabad,India,Office Supplies,Binder,Binder Model 700,7245,9,0.15,1753.29,57,489.44,805,141,Mahindra Traders
+ORD00495,09-11-2023,15-11-2023,2023,CUST1495,Keerthana S,Corporate,East,Odisha,Bhubaneswar,India,Furniture,Chair,Chair Model 307,1584,9,0.1,539.64,33,98.44,176,191,Tata Suppliers
+ORD00496,28-01-2023,29-01-2023,2023,CUST1496,Rohit Jain,Corporate,South,Telangana,Hyderabad,India,Furniture,Bookcase,Bookcase Model 112,25280,8,0,7673.28,54,2200.84,3160,153,ITC Supply
+ORD00497,27-09-2024,28-09-2024,2024,CUST1497,Arjun Reddy,Corporate,East,Assam,Guwahati,India,Office Supplies,Binder,Binder Model 849,8260,2,0,2881.94,60,2689.03,4130,278,Adani Logistics
+ORD00498,26-01-2023,27-01-2023,2023,CUST1498,Aarav Sharma,Corporate,East,Odisha,Bhubaneswar,India,Technology,Monitor,Monitor Model 353,34888,7,0.1,6381.2,49,3574,4984,259,ITC Supply
+ORD00499,16-04-2023,19-04-2023,2023,CUST1499,Rohit Jain,Home Office,South,Kerala,Kochi,India,Furniture,Bookcase,Bookcase Model 129,18968,4,0.15,1358.52,60,3691.07,4742,255,Adani Logistics
+ORD00500,11-10-2024,17-10-2024,2024,CUST1500,Nikhil Joshi,Consumer,North,Uttar Pradesh,Lucknow,India,Office Supplies,Binder,Binder Model 251,22345,5,0,6117.2,46,3245.56,4469,50,Reliance Distributors
